@@ -180,7 +180,7 @@ const VIEWS = {
       {k:'resp',  t:'Responsable',  r:e=>esc(e.resp)+(e.ratt!=='FGSE'?`<span class="sub">${esc(e.ratt)}</span>`:'')},
       {k:'n',     t:'Compétences',  r:e=>`<span class="num">${e.nval || '—'}</span>`, cls:'num'},
       {k:'statut',t:'Consultation',
-        r:e=>`<span class="badge ${e.statut==='Documenté'?'b-val':'b-pro'}">${esc(e.statut)}</span>`},
+        r:e=>`<span class="badge ${e.statut==='Documenté'||e.statut==='Répondu'?'b-val':e.statut==='Hors FGSE'?'b-ded':'b-pro'}">${esc(e.statut)}</span>`},
     ],
     filters: [['orient','Toutes orientations'],['annee','Toutes années'],['ratt','Tous rattachements'],['statut','Documenté ou non']],
     id: e => e.id,

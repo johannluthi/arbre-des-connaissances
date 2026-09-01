@@ -36,12 +36,27 @@ n'engagerait pas les personnes citées.
 | `competence` | La compétence, formulée du point de vue de l'étudiant·e |
 | `enseignement`, `orientation`, `annee` | Rattachement au cursus |
 | `statut`, `valide_par` | Toujours `Validé`, et le nom de l'enseignant·e |
+| `dimension_cec`, `niveau_cec` | Dimension du Cadre européen des certifications — `Savoirs`, `Aptitudes` ou `Autonomie et responsabilité` — et niveau CEC (6 pour un Bachelor) |
 | `sappuie_sur` | Identifiants des compétences prérequises, quand l'enseignant·e les a signalées |
 
 ### `enseignements.csv`
 
 Intitulé, module, orientation, année, ECTS, responsable, rattachement, nombre de compétences
 recensées et validées, état de la consultation.
+
+## Deux axes de classement
+
+Chaque compétence porte deux classements, **attribués par le groupe thématique et non par
+l'enseignant·e** :
+
+- **`categorie`** — une typologie propre à la Faculté, qui distingue ce qu'aucun cadre européen
+  ne sépare : le terrain, l'instrumentation numérique, le savoir disciplinaire, le transversal.
+- **`dimension_cec`** — les trois dimensions du [Cadre européen des certifications](https://europass.europa.eu/en/description-eight-eqf-levels) :
+  *Savoirs*, *Aptitudes*, *Autonomie et responsabilité*. Le `niveau_cec` est 6, celui d'un Bachelor.
+  Ce second axe rend les acquis comparables avec ceux d'autres établissements européens.
+
+Le CEC décrit à l'origine des niveaux de certification plutôt que des acquis pris un à un ;
+l'utiliser comme facette de classement est une convention, assumée comme telle.
 
 ## Méthode
 

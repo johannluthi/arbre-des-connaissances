@@ -9,7 +9,9 @@
    "annee": "1re",
    "statut": "Validé",
    "par": "Nathalie Chèvre",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "EXCUCASSE-2",
@@ -20,7 +22,9 @@
    "annee": "1re",
    "statut": "Validé",
    "par": "Nathalie Chèvre",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "EXCUCASSE-3",
@@ -31,7 +35,9 @@
    "annee": "1re",
    "statut": "Validé",
    "par": "Nathalie Chèvre",
-   "sur": []
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
+   "niv": 6
   },
   {
    "id": "INTRGEOLALPI-1",
@@ -42,7 +48,9 @@
    "annee": "1re",
    "statut": "Validé",
    "par": "Jean-Daniel Champagnac",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "INTRGEOLALPI-2",
@@ -53,7 +61,9 @@
    "annee": "1re",
    "statut": "Validé",
    "par": "Jean-Daniel Champagnac",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "INTRGEOLALPI-3",
@@ -64,7 +74,9 @@
    "annee": "1re",
    "statut": "Validé",
    "par": "Jean-Daniel Champagnac",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "INTRGEOLALPI-4",
@@ -75,7 +87,9 @@
    "annee": "1re",
    "statut": "Validé",
    "par": "Jean-Daniel Champagnac",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "INTRGEOLALPI-5",
@@ -86,7 +100,9 @@
    "annee": "1re",
    "statut": "Validé",
    "par": "Jean-Daniel Champagnac",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "CAMPTERRGEOL-1",
@@ -97,7 +113,9 @@
    "annee": "1re",
    "statut": "Validé",
    "par": "Stefan Schmalholz",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "CAMPTERRGEOL-2",
@@ -108,7 +126,9 @@
    "annee": "1re",
    "statut": "Validé",
    "par": "Stefan Schmalholz",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "CAMPTERRGEOL-3",
@@ -119,7 +139,9 @@
    "annee": "1re",
    "statut": "Validé",
    "par": "Stefan Schmalholz",
-   "sur": []
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
+   "niv": 6
   },
   {
    "id": "ELEMSCIEECON-1",
@@ -130,7 +152,9 @@
    "annee": "1re",
    "statut": "Validé",
    "par": "Valérie Boisvert",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "ELEMSCIEECON-2",
@@ -141,7 +165,9 @@
    "annee": "1re",
    "statut": "Validé",
    "par": "Valérie Boisvert",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "ELEMSCIEECON-3",
@@ -152,7 +178,9 @@
    "annee": "1re",
    "statut": "Validé",
    "par": "Valérie Boisvert",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "GEOGSOCICULT-1",
@@ -163,7 +191,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "René Véron",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "GEOGSOCICULT-2",
@@ -174,7 +204,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "René Véron",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "GEOGSOCICULT-3",
@@ -185,7 +217,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "René Véron",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "GEOGURBA-1",
@@ -196,7 +230,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Céline Rozenblat",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "GEOGURBA-2",
@@ -207,7 +243,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Céline Rozenblat",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "GEOGURBA-3",
@@ -218,7 +256,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Céline Rozenblat",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "GESTEAU-1",
@@ -229,7 +269,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Emmanuel Reynard",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "GESTEAU-2",
@@ -240,7 +282,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Emmanuel Reynard",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "GESTEAU-3",
@@ -251,7 +295,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Emmanuel Reynard",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "GEOMORI-1",
@@ -262,7 +308,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Emmanuel Reynard",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "GEOMORI-2",
@@ -273,7 +321,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Emmanuel Reynard",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "GEOMORI-3",
@@ -284,7 +334,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Emmanuel Reynard",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "PRODSAVOGEOG-1",
@@ -295,7 +347,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Christian Kull",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "PRODSAVOGEOG-2",
@@ -306,7 +360,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Christian Kull",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "PRODSAVOGEOG-3",
@@ -317,7 +373,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Christian Kull",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "METHENQUANAL-1",
@@ -328,7 +386,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Céline Rozenblat",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "METHENQUANAL-2",
@@ -339,7 +399,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Céline Rozenblat",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "METHENQUANAL-3",
@@ -350,7 +412,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Céline Rozenblat",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "POLIECOL-1",
@@ -361,7 +425,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Christian Kull",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "POLIECOL-2",
@@ -372,7 +438,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Christian Kull",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "POLIECOL-3",
@@ -383,7 +451,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Christian Kull",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "GEOGDEVE-1",
@@ -394,7 +464,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "René Véron",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "GEOGDEVE-2",
@@ -405,7 +477,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "René Véron",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "SYSTCOMPORGA-1",
@@ -416,7 +490,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Céline Rozenblat",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "SYSTCOMPORGA-2",
@@ -427,7 +503,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Céline Rozenblat",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "SYSTCOMPORGA-3",
@@ -438,7 +516,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Céline Rozenblat",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "DROIENVI-1",
@@ -449,7 +529,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Charlotte Blattner",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "DROIENVI-2",
@@ -460,7 +542,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Charlotte Blattner",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "DROIENVI-3",
@@ -471,7 +555,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Charlotte Blattner",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "ELEMECONECOL-1",
@@ -482,7 +568,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Valérie Boisvert",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "ELEMECONECOL-2",
@@ -493,7 +581,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Valérie Boisvert",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "ELEMECONECOL-3",
@@ -504,7 +594,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Valérie Boisvert",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "GEOCENVI-1",
@@ -515,7 +607,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Johanna Marin Carbonne",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "GEOCENVI-2",
@@ -526,7 +620,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Johanna Marin Carbonne",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "GEOCENVI-3",
@@ -537,7 +633,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Johanna Marin Carbonne",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "GEOCENVI-4",
@@ -548,7 +646,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Johanna Marin Carbonne",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "GEOCENVI-5",
@@ -559,7 +659,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Johanna Marin Carbonne",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "GEOCENVI-6",
@@ -570,7 +672,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Johanna Marin Carbonne",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "GEOCENVI-7",
@@ -581,7 +685,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Johanna Marin Carbonne",
-   "sur": []
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
+   "niv": 6
   },
   {
    "id": "GEOCENVI-8",
@@ -592,7 +698,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Johanna Marin Carbonne",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "GEOCENVI-9",
@@ -603,7 +711,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Johanna Marin Carbonne",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "GEOCENVI-10",
@@ -614,7 +724,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Johanna Marin Carbonne",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "CHIMORGAENVI-1",
@@ -625,7 +737,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Marco Keiluweit",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "CHIMORGAENVI-2",
@@ -638,7 +752,9 @@
    "par": "Marco Keiluweit",
    "sur": [
     "CHIMORGAENVI-1"
-   ]
+   ],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "CHIMORGAENVI-3",
@@ -651,7 +767,9 @@
    "par": "Marco Keiluweit",
    "sur": [
     "CHIMORGAENVI-2"
-   ]
+   ],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "MODENUME-1",
@@ -662,7 +780,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Guillaume Jouvet",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "MODENUME-2",
@@ -673,7 +793,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Guillaume Jouvet",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "MODENUME-3",
@@ -684,7 +806,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Guillaume Jouvet",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "GEOPENVI-1",
@@ -695,7 +819,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Niklas Linde",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "GEOPENVI-2",
@@ -706,7 +832,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Niklas Linde",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "GEOPENVI-3",
@@ -717,7 +845,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Niklas Linde",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "ETUDMOUVGRAV-1",
@@ -728,7 +858,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Marc-Henri Derron",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "ETUDMOUVGRAV-2",
@@ -741,7 +873,9 @@
    "par": "Marc-Henri Derron",
    "sur": [
     "ETUDMOUVGRAV-1"
-   ]
+   ],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "ETUDMOUVGRAV-3",
@@ -754,7 +888,9 @@
    "par": "Marc-Henri Derron",
    "sur": [
     "ETUDMOUVGRAV-2"
-   ]
+   ],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "ETUDMOUVGRAV-4",
@@ -765,7 +901,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Marc-Henri Derron",
-   "sur": []
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
+   "niv": 6
   },
   {
    "id": "CHANENVIQUAT-1",
@@ -776,7 +914,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Georgina King",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "CHANENVIQUAT-2",
@@ -787,7 +927,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Georgina King",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "CHANENVIQUAT-3",
@@ -798,7 +940,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Georgina King",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "CHANENVIQUAT-4",
@@ -809,7 +953,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Georgina King",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "CARTGEOL-1",
@@ -820,7 +966,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Stefan Schmalholz",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "CARTGEOL-2",
@@ -831,7 +979,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Stefan Schmalholz",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "CARTGEOL-3",
@@ -842,7 +992,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Stefan Schmalholz",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "ECOTOX-1",
@@ -853,7 +1005,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Nathalie Chèvre",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "ECOTOX-2",
@@ -864,7 +1018,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Nathalie Chèvre",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "ECOTOX-3",
@@ -875,7 +1031,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Nathalie Chèvre",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "HYDRPOLLEAUX-1",
@@ -886,7 +1044,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Jasmine Berg",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "HYDRPOLLEAUX-2",
@@ -897,7 +1057,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Jasmine Berg",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "HYDRPOLLEAUX-3",
@@ -908,7 +1070,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Jasmine Berg",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "TECTGEOD-1",
@@ -919,7 +1083,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Stefan Schmalholz",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "TECTGEOD-2",
@@ -930,7 +1096,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Stefan Schmalholz",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "TECTGEOD-3",
@@ -941,7 +1109,9 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Stefan Schmalholz",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "EROSTECTCLIM-1",
@@ -952,7 +1122,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Jean-Daniel Champagnac",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "EROSTECTCLIM-2",
@@ -963,7 +1135,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Jean-Daniel Champagnac",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "EROSTECTCLIM-3",
@@ -974,7 +1148,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Jean-Daniel Champagnac",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "EROSTECTCLIM-4",
@@ -985,7 +1161,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Jean-Daniel Champagnac",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "EROSTECTCLIM-5",
@@ -996,7 +1174,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Jean-Daniel Champagnac",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "EROSTECTCLIM-6",
@@ -1007,7 +1187,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Jean-Daniel Champagnac",
-   "sur": []
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
+   "niv": 6
   },
   {
    "id": "EROSTECTCLIM-7",
@@ -1018,7 +1200,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Jean-Daniel Champagnac",
-   "sur": []
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
   },
   {
    "id": "EROSTECTCLIM-8",
@@ -1029,7 +1213,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Jean-Daniel Champagnac",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   },
   {
    "id": "EROSTECTCLIM-9",
@@ -1040,7 +1226,9 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Jean-Daniel Champagnac",
-   "sur": []
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
   }
  ],
  "enseignements": [

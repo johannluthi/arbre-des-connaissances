@@ -1,0 +1,101 @@
+id,enseignement,module,orientation,annee,ects,responsable,rattachement,autres_enseignants,nb_competences,nb_validees,statut
+GEOGENVISOCI,"Géographie, environnement et sociétés : approches et théories contemporaines",M1 – Initiation aux orientations,Propédeutique,1re,6,Mathis Stock,FGSE,C. Arnsperger ; J. Steinberger,0,0,À documenter
+INTRSCIEENVI,Introduction aux sciences de l'environnement,M1 – Initiation aux orientations,Propédeutique,1re,6,Grégoire Mariéthoz,FGSE,N. Chèvre ; S. Lane ; M. Keiluweit ; M.-E. Perga ; J. Steinberger,0,0,À documenter
+GEOLINTRSCIE,Géologie : introduction aux Sciences de la Terre,M1 – Initiation aux orientations,Propédeutique,1re,6,Sébastien Pilet,FGSE,G. Hetényi ; S. Jaccard,0,0,À documenter
+POPUCROI,Population et dé/croissance,M2 – Préparation à une orientation (GES),Propédeutique,1re,6,Christophe Mager,FGSE,,0,0,À documenter
+PENSGEOG,La pensée géographique,M2 – Préparation à une orientation (GES),Propédeutique,1re,6,Patrick Rérat,FGSE,M. Müller,0,0,À documenter
+EXCUCASGES,Excursions et cas d'études (GES),M2 – Préparation à une orientation (GES),Propédeutique,1re,3,Christian Arnsperger,FGSE,,0,0,À documenter
+REGACROICHAN,Regards croisés sur le changement climatique,M2 – Préparation à une orientation (les 3 blocs),Propédeutique,1re,3,Samuel Jaccard,FGSE,D. Domeisen ; J. Steinberger,0,0,À documenter
+SYSTENER,Systèmes énergétiques,M2 (SE) ; M6 – Transition écologique (GES),Propédeutique,1re,3,Selin Yilmaz,FGSE,,0,0,À documenter
+CHIMGENE,Chimie générale,"M2 – Préparation à une orientation (SE, Géologie)",Propédeutique,1re,3,S. Terrettaz (EPFL),EPFL,,0,0,À documenter
+PHYSGENEI,Physique générale I,"M2 – Préparation à une orientation (SE, Géologie)",Propédeutique,1re,3,R. Trappitsch (EPFL),EPFL,,0,0,À documenter
+EXCUCASSE,Excursions et cas d'études (SE),M2 – Préparation à une orientation (SE),Propédeutique,1re,3,Nathalie Chèvre,FGSE,M.-E. Perga ; S. Lane ; P. Vittoz,3,3,Documenté
+INTRGEOLALPI,Introduction à la géologie alpine,M2 – Préparation à une orientation (SE),Propédeutique,1re,3,Guillaume Jouvet,FGSE,J.-D. Champagnac,5,5,Documenté
+GEOLREGI,Géologie régionale,M2 – Préparation à une orientation (Géologie),Propédeutique,1re,3,Pierre Lanari,FGSE,S. Schmalholz,0,0,À documenter
+CAMPTERRGEOL,Camp de terrain en géologie,M2 – Préparation à une orientation (Géologie),Propédeutique,1re,3,Stefan Schmalholz,FGSE,A. Daley ; A. Samsu,3,3,Documenté
+HISTVIESTRA,Histoire de la Vie et stratigraphie,M2 – Préparation à une orientation (Géologie),Propédeutique,1re,3,Allison Daley,FGSE,J. Marin-Carbonne ; P. Gueriau,0,0,À documenter
+METHQUANINTRI,Méthodes quantitatives I : introduction aux principes et statistiques descriptives,M3 – Méthodes de base (3 orientations),Propédeutique,1re,3,G. Guex,FGSE,,0,0,À documenter
+METHQUANSTATII,Méthodes quantitatives II : statistiques inférentielles,M3 – Méthodes de base (3 orientations),Propédeutique,1re,3,G. Guex,FGSE,,0,0,À documenter
+GEOINFI,Géoinformatique I,M3 – Méthodes de base (3 orientations),Propédeutique,1re,6,Christian Kaiser,FGSE,,0,0,À documenter
+INTRMETHQUAL,Introduction aux méthodes qualitatives,M3 – Méthodes de base (GES),Propédeutique,1re,3,R. Kunz (SSP),UNIL – SSP,,0,0,À documenter
+MATHGEOS,Mathématiques pour les géosciences,"M3 – Méthodes de base (SE, Géologie)",Propédeutique,1re,3,K. Zuleta (EPFL),EPFL,,0,0,À documenter
+ELEMECOL,Eléments d'écologie,M4 – Sciences de base (3 orientations),Propédeutique,1re,3,Antoine Guisan,FGSE,,0,0,À documenter
+ELEMSCIEECON,Eléments de sciences économiques,"M4 – Sciences de base (GES, SE)",Propédeutique,1re,3,Valérie Boisvert,FGSE,NN,3,3,Documenté
+ELEMSCIESOCI,Eléments de sciences sociales,"M4 – Sciences de base (GES, SE)",Propédeutique,1re,3,J. Pollard (SSP),UNIL – SSP,,0,0,À documenter
+MINEGENE,Minéralogie générale,M4 – Sciences de base (Géologie),Propédeutique,1re,3,Sébastien Pilet,FGSE,,0,0,À documenter
+MINEOPTI,Minéralogie optique,M4 – Sciences de base (Géologie),Propédeutique,1re,3,Othmar Müntener,FGSE,,0,0,À documenter
+GEOGSOCICULT,Géographie sociale et culturelle,M1 – Géographie humaine,"Géographie, environnement et sociétés",2e,6,René Véron,FGSE,L. Chanteloup,3,3,Documenté
+GEOGURBA,Géographie urbaine,M1 – Géographie humaine,"Géographie, environnement et sociétés",2e,6,Céline Rozenblat,FGSE,M. Rogov,3,3,Documenté
+GEOGECON,Géographie économique,M1 – Géographie humaine,"Géographie, environnement et sociétés",2e,3,Christophe Mager,FGSE,,0,0,À documenter
+AMENTERR,Aménagement du territoire,M1 – Géographie humaine,"Géographie, environnement et sociétés",2e,6,Gabriela Debrunner,FGSE,,0,0,À documenter
+INTRPENSECOL,Introduction à la pensée écologique,M2 – Durabilité et transition écologique,"Géographie, environnement et sociétés",2e,3,S. A. Schroer,FGSE,,0,0,À documenter
+GESTSOCIFLUX,Gestion sociale des flux de matière,M2 – Durabilité et transition écologique,"Géographie, environnement et sociétés",2e,6,Julia Steinberger,FGSE,C. Arnsperger,0,0,À documenter
+POLIENVI,Politiques environnementales,M2 – Durabilité et transition écologique,"Géographie, environnement et sociétés",2e,6,J. Pollard (SSP),UNIL – SSP,,0,0,À documenter
+GESTEAU,Gestion de l'eau,M3 – Environnement naturel (GES) ; M5 (SE),"Géographie, environnement et sociétés",2e,3,Emmanuel Reynard,FGSE,,3,3,Documenté
+GEOMORI,Géomorphologie I,M3 (GES) ; M3 (SE) ; M2 (Géologie),"Géographie, environnement et sociétés",2e,3,Emmanuel Reynard,FGSE,,3,3,Documenté
+TELEDE,Télédétection,M3 (GES) ; M2 (SE) ; M3 (Géologie),"Géographie, environnement et sociétés",2e,3,Grégoire Mariéthoz,FGSE,,0,0,À documenter
+PRODSAVOGEOG,Production de savoirs en géographie et environnement,M4 – Outils et méthodes (GES) ; M4 (SE),"Géographie, environnement et sociétés",2e,3,Christian Kull,FGSE,S. Lane,3,3,Documenté
+METHQUANSTATIII,Méthodes quantitatives III : statistiques multivariées,M4 (GES) ; M2 (SE),"Géographie, environnement et sociétés",2e,3,G. Guex,FGSE,,0,0,À documenter
+METHENQUANAL,Méthodes d'enquête et d'analyse,M4 – Outils et méthodes,"Géographie, environnement et sociétés",2e,3,Céline Rozenblat,FGSE,M. Rogov,3,3,Documenté
+METHQUALAVAN,Méthodes qualitatives avancées : méthodes et terrains,M4 – Outils et méthodes,"Géographie, environnement et sociétés",2e,6,Laine Chanteloup,FGSE,G. Walters,0,0,À documenter
+GEOINFII,Géoinformatique II,M5 (GES) ; M6 (SE) ; M6 (Géologie),"Géographie, environnement et sociétés",3e,3,Tom Beucler,FGSE,,0,0,À documenter
+POLIECOL,Political Ecology,M5 – Spécialisation en géographie humaine,"Géographie, environnement et sociétés",3e,3,Christian Kull,FGSE,,3,3,Documenté
+TOURENVISOCI,"Tourisme : environnement, société, économie",M5 – Spécialisation en géographie humaine,"Géographie, environnement et sociétés",3e,3,Morgane Müller,FGSE,C. Clivaz ; L. Kébir ; M. Stock,0,0,À documenter
+GEOGMOBI,Géographie des mobilités,M5 – Spécialisation en géographie humaine,"Géographie, environnement et sociétés",3e,3,Patrick Rérat,FGSE,,0,0,À documenter
+GEOGDEVE,Géographie du développement,M5 – Spécialisation en géographie humaine,"Géographie, environnement et sociétés",3e,3,René Véron,FGSE,,2,2,Documenté
+SYSTCOMPORGA,Systèmes complexes et organisation de l'espace géographique,M5 – Spécialisation en géographie humaine,"Géographie, environnement et sociétés",3e,3,Céline Rozenblat,FGSE,M. Rogov,3,3,Documenté
+DYNAURBACAM,Dynamiques urbaines (camp de terrain),M5 – Spécialisation en géographie humaine,"Géographie, environnement et sociétés",3e,6,Joëlle Salomon Cavin,FGSE,C. Trivin (camp 2026) ; M. Müller (camp 2027),0,0,À documenter
+EVALCRITMETH,Evaluation critique des méthodes en économie environnementale,M6 – Spécialisation en transition écologique,"Géographie, environnement et sociétés",3e,3,Christophe Mager,FGSE,,0,0,À documenter
+DROIENVI,Droit de l'environnement,M6 (GES) ; M5 (SE),"Géographie, environnement et sociétés",3e,6,Charlotte Blattner,FGSE,,3,3,Documenté
+DURAMODEVIE,Durabilité et modes de vie,M6 – Spécialisation en transition écologique,"Géographie, environnement et sociétés",3e,3,Christian Arnsperger,FGSE,,0,0,À documenter
+ELEMECONECOL,Eléments d'économie écologique,M6 – Spécialisation en transition écologique,"Géographie, environnement et sociétés",3e,3,Valérie Boisvert,FGSE,,3,3,Documenté
+PREPTRAVBACH,Préparation au travail de Bachelor,M7 (GES) ; M8 (SE) ; M8 (Géologie),Transversal,3e,2,Joëlle Salomon Cavin,FGSE,,0,0,À documenter
+TRAVBACH,Travail de Bachelor,M7 (GES) ; M8 (SE) ; M8 (Géologie),Transversal,3e,10,Directrice / directeur de mémoire,FGSE,,0,0,À documenter
+GEOCENVI,Géochimie environnementale,M1 – Chimie et biologie (SE) ; M4 (Géologie),Sciences de l'environnement,2e,3,Johanna Marin Carbonne,FGSE,,10,10,Documenté
+CHIMORGAENVI,Chimie organique environnementale,M1 – Chimie et biologie,Sciences de l'environnement,2e,3,Marco Keiluweit,FGSE,,3,3,Documenté
+BIOLOG,Biologie,M1 – Chimie et biologie,Sciences de l'environnement,2e,3,Pascal Vittoz,FGSE,M. Blanc,0,0,À documenter
+ECOLVEGE,Ecologie végétale,M1 – Chimie et biologie,Sciences de l'environnement,2e,3,Pascal Vittoz,FGSE,,0,0,À documenter
+LEVEGEOM,Levés géomatiques,M2 – Outils quantitatifs,Sciences de l'environnement,2e,3,Beatriz Quintal,FGSE,,0,0,À documenter
+ANALVECT,Analyse vectorielle,M2 (SE) ; M4 (Géologie),Sciences de l'environnement,2e,3,Pietro De Anna,FGSE,,0,0,À documenter
+MODENUME,Modélisation numérique,M2 (SE) ; M4 (Géologie),Sciences de l'environnement,2e,3,Guillaume Jouvet,FGSE,,3,3,Documenté
+PHYSGENEII,Physique générale II,M3 – Éléments de géosciences (SE) ; M4 (Géologie),Sciences de l'environnement,2e,3,F. Carbone (EPFL) / S. Bréchet (EPFL),EPFL,,0,0,À documenter
+PHYSGLOB,Physique du globe,M3 (SE) ; M3 (Géologie),Sciences de l'environnement,2e,3,James Irving,FGSE,NN,0,0,À documenter
+GEOMORII,Géomorphologie II,M3 (SE) ; M2 (Géologie),Sciences de l'environnement,2e,3,Christophe Lambiel,FGSE,,0,0,À documenter
+RISQENVI,Risques environnementaux,M3 (SE) ; M3 (Géologie),Sciences de l'environnement,2e,3,Michel Jaboyedoff,FGSE,,0,0,À documenter
+PRINSCIEATMO,Principes de la science atmosphérique,M4 – Processus environnementaux,Sciences de l'environnement,2e,6,Daniela Domeisen,FGSE,,0,0,À documenter
+HYDROL,Hydrologie,M4 (SE) ; M5 (SE),Sciences de l'environnement,2e,6,Paolo Benettin,FGSE,,0,0,À documenter
+HYDRFORMPROC,"Hydrauliques, formes et processus fluviaux",M5 – Approches et gestion de l'environnement,Sciences de l'environnement,3e,3,Stuart Lane,FGSE,G. Antoniazza,0,0,À documenter
+PEDOLO,Pédologie,M5 – Approches et gestion de l'environnement,Sciences de l'environnement,3e,3,Stéphanie Grand,FGSE,,0,0,À documenter
+CAMPTERRENVI,Camp de terrain en environnement,M5 – Approches et gestion de l'environnement,Sciences de l'environnement,3e,3,Stuart Lane,FGSE,G. Antoniazza,0,0,À documenter
+GEOPENVI,Géophysique de l'environnement,M6 – Sciences et outils quantitatifs,Sciences de l'environnement,3e,6,Niklas Linde,FGSE,,3,3,Documenté
+GEOPENVICAMP,Géophysique de l'environnement : camp,M6 – Sciences et outils quantitatifs,Sciences de l'environnement,3e,3,James Irving,FGSE,N. Linde,0,0,À documenter
+ANALDONNENVI,Analyses des données environnementales,M6 – Sciences et outils quantitatifs,Sciences de l'environnement,3e,3,Marie-Elodie Perga,FGSE,,0,0,À documenter
+EXCUCARTGEOM,Excursions et cartographie géomorphologique,M7a – Processus de la surface terrestre,Sciences de l'environnement,3e,3,Christophe Lambiel,FGSE,,0,0,À documenter
+ETUDMOUVGRAV,Etudes des mouvements gravitaires,M7a – Processus de la surface terrestre,Sciences de l'environnement,3e,3,Marc-Henri Derron,FGSE,M. Jaboyedoff,4,4,Documenté
+CHANENVIQUAT,Changement environnemental du quaternaire,M7a – Processus de la surface terrestre,Sciences de l'environnement,3e,3,Georgina King,FGSE,,4,4,Documenté
+CARTGEOL,Cartographie géologique,M7a (SE) ; M6 (Géologie),Sciences de l'environnement,3e,3,Stefan Schmalholz,FGSE,A. Daley,3,3,Documenté
+ECOTOX,Ecotoxicologie,M7b – Sciences aquatiques,Sciences de l'environnement,3e,3,Nathalie Chèvre,FGSE,,3,3,Documenté
+HYDRPOLLEAUX,Hydrochimie et pollution des eaux,M7b – Sciences aquatiques,Sciences de l'environnement,3e,3,Jasmine Berg,FGSE,,3,3,Documenté
+LIMNOL,Limnologie,M7b – Sciences aquatiques,Sciences de l'environnement,3e,3,Marie-Elodie Perga,FGSE,,0,0,À documenter
+INTRGEOCISOT,Introduction à la géochimie isotopique,M7b (SE) ; M4 (Géologie),Sciences de l'environnement,3e,3,Torsten Vennemann,FGSE,B. Bomou ; M. Galvez,0,0,À documenter
+PETRMAGMMETA,Pétrographie magmatique et métamorphique,M1 – Géologie structurale et pétrologie,Géologie,2e,3,Othmar Müntener,FGSE,P. Lanari,0,0,À documenter
+GEOLSTRU,Géologie structurale,M1 – Géologie structurale et pétrologie,Géologie,2e,6,Anindita Samsu,FGSE,,0,0,À documenter
+CAMPGEOLSTRU,Camp de géologie structurale,M1 – Géologie structurale et pétrologie,Géologie,2e,3,Anindita Samsu,FGSE,,0,0,À documenter
+CAMPPETRMAGM,Camp de pétrologie magmatique,M1 – Géologie structurale et pétrologie,Géologie,2e,3,Othmar Müntener,FGSE,S. Pilet,0,0,À documenter
+SEDIPHYS,Sédimentologie physique,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Samuel Jaccard,FGSE,B. Bomou,0,0,À documenter
+PALEON,Paléontologie,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Allison Daley,FGSE,A. Pictet,0,0,À documenter
+CAMPSTRASEDI,Camp de stratigraphie et sédimentologie,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Samuel Jaccard,FGSE,B. Bomou,0,0,À documenter
+TECTGEOD,Tectonique et géodynamique,M3 – Géophysique et risques,Géologie,2e,3,Stefan Schmalholz,FGSE,,3,3,Documenté
+PETRMAGMAVA,Pétrologie magmatique et métamorphique (avancée),M5 – Géologie avancée,Géologie,3e,3,Pierre Lanari,FGSE,O. Müntener,0,0,À documenter
+THERCINE,Thermodynamique et cinétique,M5 – Géologie avancée,Géologie,3e,3,Othmar Müntener,FGSE,J. Marin-Carbonne ; P. Lanari,0,0,À documenter
+PETRMETACAMP,"Pétrologie métamorphique, camp",M5 – Géologie avancée,Géologie,3e,5,Pierre Lanari,FGSE,,0,0,À documenter
+GEOLCHAIALPI,Géologie de la chaîne alpine,M5 – Géologie avancée,Géologie,3e,3,Othmar Müntener,FGSE,S. Schmalholz ; P. Lanari,0,0,À documenter
+EROSTECTCLIM,"Erosion, tectonique et climat",M6 – Géologie de la surface terrestre,Géologie,3e,3,Guillaume Jouvet,FGSE,J.-D. Champagnac ; G. King,9,9,Documenté
+HYDRGENE,Hydrogéologie générale,M6 – Géologie de la surface terrestre,Géologie,3e,3,Philippe Renard,UNINE,C. Roques (UNINE),0,0,À documenter
+SEDIBIOC,Sédimentologie biochimique,M6 – Géologie de la surface terrestre,Géologie,3e,3,Samuel Jaccard,FGSE,,0,0,À documenter
+CAMPCARTPALE,Camp de cartographie et paléontologie,M6 – Géologie de la surface terrestre,Géologie,3e,3,Allison Daley,FGSE,S. Jaccard ; B. Bomou,0,0,À documenter
+GEOPEXPL,Géophysique d'exploration,M7 – Géologie de l'exploration,Géologie,3e,6,Klaus Holliger,FGSE,,0,0,À documenter
+GEOPEXPLCAMP,Géophysique d'exploration – camp,M7 – Géologie de l'exploration,Géologie,3e,6,James Irving,FGSE,N. Linde ; B. Quintal,0,0,À documenter
+GEOLINGE,Géologie de l'ingénieur,M7 – Géologie de l'exploration,Géologie,3e,3,"M. Violay (EPFL, coord.)",EPFL,O. Müntener ; P. Lanari,0,0,À documenter
+GEOLINGEEXCU,"Géologie de l'ingénieur, excursion",M7 – Géologie de l'exploration,Géologie,3e,1,Beatriz Quintal,FGSE,L. Baron,0,0,À documenter
+INTRMETE,Introduction à la météorologie,Module à choix libre,Choix libre,3e,3,(à préciser – FGSE),FGSE,,0,0,À documenter

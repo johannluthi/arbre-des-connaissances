@@ -55,7 +55,7 @@ GEOCENVI,Géochimie environnementale,M1 – Chimie et biologie (SE) ; M4 (Géolo
 CHIMORGAENVI,Chimie organique environnementale,M1 – Chimie et biologie,Sciences de l'environnement,2e,3,Marco Keiluweit,FGSE,,3,3,Documenté
 BIOLOG,Biologie,M1 – Chimie et biologie,Sciences de l'environnement,2e,3,Pascal Vittoz,FGSE,M. Blanc,0,0,À documenter
 ECOLVEGE,Ecologie végétale,M1 – Chimie et biologie,Sciences de l'environnement,2e,3,Pascal Vittoz,FGSE,,0,0,À documenter
-LEVEGEOM,Levés géomatiques,M2 – Outils quantitatifs,Sciences de l'environnement,2e,3,Beatriz Quintal,FGSE,,0,0,À documenter
+LEVEGEOM,Levés géomatiques,M2 – Outils quantitatifs,Sciences de l'environnement,2e,3,Beatriz Quintal,FGSE,,3,3,Documenté
 ANALVECT,Analyse vectorielle,M2 (SE) ; M4 (Géologie),Sciences de l'environnement,2e,3,Pietro De Anna,FGSE,,0,0,À documenter
 MODENUME,Modélisation numérique,M2 (SE) ; M4 (Géologie),Sciences de l'environnement,2e,3,Guillaume Jouvet,FGSE,,3,3,Documenté
 PHYSGENEII,Physique générale II,M3 – Éléments de géosciences (SE) ; M4 (Géologie),Sciences de l'environnement,2e,3,F. Carbone (EPFL) / S. Bréchet (EPFL),EPFL,,0,0,À documenter
@@ -94,8 +94,8 @@ EROSTECTCLIM,"Erosion, tectonique et climat",M6 – Géologie de la surface terr
 HYDRGENE,Hydrogéologie générale,M6 – Géologie de la surface terrestre,Géologie,3e,3,Philippe Renard,UNINE,C. Roques (UNINE),0,0,À documenter
 SEDIBIOC,Sédimentologie biochimique,M6 – Géologie de la surface terrestre,Géologie,3e,3,Samuel Jaccard,FGSE,,0,0,À documenter
 CAMPCARTPALE,Camp de cartographie et paléontologie,M6 – Géologie de la surface terrestre,Géologie,3e,3,Allison Daley,FGSE,S. Jaccard ; B. Bomou,0,0,À documenter
-GEOPEXPL,Géophysique d'exploration,M7 – Géologie de l'exploration,Géologie,3e,6,Klaus Holliger,FGSE,,0,0,À documenter
+GEOPEXPL,Géophysique d'exploration,M7 – Géologie de l'exploration,Géologie,3e,6,Klaus Holliger,FGSE,,2,2,Documenté
 GEOPEXPLCAMP,Géophysique d'exploration – camp,M7 – Géologie de l'exploration,Géologie,3e,6,James Irving,FGSE,N. Linde ; B. Quintal,0,0,À documenter
 GEOLINGE,Géologie de l'ingénieur,M7 – Géologie de l'exploration,Géologie,3e,3,"M. Violay (EPFL, coord.)",EPFL,O. Müntener ; P. Lanari,0,0,À documenter
-GEOLINGEEXCU,"Géologie de l'ingénieur, excursion",M7 – Géologie de l'exploration,Géologie,3e,1,Beatriz Quintal,FGSE,L. Baron,0,0,À documenter
+GEOLINGEEXCU,"Géologie de l'ingénieur, excursion",M7 – Géologie de l'exploration,Géologie,3e,1,Beatriz Quintal,FGSE,L. Baron,3,3,Documenté
 INTRMETE,Introduction à la météorologie,Module à choix libre,Choix libre,3e,3,(à préciser – FGSE),FGSE,,0,0,À documenter

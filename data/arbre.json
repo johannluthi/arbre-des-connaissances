@@ -811,6 +811,45 @@
    "niv": 6
   },
   {
+   "id": "LEVEGEOM-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Comprendre les principes de la mesure géodésique et topographique",
+   "cours": "Levés géomatiques",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Beatriz Quintal",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "LEVEGEOM-2",
+   "cat": "Terrain / Méthodo",
+   "txt": "Réaliser des levés de terrain avec station totale, niveau optique, GPS différentiel et de poche, et traiter les données",
+   "cours": "Levés géomatiques",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Beatriz Quintal",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "LEVEGEOM-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Évaluer et documenter la précision d'une mesure",
+   "cours": "Levés géomatiques",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Beatriz Quintal",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "MODENUME-1",
    "cat": "Techniques et informatique",
    "txt": "Traduire en équations un processus naturel (diffusion d'un polluant, dynamique glaciaire) et le résoudre numériquement",
@@ -1265,6 +1304,71 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Jean-Daniel Champagnac",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOPEXPL-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Introduction à l'ensemble des méthodes de géophysique d'exploration courantes permettant l'analyse et la résolution de problèmes concrets, comme par exemple l'estimation de la forme et de la profondeur d'une minéralisation métallique",
+   "cours": "Géophysique d'exploration",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Klaus Holliger",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "GEOPEXPL-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Connaissances en interprétation pétrophysique des mesures géophysiques, permettant par exemple l'estimation des teneurs en gaz, pétrole et eau présentes dans l'espace poreux d'un réservoir d'hydrocarbures",
+   "cours": "Géophysique d'exploration",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Klaus Holliger",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "GEOLINGEEXCU-1",
+   "cat": "Terrain / Méthodo",
+   "txt": "Observer sur des chantiers réels l'application de la géologie de l'ingénieur",
+   "cours": "Géologie de l'ingénieur, excursion",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Beatriz Quintal",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOLINGEEXCU-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Relier contexte géologique et solutions techniques mises en œuvre",
+   "cours": "Géologie de l'ingénieur, excursion",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Beatriz Quintal",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOLINGEEXCU-3",
+   "cat": "Soft Skills",
+   "txt": "Restituer une visite technique de manière synthétique",
+   "cours": "Géologie de l'ingénieur, excursion",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Beatriz Quintal",
    "sur": [],
    "cec": "Aptitudes",
    "niv": 6
@@ -2064,10 +2168,10 @@
    "resp": "Beatriz Quintal",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "LEVEGEOM",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Analyse vectorielle",
@@ -2610,10 +2714,10 @@
    "resp": "Klaus Holliger",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 2,
+   "nval": 2,
    "id": "GEOPEXPL",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Géophysique d'exploration – camp",
@@ -2652,10 +2756,10 @@
    "resp": "Beatriz Quintal",
    "ratt": "FGSE",
    "autres": "L. Baron",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "GEOLINGEEXCU",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Introduction à la météorologie",

@@ -456,6 +456,45 @@
    "niv": 6
   },
   {
+   "id": "TOURENVISOCI-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Analyser de manière critique les enjeux contemporains du tourisme, en mobilisant des approches issues de la géographie, de l'économie et des sciences politiques",
+   "cours": "Tourisme : environnement, société, économie",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Morgane Müller",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "TOURENVISOCI-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Mobiliser des concepts et des cadres théoriques issus des sciences sociales pour analyser des enjeux touristiques et des problématiques territoriales",
+   "cours": "Tourisme : environnement, société, économie",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Morgane Müller",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "TOURENVISOCI-3",
+   "cat": "Soft Skills",
+   "txt": "Interpréter et discuter de manière argumentée des textes scientifiques et des études de cas, en mettant en relation des données empiriques et enjeux actuels",
+   "cours": "Tourisme : environnement, société, économie",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Morgane Müller",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "GEOGDEVE-1",
    "cat": "Techniques et informatique",
    "txt": "Lecture des graphiques, cartes et statistiques",
@@ -1815,10 +1854,10 @@
    "resp": "Morgane Müller",
    "ratt": "FGSE",
    "autres": "C. Clivaz ; L. Kébir ; M. Stock",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "TOURENVISOCI",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Géographie des mobilités",

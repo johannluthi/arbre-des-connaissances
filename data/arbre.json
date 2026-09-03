@@ -184,6 +184,45 @@
   },
   {
    "id": "GEOGSOCICULT-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Analyser les dimensions sociales et culturelles de la production de l'espace",
+   "cours": "Géographie sociale et culturelle",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "René Véron",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOGSOCICULT-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Mobiliser les concepts d'inégalité, d'identité et de rapports de pouvoir sur un cas",
+   "cours": "Géographie sociale et culturelle",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "René Véron",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOGSOCICULT-3",
+   "cat": "Soft Skills",
+   "txt": "Construire une argumentation critique appuyée sur la littérature scientifique",
+   "cours": "Géographie sociale et culturelle",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "René Véron",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOGSOCICULT-4",
    "cat": "Soft Skills",
    "txt": "Lecture scientifique et analyse de textes (dans la plupart en anglais)",
    "cours": "Géographie sociale et culturelle",
@@ -196,7 +235,7 @@
    "niv": 6
   },
   {
-   "id": "GEOGSOCICULT-2",
+   "id": "GEOGSOCICULT-5",
    "cat": "Terrain / Méthodo",
    "txt": "Développement d'une problématique de recherche",
    "cours": "Géographie sociale et culturelle",
@@ -209,7 +248,7 @@
    "niv": 6
   },
   {
-   "id": "GEOGSOCICULT-3",
+   "id": "GEOGSOCICULT-6",
    "cat": "Terrain / Méthodo",
    "txt": "Initiation à la recherche sur le terrain (observation directe, entretien)",
    "cours": "Géographie sociale et culturelle",
@@ -496,6 +535,45 @@
   },
   {
    "id": "GEOGDEVE-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Analyser de façon critique les théories et les pratiques du développement",
+   "cours": "Géographie du développement",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "René Véron",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOGDEVE-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Situer les rapports Nord-Sud dans leur profondeur historique et politique",
+   "cours": "Géographie du développement",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "René Véron",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "GEOGDEVE-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Évaluer une intervention de développement à partir de sources scientifiques",
+   "cours": "Géographie du développement",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "René Véron",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOGDEVE-4",
    "cat": "Techniques et informatique",
    "txt": "Lecture des graphiques, cartes et statistiques",
    "cours": "Géographie du développement",
@@ -508,7 +586,7 @@
    "niv": 6
   },
   {
-   "id": "GEOGDEVE-2",
+   "id": "GEOGDEVE-5",
    "cat": "Soft Skills",
    "txt": "Analyse de vidéos, blogs, etc.",
    "cours": "Géographie du développement",
@@ -1734,8 +1812,8 @@
    "resp": "René Véron",
    "ratt": "FGSE",
    "autres": "L. Chanteloup",
-   "n": 3,
-   "nval": 3,
+   "n": 6,
+   "nval": 6,
    "id": "GEOGSOCICULT",
    "statut": "Documenté"
   },
@@ -1986,8 +2064,8 @@
    "resp": "René Véron",
    "ratt": "FGSE",
    "autres": "",
-   "n": 2,
-   "nval": 2,
+   "n": 5,
+   "nval": 5,
    "id": "GEOGDEVE",
    "statut": "Documenté"
   },

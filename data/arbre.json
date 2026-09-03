@@ -560,10 +560,10 @@
    "niv": 6
   },
   {
-   "id": "ECOLANTHINTR-1",
+   "id": "INTRPENSECOL-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Questionner la relation entre nature et culture et la façon dont ces concepts influencent les débats et les pratiques environnementales",
-   "cours": "Écologies de l'Anthropocène : une introduction aux humanités environnementales",
+   "cours": "Introduction à la pensée écologique",
    "orient": "Géographie, environnement et sociétés",
    "annee": "2e",
    "statut": "Validé",
@@ -573,10 +573,10 @@
    "niv": 6
   },
   {
-   "id": "ECOLANTHINTR-2",
+   "id": "INTRPENSECOL-2",
    "cat": "Connaissances disciplinaires",
    "txt": "Comprendre les thèmes clés des humanités environnementales et ce qu'ils peuvent apporter à la recherche environnementale interdisciplinaire",
-   "cours": "Écologies de l'Anthropocène : une introduction aux humanités environnementales",
+   "cours": "Introduction à la pensée écologique",
    "orient": "Géographie, environnement et sociétés",
    "annee": "2e",
    "statut": "Validé",
@@ -586,10 +586,10 @@
    "niv": 6
   },
   {
-   "id": "ECOLANTHINTR-3",
+   "id": "INTRPENSECOL-3",
    "cat": "Soft Skills",
    "txt": "Exercer une réflexion critique et discuter collectivement de sujets environnementaux",
-   "cours": "Écologies de l'Anthropocène : une introduction aux humanités environnementales",
+   "cours": "Introduction à la pensée écologique",
    "orient": "Géographie, environnement et sociétés",
    "annee": "2e",
    "statut": "Validé",
@@ -2497,7 +2497,7 @@
    "statut": "À documenter"
   },
   {
-   "cours": "Écologies de l'Anthropocène : une introduction aux humanités environnementales",
+   "cours": "Introduction à la pensée écologique",
    "module": "M2 – Durabilité et transition écologique",
    "orient": "Géographie, environnement et sociétés",
    "annee": "2e",
@@ -2507,7 +2507,7 @@
    "autres": "",
    "n": 3,
    "nval": 3,
-   "id": "ECOLANTHINTR",
+   "id": "INTRPENSECOL",
    "statut": "Documenté"
   },
   {

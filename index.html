@@ -34,34 +34,7 @@
   /* formes */
   --r:2px; --shadow:0 1px 2px rgba(10,31,48,.06); --shadow-lg:0 2px 4px rgba(10,31,48,.06),0 12px 28px -18px rgba(10,31,48,.5);
   --ring:0 0 0 2px var(--surface),0 0 0 4px var(--blue);
-}
-@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
-  --brand:#0037eb; --on-blue:#04101f;
-  --blue:#8ce0ff; --blue-700:#ccf1ff; --navy:#001c4d;
-  --ground:#04101f; --surface:#0a1f30; --sunk:#10293c; --raised:#0a1f30;
-  --ink:#f2f7fa; --body:#c3d0da; --muted:#9da8b1;
-  --line:#1d3448; --line-soft:#16293a;
-  --row-hover:#10293c; --row-active:#143c60;
-  --hero:#001c4d; --hero-ink:#ffffff; --hero-body:#ccf1ff; --hero-line:#ffffff26;
-  --ok:#4fc79c; --ok-bg:#06302a; --warn:#f8b929; --warn-bg:#38270a;
-  --neutral:#9da8b1; --neutral-bg:#182a3a;
-  --chip-ok:#008556; --chip-warn:#b95900; --chip-bg:#182a3a; --chip-fg:#c3d0da;
-  --prop:#6b8cff; --ges:#e8a05a; --se:#3fbd8e; --geo:#f2707a; --trans:#58bdea; --libre:#9da8b1;
-  --shadow:0 1px 2px rgba(0,0,0,.4); --shadow-lg:0 2px 4px rgba(0,0,0,.4),0 12px 28px -18px rgba(0,0,0,.9);
-}}
-:root[data-theme="dark"]{
-  --brand:#0037eb; --on-blue:#04101f;
-  --blue:#8ce0ff; --blue-700:#ccf1ff; --navy:#001c4d;
-  --ground:#04101f; --surface:#0a1f30; --sunk:#10293c; --raised:#0a1f30;
-  --ink:#f2f7fa; --body:#c3d0da; --muted:#9da8b1;
-  --line:#1d3448; --line-soft:#16293a;
-  --row-hover:#10293c; --row-active:#143c60;
-  --hero:#001c4d; --hero-ink:#ffffff; --hero-body:#ccf1ff; --hero-line:#ffffff26;
-  --ok:#4fc79c; --ok-bg:#06302a; --warn:#f8b929; --warn-bg:#38270a;
-  --neutral:#9da8b1; --neutral-bg:#182a3a;
-  --chip-ok:#008556; --chip-warn:#b95900; --chip-bg:#182a3a; --chip-fg:#c3d0da;
-  --prop:#6b8cff; --ges:#e8a05a; --se:#3fbd8e; --geo:#f2707a; --trans:#58bdea; --libre:#9da8b1;
-  --shadow:0 1px 2px rgba(0,0,0,.4); --shadow-lg:0 2px 4px rgba(0,0,0,.4),0 12px 28px -18px rgba(0,0,0,.9);
+  color-scheme:light;
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -79,10 +52,9 @@ a{color:var(--blue);text-decoration-thickness:2px;text-underline-offset:2px}
 .topbar a:hover{opacity:1;text-decoration:underline}
 .topbar .sep{margin-left:auto;opacity:.7}
 .brandbar{background:var(--brand);color:#fff}
-.brandbar .wrap{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 20px;padding-top:20px;padding-bottom:20px}
-.wordmark{color:#fff;text-decoration:none;font-size:2.1rem;font-weight:700;letter-spacing:-.045em;line-height:1}
-.faculte{font-size:1.05rem;font-weight:700;letter-spacing:-.01em}
-@media (max-width:640px){ .wordmark{font-size:1.7rem} .faculte{font-size:.95rem} .sm-hide{display:none} }
+.brandbar .wrap{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 20px;padding-top:22px;padding-bottom:22px}
+.faculte{font-size:1.45rem;font-weight:700;letter-spacing:-.022em;line-height:1.2}
+@media (max-width:640px){ .faculte{font-size:1.15rem} .sm-hide{display:none} }
 
 /* ---- hero marine ---- */
 .hero{background:var(--hero);color:var(--hero-body);position:relative;overflow:hidden}
@@ -171,12 +143,10 @@ footer .note{flex-basis:100%;color:#8ce0ff;font-size:.8rem}
 
 <div class="topbar"><div class="wrap">
   <a href="https://www.unil.ch/">Université de Lausanne</a>
-  <a class="sm-hide" href="https://www.unil.ch/fgse/">Faculté des géosciences et de l'environnement</a>
-  <span class="sep sm-hide">Plan d'études 2026-2027</span>
+  <span class="sep">Plan d'études 2026-2027</span>
 </div></div>
 
 <div class="brandbar"><div class="wrap">
-  <a class="wordmark" href="https://www.unil.ch/">Unil.</a>
   <span class="faculte">Faculté des géosciences et de l'environnement</span>
 </div></div>
 

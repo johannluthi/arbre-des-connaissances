@@ -40,6 +40,45 @@
    "niv": 6
   },
   {
+   "id": "POPUCROI-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Analyser les principales dynamiques démographiques (fécondité, mortalité, migrations, croissance ou décroissance démographique) et leurs effets sur la structure des populations",
+   "cours": "Population et dé/croissance",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Christophe Mager",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "POPUCROI-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Comprendre et analyser les processus de vieillissement démographique, leurs causes, leurs formes différenciées dans l'espace et leurs conséquences sociales, économiques et territoriales",
+   "cours": "Population et dé/croissance",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Christophe Mager",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "POPUCROI-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Mettre en relation dynamiques démographiques, croissance économique et enjeux environnementaux, en distinguant les mécanismes observables des interprétations et des prises de position normatives",
+   "cours": "Population et dé/croissance",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Christophe Mager",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "EXCUCASSE-1",
    "cat": "Terrain / Méthodo",
    "txt": "Observer et décrire un milieu naturel ou anthropisé sur le terrain",
@@ -401,6 +440,45 @@
    "par": "Céline Rozenblat",
    "sur": [],
    "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "GEOGECON-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Expliquer l'organisation spatiale des activités économiques en mobilisant différents cadres théoriques de la géographie économique",
+   "cours": "Géographie économique",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Christophe Mager",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "GEOGECON-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Analyser les interactions entre acteurs, territoires, réseaux, institutions et processus économiques, en articulant plusieurs échelles spatiales",
+   "cours": "Géographie économique",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Christophe Mager",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOGECON-3",
+   "cat": "Soft Skills",
+   "txt": "Comparer et discuter la portée explicative de différents modèles et théories face à des configurations territoriales concrètes",
+   "cours": "Géographie économique",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Christophe Mager",
+   "sur": [],
+   "cec": "Aptitudes",
    "niv": 6
   },
   {
@@ -815,6 +893,45 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Céline Rozenblat",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "EVALCRITMETH-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Analyser les fondements théoriques et méthodologiques des dispositifs d'évaluation économique de l'environnement",
+   "cours": "Evaluation critique des méthodes en économie environnementale",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Christophe Mager",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "EVALCRITMETH-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Évaluer de manière critique les hypothèses, conventions, incertitudes et choix normatifs incorporés dans une méthode d'évaluation",
+   "cours": "Evaluation critique des méthodes en économie environnementale",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Christophe Mager",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "EVALCRITMETH-3",
+   "cat": "Soft Skills",
+   "txt": "Discuter les effets du choix d'une méthode sur la représentation d'un problème environnemental et sur la décision publique, notamment ce qu'elle rend visible ou laisse hors de l'analyse",
+   "cours": "Evaluation critique des méthodes en économie environnementale",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Christophe Mager",
    "sur": [],
    "cec": "Aptitudes",
    "niv": 6
@@ -1907,10 +2024,10 @@
    "resp": "Christophe Mager",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "POPUCROI",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "La pensée géographique",
@@ -2243,10 +2360,10 @@
    "resp": "Christophe Mager",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "GEOGECON",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Aménagement du territoire",
@@ -2509,10 +2626,10 @@
    "resp": "Christophe Mager",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "EVALCRITMETH",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Droit de l'environnement",

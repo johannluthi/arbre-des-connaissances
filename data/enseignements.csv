@@ -2,7 +2,7 @@ id,enseignement,module,orientation,annee,ects,responsable,rattachement,autres_en
 GEOGENVISOCI,"Géographie, environnement et sociétés : approches et théories contemporaines",M1 – Initiation aux orientations,Propédeutique,1re,6,Mathis Stock,FGSE,C. Arnsperger ; J. Steinberger,0,0,À documenter
 INTRSCIEENVI,Introduction aux sciences de l'environnement,M1 – Initiation aux orientations,Propédeutique,1re,6,Grégoire Mariéthoz,FGSE,N. Chèvre ; S. Lane ; M. Keiluweit ; M.-E. Perga ; J. Steinberger,3,3,Documenté
 GEOLINTRSCIE,Géologie : introduction aux Sciences de la Terre,M1 – Initiation aux orientations,Propédeutique,1re,6,Sébastien Pilet,FGSE,G. Hetényi ; S. Jaccard,0,0,À documenter
-POPUCROI,Population et dé/croissance,M2 – Préparation à une orientation (GES),Propédeutique,1re,6,Christophe Mager,FGSE,,0,0,À documenter
+POPUCROI,Population et dé/croissance,M2 – Préparation à une orientation (GES),Propédeutique,1re,6,Christophe Mager,FGSE,,3,3,Documenté
 PENSGEOG,La pensée géographique,M2 – Préparation à une orientation (GES),Propédeutique,1re,6,Patrick Rérat,FGSE,M. Müller,0,0,À documenter
 EXCUCASGES,Excursions et cas d'études (GES),M2 – Préparation à une orientation (GES),Propédeutique,1re,3,Christian Arnsperger,FGSE,,0,0,À documenter
 REGACROICHAN,Regards croisés sur le changement climatique,M2 – Préparation à une orientation (les 3 blocs),Propédeutique,1re,3,Samuel Jaccard,FGSE,D. Domeisen ; J. Steinberger,0,0,À documenter
@@ -26,7 +26,7 @@ MINEGENE,Minéralogie générale,M4 – Sciences de base (Géologie),Propédeuti
 MINEOPTI,Minéralogie optique,M4 – Sciences de base (Géologie),Propédeutique,1re,3,Othmar Müntener,FGSE,,0,0,À documenter
 GEOGSOCICULT,Géographie sociale et culturelle,M1 – Géographie humaine,"Géographie, environnement et sociétés",2e,6,René Véron,FGSE,L. Chanteloup,6,6,Documenté
 GEOGURBA,Géographie urbaine,M1 – Géographie humaine,"Géographie, environnement et sociétés",2e,6,Céline Rozenblat,FGSE,M. Rogov,3,3,Documenté
-GEOGECON,Géographie économique,M1 – Géographie humaine,"Géographie, environnement et sociétés",2e,3,Christophe Mager,FGSE,,0,0,À documenter
+GEOGECON,Géographie économique,M1 – Géographie humaine,"Géographie, environnement et sociétés",2e,3,Christophe Mager,FGSE,,3,3,Documenté
 AMENTERR,Aménagement du territoire,M1 – Géographie humaine,"Géographie, environnement et sociétés",2e,6,Gabriela Debrunner,FGSE,,0,0,À documenter
 ECOLANTHINTR,Écologies de l'Anthropocène : une introduction aux humanités environnementales,M2 – Durabilité et transition écologique,"Géographie, environnement et sociétés",2e,3,S. A. Schroer,FGSE,,3,3,Documenté
 GESTSOCIFLUX,Gestion sociale des flux de matière,M2 – Durabilité et transition écologique,"Géographie, environnement et sociétés",2e,6,Julia Steinberger,FGSE,C. Arnsperger,0,0,À documenter
@@ -45,7 +45,7 @@ GEOGMOBI,Géographie des mobilités,M5 – Spécialisation en géographie humain
 GEOGDEVE,Géographie du développement,M5 – Spécialisation en géographie humaine,"Géographie, environnement et sociétés",3e,3,René Véron,FGSE,,5,5,Documenté
 SYSTCOMPORGA,Systèmes complexes et organisation de l'espace géographique,M5 – Spécialisation en géographie humaine,"Géographie, environnement et sociétés",3e,3,Céline Rozenblat,FGSE,M. Rogov,3,3,Documenté
 DYNAURBACAM,Dynamiques urbaines (camp de terrain),M5 – Spécialisation en géographie humaine,"Géographie, environnement et sociétés",3e,6,Joëlle Salomon Cavin,FGSE,C. Trivin (camp 2026) ; M. Müller (camp 2027),0,0,À documenter
-EVALCRITMETH,Evaluation critique des méthodes en économie environnementale,M6 – Spécialisation en transition écologique,"Géographie, environnement et sociétés",3e,3,Christophe Mager,FGSE,,0,0,À documenter
+EVALCRITMETH,Evaluation critique des méthodes en économie environnementale,M6 – Spécialisation en transition écologique,"Géographie, environnement et sociétés",3e,3,Christophe Mager,FGSE,,3,3,Documenté
 DROIENVI,Droit de l'environnement,M6 (GES) ; M5 (SE),"Géographie, environnement et sociétés",3e,6,Charlotte Blattner,FGSE,,3,3,Documenté
 DURAMODEVIE,Durabilité et modes de vie,M6 – Spécialisation en transition écologique,"Géographie, environnement et sociétés",3e,3,Christian Arnsperger,FGSE,,0,0,À documenter
 ELEMECONECOL,Eléments d'économie écologique,M6 – Spécialisation en transition écologique,"Géographie, environnement et sociétés",3e,3,Valérie Boisvert,FGSE,,3,3,Documenté

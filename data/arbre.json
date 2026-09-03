@@ -993,6 +993,71 @@
    "niv": 6
   },
   {
+   "id": "ANALVECT-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Acquérir une compréhension approfondie de l'impact du fait que de nombreux phénomènes environnementaux dépendent de plusieurs variables",
+   "cours": "Analyse vectorielle",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Pietro De Anna",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "ANALVECT-2",
+   "cat": "Techniques et informatique",
+   "txt": "Maîtriser les bases du calcul différentiel et intégral pour les fonctions réelles de plusieurs variables",
+   "cours": "Analyse vectorielle",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Pietro De Anna",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "ANALVECT-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Savoir utiliser la description mathématique des courbes et des surfaces",
+   "cours": "Analyse vectorielle",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Pietro De Anna",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "ANALVECT-4",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Comprendre le concept de champ vectoriel et identifier les liens entre son traitement mathématique et ses applications physiques",
+   "cours": "Analyse vectorielle",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Pietro De Anna",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "ANALVECT-5",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Se familiariser avec les notions de travail et de flux d'un champ vectoriel, qui jouent un rôle important dans de nombreux phénomènes environnementaux",
+   "cours": "Analyse vectorielle",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Pietro De Anna",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
    "id": "MODENUME-1",
    "cat": "Techniques et informatique",
    "txt": "Traduire en équations un processus naturel (diffusion d'un polluant, dynamique glaciaire) et le résoudre numériquement",
@@ -1054,7 +1119,7 @@
    "statut": "Validé",
    "par": "Niklas Linde",
    "sur": [],
-   "cec": "Aptitudes",
+   "cec": "Savoirs",
    "niv": 6
   },
   {
@@ -2403,10 +2468,10 @@
    "resp": "Pietro De Anna",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 5,
+   "nval": 5,
    "id": "ANALVECT",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Modélisation numérique",

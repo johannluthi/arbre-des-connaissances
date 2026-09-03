@@ -14,8 +14,8 @@ INTRGEOLALPI,Introduction à la géologie alpine,M2 – Préparation à une orie
 GEOLREGI,Géologie régionale,M2 – Préparation à une orientation (Géologie),Propédeutique,1re,3,Pierre Lanari,FGSE,S. Schmalholz,3,3,Documenté
 CAMPTERRGEOL,Camp de terrain en géologie,M2 – Préparation à une orientation (Géologie),Propédeutique,1re,3,Stefan Schmalholz,FGSE,A. Daley ; A. Samsu,3,3,Documenté
 HISTVIESTRA,Histoire de la Vie et stratigraphie,M2 – Préparation à une orientation (Géologie),Propédeutique,1re,3,Allison Daley,FGSE,J. Marin-Carbonne ; P. Gueriau,2,2,Documenté
-METHQUANINTRI,Méthodes quantitatives I : introduction aux principes et statistiques descriptives,M3 – Méthodes de base (3 orientations),Propédeutique,1re,3,G. Guex,FGSE,,0,0,À documenter
-METHQUANSTATII,Méthodes quantitatives II : statistiques inférentielles,M3 – Méthodes de base (3 orientations),Propédeutique,1re,3,G. Guex,FGSE,,0,0,À documenter
+METHQUANINTRI,Méthodes quantitatives I : introduction aux principes et statistiques descriptives,M3 – Méthodes de base (3 orientations),Propédeutique,1re,3,G. Guex,FGSE,,5,5,Documenté
+METHQUANSTATII,Méthodes quantitatives II : statistiques inférentielles,M3 – Méthodes de base (3 orientations),Propédeutique,1re,3,G. Guex,FGSE,,3,3,Documenté
 GEOINFI,Géoinformatique I,M3 – Méthodes de base (3 orientations),Propédeutique,1re,6,Christian Kaiser,FGSE,,0,0,À documenter
 INTRMETHQUAL,Introduction aux méthodes qualitatives,M3 – Méthodes de base (GES),Propédeutique,1re,3,R. Kunz (SSP),UNIL – SSP,,0,0,À documenter
 MATHGEOS,Mathématiques pour les géosciences,"M3 – Méthodes de base (SE, Géologie)",Propédeutique,1re,3,K. Zuleta (EPFL),EPFL,,0,0,À documenter
@@ -35,7 +35,7 @@ GESTEAU,Gestion de l'eau,M3 – Environnement naturel (GES) ; M5 (SE),"Géograph
 GEOMORI,Géomorphologie I,M3 (GES) ; M3 (SE) ; M2 (Géologie),"Géographie, environnement et sociétés",2e,3,Emmanuel Reynard,FGSE,,3,3,Documenté
 TELEDE,Télédétection,M3 (GES) ; M2 (SE) ; M3 (Géologie),"Géographie, environnement et sociétés",2e,3,Grégoire Mariéthoz,FGSE,,3,3,Documenté
 PRODSAVOGEOG,Production de savoirs en géographie et environnement,M4 – Outils et méthodes (GES) ; M4 (SE),"Géographie, environnement et sociétés",2e,3,Christian Kull,FGSE,S. Lane,3,3,Documenté
-METHQUANSTATIII,Méthodes quantitatives III : statistiques multivariées,M4 (GES) ; M2 (SE),"Géographie, environnement et sociétés",2e,3,G. Guex,FGSE,,0,0,À documenter
+METHQUANSTATIII,Méthodes quantitatives III : statistiques multivariées,M4 (GES) ; M2 (SE),"Géographie, environnement et sociétés",2e,3,G. Guex,FGSE,,3,3,Documenté
 METHENQUANAL,Méthodes d'enquête et d'analyse,M4 – Outils et méthodes,"Géographie, environnement et sociétés",2e,3,Céline Rozenblat,FGSE,M. Rogov,3,3,Documenté
 METHQUALAVAN,Méthodes qualitatives avancées : méthodes et terrains,M4 – Outils et méthodes,"Géographie, environnement et sociétés",2e,6,Laine Chanteloup,FGSE,G. Walters,0,0,À documenter
 GEOINFII,Géoinformatique II,M5 (GES) ; M6 (SE) ; M6 (Géologie),"Géographie, environnement et sociétés",3e,3,Tom Beucler,FGSE,,0,0,À documenter

@@ -443,6 +443,110 @@
    "niv": 6
   },
   {
+   "id": "METHQUANINTRI-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Se familiariser avec la formalisation mathématique et comprendre ses avantages et inconvénients",
+   "cours": "Méthodes quantitatives I : introduction aux principes et statistiques descriptives",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Guillaume Guex",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "METHQUANINTRI-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Connaître les différents types de variables existantes",
+   "cours": "Méthodes quantitatives I : introduction aux principes et statistiques descriptives",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Guillaume Guex",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "METHQUANINTRI-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Comprendre la différence entre les données empiriques et un modèle théorique",
+   "cours": "Méthodes quantitatives I : introduction aux principes et statistiques descriptives",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Guillaume Guex",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "METHQUANINTRI-4",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Sur un échantillon, connaître les principaux indicateurs et visualisations uni- et bi-variés",
+   "cours": "Méthodes quantitatives I : introduction aux principes et statistiques descriptives",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Guillaume Guex",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "METHQUANINTRI-5",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Pour les modèles théoriques, connaître les principales lois de probabilité utilisées",
+   "cours": "Méthodes quantitatives I : introduction aux principes et statistiques descriptives",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Guillaume Guex",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "METHQUANSTATII-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Comprendre la théorie sous-jacente aux tests d'hypothèses",
+   "cours": "Méthodes quantitatives II : statistiques inférentielles",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Guillaume Guex",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "METHQUANSTATII-2",
+   "cat": "Techniques et informatique",
+   "txt": "Savoir utiliser les principaux tests d'hypothèses et savoir calculer des intervalles de confiance",
+   "cours": "Méthodes quantitatives II : statistiques inférentielles",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Guillaume Guex",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "METHQUANSTATII-3",
+   "cat": "Techniques et informatique",
+   "txt": "Connaître des notions de théorie de l'information et comprendre le lien avec la statistique",
+   "cours": "Méthodes quantitatives II : statistiques inférentielles",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Guillaume Guex",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
    "id": "ELEMSCIEECON-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Maîtriser les notions de base de micro- et macroéconomie",
@@ -828,6 +932,45 @@
    "annee": "2e",
    "statut": "Validé",
    "par": "Christian Kull",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "METHQUANSTATIII-1",
+   "cat": "Techniques et informatique",
+   "txt": "Comprendre les liens entre statistique multivariée et géométrie",
+   "cours": "Méthodes quantitatives III : statistiques multivariées",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Guillaume Guex",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "METHQUANSTATIII-2",
+   "cat": "Techniques et informatique",
+   "txt": "Apprendre à manier des outils d'algèbre linéaire pour résoudre des problèmes statistiques",
+   "cours": "Méthodes quantitatives III : statistiques multivariées",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Guillaume Guex",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "METHQUANSTATIII-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Comprendre les principales méthodes d'analyses multivariées (régression multiple, ACP, MDS, AFC, clustering) et savoir interpréter leurs résultats",
+   "cours": "Méthodes quantitatives III : statistiques multivariées",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Guillaume Guex",
    "sur": [],
    "cec": "Savoirs",
    "niv": 6
@@ -2387,10 +2530,10 @@
    "resp": "G. Guex",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 5,
+   "nval": 5,
    "id": "METHQUANINTRI",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Méthodes quantitatives II : statistiques inférentielles",
@@ -2401,10 +2544,10 @@
    "resp": "G. Guex",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "METHQUANSTATII",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Géoinformatique I",
@@ -2681,10 +2824,10 @@
    "resp": "G. Guex",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "METHQUANSTATIII",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Méthodes d'enquête et d'analyse",

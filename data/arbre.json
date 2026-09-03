@@ -144,6 +144,32 @@
    "niv": 6
   },
   {
+   "id": "HISTVIESTRA-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Situer les grandes étapes de l'histoire de la vie dans l'échelle des temps géologiques",
+   "cours": "Histoire de la Vie et stratigraphie",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Allison Daley",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "HISTVIESTRA-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Appliquer les principes de la stratigraphie et de la corrélation de séries",
+   "cours": "Histoire de la Vie et stratigraphie",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Allison Daley",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "ELEMSCIEECON-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Maîtriser les notions de base de micro- et macroéconomie",
@@ -1231,6 +1257,45 @@
    "niv": 6
   },
   {
+   "id": "PALEON-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Reconnaître les principaux groupes fossiles, leur anatomie fonctionnelle et leur valeur stratigraphique",
+   "cours": "Paléontologie",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Allison Daley",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "PALEON-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Interpréter un assemblage fossile en termes de paléoenvironnement, de paléoécologie et/ou d'utilisation biostratigraphique",
+   "cours": "Paléontologie",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Allison Daley",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "PALEON-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Décrire et déterminer un spécimen selon une démarche rigoureuse",
+   "cours": "Paléontologie",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Allison Daley",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
    "id": "TECTGEOD-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Comprendre quantitativement les grands processus tectoniques et géodynamiques",
@@ -1382,6 +1447,45 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Jean-Daniel Champagnac",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "CAMPCARTPALE-1",
+   "cat": "Terrain / Méthodo",
+   "txt": "Réaliser une cartographie géologique de détail d'une région géologiquement complexe",
+   "cours": "Camp de cartographie et paléontologie",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Allison Daley",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "CAMPCARTPALE-2",
+   "cat": "Terrain / Méthodo",
+   "txt": "Intégrer des données sédimentologiques, stratigraphiques et paléontologiques pour interpréter les affleurements sur le terrain et reconstituer l'histoire géologique de la région",
+   "cours": "Camp de cartographie et paléontologie",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Allison Daley",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "CAMPCARTPALE-3",
+   "cat": "Soft Skills",
+   "txt": "Produire un rapport de terrain complet et argumenté",
+   "cours": "Camp de cartographie et paléontologie",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Allison Daley",
    "sur": [],
    "cec": "Aptitudes",
    "niv": 6
@@ -1658,10 +1762,10 @@
    "resp": "Allison Daley",
    "ratt": "FGSE",
    "autres": "J. Marin-Carbonne ; P. Gueriau",
-   "n": 0,
-   "nval": 0,
+   "n": 2,
+   "nval": 2,
    "id": "HISTVIESTRA",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Méthodes quantitatives I : introduction aux principes et statistiques descriptives",
@@ -2638,10 +2742,10 @@
    "resp": "Allison Daley",
    "ratt": "FGSE",
    "autres": "A. Pictet",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "PALEON",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Camp de stratigraphie et sédimentologie",
@@ -2778,10 +2882,10 @@
    "resp": "Allison Daley",
    "ratt": "FGSE",
    "autres": "S. Jaccard ; B. Bomou",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "CAMPCARTPALE",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Géophysique d'exploration",

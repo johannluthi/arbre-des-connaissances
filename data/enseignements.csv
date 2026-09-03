@@ -13,7 +13,7 @@ EXCUCASSE,Excursions et cas d'études (SE),M2 – Préparation à une orientatio
 INTRGEOLALPI,Introduction à la géologie alpine,M2 – Préparation à une orientation (SE),Propédeutique,1re,3,Guillaume Jouvet,FGSE,J.-D. Champagnac,5,5,Documenté
 GEOLREGI,Géologie régionale,M2 – Préparation à une orientation (Géologie),Propédeutique,1re,3,Pierre Lanari,FGSE,S. Schmalholz,0,0,À documenter
 CAMPTERRGEOL,Camp de terrain en géologie,M2 – Préparation à une orientation (Géologie),Propédeutique,1re,3,Stefan Schmalholz,FGSE,A. Daley ; A. Samsu,3,3,Documenté
-HISTVIESTRA,Histoire de la Vie et stratigraphie,M2 – Préparation à une orientation (Géologie),Propédeutique,1re,3,Allison Daley,FGSE,J. Marin-Carbonne ; P. Gueriau,0,0,À documenter
+HISTVIESTRA,Histoire de la Vie et stratigraphie,M2 – Préparation à une orientation (Géologie),Propédeutique,1re,3,Allison Daley,FGSE,J. Marin-Carbonne ; P. Gueriau,2,2,Documenté
 METHQUANINTRI,Méthodes quantitatives I : introduction aux principes et statistiques descriptives,M3 – Méthodes de base (3 orientations),Propédeutique,1re,3,G. Guex,FGSE,,0,0,À documenter
 METHQUANSTATII,Méthodes quantitatives II : statistiques inférentielles,M3 – Méthodes de base (3 orientations),Propédeutique,1re,3,G. Guex,FGSE,,0,0,À documenter
 GEOINFI,Géoinformatique I,M3 – Méthodes de base (3 orientations),Propédeutique,1re,6,Christian Kaiser,FGSE,,0,0,À documenter
@@ -83,7 +83,7 @@ GEOLSTRU,Géologie structurale,M1 – Géologie structurale et pétrologie,Géol
 CAMPGEOLSTRU,Camp de géologie structurale,M1 – Géologie structurale et pétrologie,Géologie,2e,3,Anindita Samsu,FGSE,,0,0,À documenter
 CAMPPETRMAGM,Camp de pétrologie magmatique,M1 – Géologie structurale et pétrologie,Géologie,2e,3,Othmar Müntener,FGSE,S. Pilet,0,0,À documenter
 SEDIPHYS,Sédimentologie physique,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Samuel Jaccard,FGSE,B. Bomou,0,0,À documenter
-PALEON,Paléontologie,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Allison Daley,FGSE,A. Pictet,0,0,À documenter
+PALEON,Paléontologie,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Allison Daley,FGSE,A. Pictet,3,3,Documenté
 CAMPSTRASEDI,Camp de stratigraphie et sédimentologie,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Samuel Jaccard,FGSE,B. Bomou,0,0,À documenter
 TECTGEOD,Tectonique et géodynamique,M3 – Géophysique et risques,Géologie,2e,3,Stefan Schmalholz,FGSE,,3,3,Documenté
 PETRMAGMAVA,Pétrologie magmatique et métamorphique (avancée),M5 – Géologie avancée,Géologie,3e,3,Pierre Lanari,FGSE,O. Müntener,0,0,À documenter
@@ -93,7 +93,7 @@ GEOLCHAIALPI,Géologie de la chaîne alpine,M5 – Géologie avancée,Géologie,
 EROSTECTCLIM,"Erosion, tectonique et climat",M6 – Géologie de la surface terrestre,Géologie,3e,3,Guillaume Jouvet,FGSE,J.-D. Champagnac ; G. King,9,9,Documenté
 HYDRGENE,Hydrogéologie générale,M6 – Géologie de la surface terrestre,Géologie,3e,3,Philippe Renard,UNINE,C. Roques (UNINE),0,0,À documenter
 SEDIBIOC,Sédimentologie biochimique,M6 – Géologie de la surface terrestre,Géologie,3e,3,Samuel Jaccard,FGSE,,0,0,À documenter
-CAMPCARTPALE,Camp de cartographie et paléontologie,M6 – Géologie de la surface terrestre,Géologie,3e,3,Allison Daley,FGSE,S. Jaccard ; B. Bomou,0,0,À documenter
+CAMPCARTPALE,Camp de cartographie et paléontologie,M6 – Géologie de la surface terrestre,Géologie,3e,3,Allison Daley,FGSE,S. Jaccard ; B. Bomou,3,3,Documenté
 GEOPEXPL,Géophysique d'exploration,M7 – Géologie de l'exploration,Géologie,3e,6,Klaus Holliger,FGSE,,2,2,Documenté
 GEOPEXPLCAMP,Géophysique d'exploration – camp,M7 – Géologie de l'exploration,Géologie,3e,6,James Irving,FGSE,N. Linde ; B. Quintal,0,0,À documenter
 GEOLINGE,Géologie de l'ingénieur,M7 – Géologie de l'exploration,Géologie,3e,3,"M. Violay (EPFL, coord.)",EPFL,O. Müntener ; P. Lanari,0,0,À documenter

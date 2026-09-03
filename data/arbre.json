@@ -79,6 +79,45 @@
    "niv": 6
   },
   {
+   "id": "PENSGEOG-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Connaître l'histoire de la pensée géographique à travers ses différents paradigmes",
+   "cours": "La pensée géographique",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Patrick Rérat",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "PENSGEOG-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Repérer, pour chaque paradigme, les principaux centres d'intérêt, concepts et méthodes",
+   "cours": "La pensée géographique",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Patrick Rérat",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "PENSGEOG-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Identifier les débats théoriques actuels en géographie",
+   "cours": "La pensée géographique",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Patrick Rérat",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
    "id": "EXCUCASSE-1",
    "cat": "Terrain / Méthodo",
    "txt": "Observer et décrire un milieu naturel ou anthropisé sur le terrain",
@@ -470,7 +509,7 @@
   },
   {
    "id": "GEOGECON-3",
-   "cat": "Soft Skills",
+   "cat": "Connaissances disciplinaires",
    "txt": "Comparer et discuter la portée explicative de différents modèles et théories face à des configurations territoriales concrètes",
    "cours": "Géographie économique",
    "orient": "Géographie, environnement et sociétés",
@@ -794,6 +833,45 @@
    "niv": 6
   },
   {
+   "id": "GEOGMOBI-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Analyser les différentes formes de mobilités spatiales (mobilité quotidienne, résidentielle, etc.)",
+   "cours": "Géographie des mobilités",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Patrick Rérat",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOGMOBI-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Discuter les mobilités spatiales et leurs enjeux dans une perspective de durabilité",
+   "cours": "Géographie des mobilités",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Patrick Rérat",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOGMOBI-3",
+   "cat": "Terrain / Méthodo",
+   "txt": "Appliquer les concepts de la géographie des mobilités à une étude de cas menée sur le terrain",
+   "cours": "Géographie des mobilités",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Patrick Rérat",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "GEOGDEVE-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Analyser de façon critique les théories et les pratiques du développement",
@@ -925,7 +1003,7 @@
   },
   {
    "id": "EVALCRITMETH-3",
-   "cat": "Soft Skills",
+   "cat": "Connaissances disciplinaires",
    "txt": "Discuter les effets du choix d'une méthode sur la représentation d'un problème environnemental et sur la décision publique, notamment ce qu'elle rend visible ou laisse hors de l'analyse",
    "cours": "Evaluation critique des méthodes en économie environnementale",
    "orient": "Géographie, environnement et sociétés",
@@ -2038,10 +2116,10 @@
    "resp": "Patrick Rérat",
    "ratt": "FGSE",
    "autres": "M. Müller",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "PENSGEOG",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Excursions et cas d'études (GES)",
@@ -2570,10 +2648,10 @@
    "resp": "Patrick Rérat",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "GEOGMOBI",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Géographie du développement",

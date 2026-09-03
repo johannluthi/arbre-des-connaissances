@@ -105,6 +105,45 @@
    "niv": 6
   },
   {
+   "id": "GEOLREGI-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Caractériser les grands ensembles géologiques régionaux et leur histoire",
+   "cours": "Géologie régionale",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Pierre Lanari",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOLREGI-2",
+   "cat": "Terrain / Méthodo",
+   "txt": "Exploiter cartes, coupes et affleurements pour reconstituer une histoire géologique",
+   "cours": "Géologie régionale",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Pierre Lanari",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOLREGI-3",
+   "cat": "Soft Skills",
+   "txt": "Présenter oralement une interprétation géologique argumentée",
+   "cours": "Géologie régionale",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Pierre Lanari",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "CAMPTERRGEOL-1",
    "cat": "Terrain / Méthodo",
    "txt": "Établir une carte géologique, réaliser une coupe géologique, décrire les unités géologiques et interpréter les observations géologiques",
@@ -1439,6 +1478,84 @@
    "niv": 6
   },
   {
+   "id": "PETRMAGMAVA-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Utiliser les équilibres de phases pour tracer les processus tectoniques",
+   "cours": "Pétrologie magmatique et métamorphique (avancée)",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Pierre Lanari",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "PETRMAGMAVA-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Intégrer la dimension chimique à la caractérisation macroscopique des roches",
+   "cours": "Pétrologie magmatique et métamorphique (avancée)",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Pierre Lanari",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "PETRMAGMAVA-3",
+   "cat": "Soft Skills",
+   "txt": "Argumenter oralement une interprétation pétrologique",
+   "cours": "Pétrologie magmatique et métamorphique (avancée)",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Pierre Lanari",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "PETRMETACAMP-1",
+   "cat": "Terrain / Méthodo",
+   "txt": "Cartographier une zone métamorphique sur le terrain",
+   "cours": "Pétrologie métamorphique, camp",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Pierre Lanari",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "PETRMETACAMP-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Intégrer l'analyse des roches, minéraux, textures et structures",
+   "cours": "Pétrologie métamorphique, camp",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Pierre Lanari",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "PETRMETACAMP-3",
+   "cat": "Terrain / Méthodo",
+   "txt": "Construire un raisonnement scientifique à partir de données de terrain",
+   "cours": "Pétrologie métamorphique, camp",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Pierre Lanari",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "EROSTECTCLIM-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Approcher les notions de couplage climat-érosion-tectonique par l'angle historique",
@@ -1838,10 +1955,10 @@
    "resp": "Pierre Lanari",
    "ratt": "FGSE",
    "autres": "S. Schmalholz",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "GEOLREGI",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Camp de terrain en géologie",
@@ -2888,10 +3005,10 @@
    "resp": "Pierre Lanari",
    "ratt": "FGSE",
    "autres": "O. Müntener",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "PETRMAGMAVA",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Thermodynamique et cinétique",
@@ -2916,10 +3033,10 @@
    "resp": "Pierre Lanari",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "PETRMETACAMP",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Géologie de la chaîne alpine",

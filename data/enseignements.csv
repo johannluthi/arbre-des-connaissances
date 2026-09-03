@@ -11,7 +11,7 @@ CHIMGENE,Chimie générale,"M2 – Préparation à une orientation (SE, Géologi
 PHYSGENEI,Physique générale I,"M2 – Préparation à une orientation (SE, Géologie)",Propédeutique,1re,3,R. Trappitsch (EPFL),EPFL,,0,0,À documenter
 EXCUCASSE,Excursions et cas d'études (SE),M2 – Préparation à une orientation (SE),Propédeutique,1re,3,Nathalie Chèvre,FGSE,M.-E. Perga ; S. Lane ; P. Vittoz,3,3,Documenté
 INTRGEOLALPI,Introduction à la géologie alpine,M2 – Préparation à une orientation (SE),Propédeutique,1re,3,Guillaume Jouvet,FGSE,J.-D. Champagnac,5,5,Documenté
-GEOLREGI,Géologie régionale,M2 – Préparation à une orientation (Géologie),Propédeutique,1re,3,Pierre Lanari,FGSE,S. Schmalholz,0,0,À documenter
+GEOLREGI,Géologie régionale,M2 – Préparation à une orientation (Géologie),Propédeutique,1re,3,Pierre Lanari,FGSE,S. Schmalholz,3,3,Documenté
 CAMPTERRGEOL,Camp de terrain en géologie,M2 – Préparation à une orientation (Géologie),Propédeutique,1re,3,Stefan Schmalholz,FGSE,A. Daley ; A. Samsu,3,3,Documenté
 HISTVIESTRA,Histoire de la Vie et stratigraphie,M2 – Préparation à une orientation (Géologie),Propédeutique,1re,3,Allison Daley,FGSE,J. Marin-Carbonne ; P. Gueriau,2,2,Documenté
 METHQUANINTRI,Méthodes quantitatives I : introduction aux principes et statistiques descriptives,M3 – Méthodes de base (3 orientations),Propédeutique,1re,3,G. Guex,FGSE,,0,0,À documenter
@@ -86,9 +86,9 @@ SEDIPHYS,Sédimentologie physique,"M2 – Sédimentologie, géomorphologie et pa
 PALEON,Paléontologie,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Allison Daley,FGSE,A. Pictet,3,3,Documenté
 CAMPSTRASEDI,Camp de stratigraphie et sédimentologie,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Samuel Jaccard,FGSE,B. Bomou,0,0,À documenter
 TECTGEOD,Tectonique et géodynamique,M3 – Géophysique et risques,Géologie,2e,3,Stefan Schmalholz,FGSE,,3,3,Documenté
-PETRMAGMAVA,Pétrologie magmatique et métamorphique (avancée),M5 – Géologie avancée,Géologie,3e,3,Pierre Lanari,FGSE,O. Müntener,0,0,À documenter
+PETRMAGMAVA,Pétrologie magmatique et métamorphique (avancée),M5 – Géologie avancée,Géologie,3e,3,Pierre Lanari,FGSE,O. Müntener,3,3,Documenté
 THERCINE,Thermodynamique et cinétique,M5 – Géologie avancée,Géologie,3e,3,Othmar Müntener,FGSE,J. Marin-Carbonne ; P. Lanari,0,0,À documenter
-PETRMETACAMP,"Pétrologie métamorphique, camp",M5 – Géologie avancée,Géologie,3e,5,Pierre Lanari,FGSE,,0,0,À documenter
+PETRMETACAMP,"Pétrologie métamorphique, camp",M5 – Géologie avancée,Géologie,3e,5,Pierre Lanari,FGSE,,3,3,Documenté
 GEOLCHAIALPI,Géologie de la chaîne alpine,M5 – Géologie avancée,Géologie,3e,3,Othmar Müntener,FGSE,S. Schmalholz ; P. Lanari,0,0,À documenter
 EROSTECTCLIM,"Erosion, tectonique et climat",M6 – Géologie de la surface terrestre,Géologie,3e,3,Guillaume Jouvet,FGSE,J.-D. Champagnac ; G. King,9,9,Documenté
 HYDRGENE,Hydrogéologie générale,M6 – Géologie de la surface terrestre,Géologie,3e,3,Philippe Renard,UNINE,C. Roques (UNINE),0,0,À documenter

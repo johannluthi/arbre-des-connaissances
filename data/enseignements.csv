@@ -1,6 +1,6 @@
 id,enseignement,module,orientation,annee,ects,responsable,rattachement,autres_enseignants,nb_competences,nb_validees,statut
 GEOGENVISOCI,"Géographie, environnement et sociétés : approches et théories contemporaines",M1 – Initiation aux orientations,Propédeutique,1re,6,Mathis Stock,FGSE,C. Arnsperger ; J. Steinberger,0,0,À documenter
-INTRSCIEENVI,Introduction aux sciences de l'environnement,M1 – Initiation aux orientations,Propédeutique,1re,6,Grégoire Mariéthoz,FGSE,N. Chèvre ; S. Lane ; M. Keiluweit ; M.-E. Perga ; J. Steinberger,0,0,À documenter
+INTRSCIEENVI,Introduction aux sciences de l'environnement,M1 – Initiation aux orientations,Propédeutique,1re,6,Grégoire Mariéthoz,FGSE,N. Chèvre ; S. Lane ; M. Keiluweit ; M.-E. Perga ; J. Steinberger,3,3,Documenté
 GEOLINTRSCIE,Géologie : introduction aux Sciences de la Terre,M1 – Initiation aux orientations,Propédeutique,1re,6,Sébastien Pilet,FGSE,G. Hetényi ; S. Jaccard,0,0,À documenter
 POPUCROI,Population et dé/croissance,M2 – Préparation à une orientation (GES),Propédeutique,1re,6,Christophe Mager,FGSE,,0,0,À documenter
 PENSGEOG,La pensée géographique,M2 – Préparation à une orientation (GES),Propédeutique,1re,6,Patrick Rérat,FGSE,M. Müller,0,0,À documenter
@@ -33,7 +33,7 @@ GESTSOCIFLUX,Gestion sociale des flux de matière,M2 – Durabilité et transiti
 POLIENVI,Politiques environnementales,M2 – Durabilité et transition écologique,"Géographie, environnement et sociétés",2e,6,J. Pollard (SSP),UNIL – SSP,,0,0,À documenter
 GESTEAU,Gestion de l'eau,M3 – Environnement naturel (GES) ; M5 (SE),"Géographie, environnement et sociétés",2e,3,Emmanuel Reynard,FGSE,,3,3,Documenté
 GEOMORI,Géomorphologie I,M3 (GES) ; M3 (SE) ; M2 (Géologie),"Géographie, environnement et sociétés",2e,3,Emmanuel Reynard,FGSE,,3,3,Documenté
-TELEDE,Télédétection,M3 (GES) ; M2 (SE) ; M3 (Géologie),"Géographie, environnement et sociétés",2e,3,Grégoire Mariéthoz,FGSE,,0,0,À documenter
+TELEDE,Télédétection,M3 (GES) ; M2 (SE) ; M3 (Géologie),"Géographie, environnement et sociétés",2e,3,Grégoire Mariéthoz,FGSE,,3,3,Documenté
 PRODSAVOGEOG,Production de savoirs en géographie et environnement,M4 – Outils et méthodes (GES) ; M4 (SE),"Géographie, environnement et sociétés",2e,3,Christian Kull,FGSE,S. Lane,3,3,Documenté
 METHQUANSTATIII,Méthodes quantitatives III : statistiques multivariées,M4 (GES) ; M2 (SE),"Géographie, environnement et sociétés",2e,3,G. Guex,FGSE,,0,0,À documenter
 METHENQUANAL,Méthodes d'enquête et d'analyse,M4 – Outils et méthodes,"Géographie, environnement et sociétés",2e,3,Céline Rozenblat,FGSE,M. Rogov,3,3,Documenté

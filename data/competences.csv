@@ -1,4 +1,7 @@
 id,categorie,dimension_cec,niveau_cec,competence,enseignement,orientation,annee,statut,valide_par,sappuie_sur
+INTRSCIEENVI-1,Connaissances disciplinaires,Savoirs,6,"Décrire les grands compartiments et cycles du système environnemental (eau, sol, air, vivant)",Introduction aux sciences de l'environnement,Propédeutique,1re,Validé,Grégoire Mariéthoz,
+INTRSCIEENVI-2,Connaissances disciplinaires,Aptitudes,6,Articuler les interactions entre la société et son environnement,Introduction aux sciences de l'environnement,Propédeutique,1re,Validé,Grégoire Mariéthoz,
+INTRSCIEENVI-3,Soft Skills,Aptitudes,6,Faire une lecture critique d'un article scientifique,Introduction aux sciences de l'environnement,Propédeutique,1re,Validé,Grégoire Mariéthoz,
 EXCUCASSE-1,Terrain / Méthodo,Aptitudes,6,Observer et décrire un milieu naturel ou anthropisé sur le terrain,Excursions et cas d'études (SE),Propédeutique,1re,Validé,Nathalie Chèvre,
 EXCUCASSE-2,Terrain / Méthodo,Aptitudes,6,Choisir et appliquer des méthodes de relevé et d'échantillonnage de base,Excursions et cas d'études (SE),Propédeutique,1re,Validé,Nathalie Chèvre,
 EXCUCASSE-3,Soft Skills,Autonomie et responsabilité,6,"Travailler en groupe sur différents types de rendus (rapport, article de blog, infographie, résumé type journal)",Excursions et cas d'études (SE),Propédeutique,1re,Validé,Nathalie Chèvre,
@@ -36,6 +39,9 @@ GESTEAU-3,Connaissances disciplinaires,Savoirs,6,Comprendre les modalités de go
 GEOMORI-1,Connaissances disciplinaires,Savoirs,6,Identifier les principaux processus et formes du relief,Géomorphologie I,"Géographie, environnement et sociétés",2e,Validé,Emmanuel Reynard,
 GEOMORI-2,Connaissances disciplinaires,Aptitudes,6,Lire un paysage et en reconstituer son histoire morphogénétique,Géomorphologie I,"Géographie, environnement et sociétés",2e,Validé,Emmanuel Reynard,
 GEOMORI-3,Connaissances disciplinaires,Aptitudes,6,Savoir expliquer l'influence de la structure géologique et du climat sur les formes du relief,Géomorphologie I,"Géographie, environnement et sociétés",2e,Validé,Emmanuel Reynard,
+TELEDE-1,Techniques et informatique,Savoirs,6,"Le spectre de la lumière, les longueurs d'onde, et le fait qu'on peut les utiliser pour acquérir des données environnementales",Télédétection,"Géographie, environnement et sociétés",2e,Validé,Grégoire Mariéthoz,
+TELEDE-2,Techniques et informatique,Savoirs,6,Les traitements d'images (dont classification d'images),Télédétection,"Géographie, environnement et sociétés",2e,Validé,Grégoire Mariéthoz,
+TELEDE-3,Techniques et informatique,Aptitudes,6,Utilisation de code (Python),Télédétection,"Géographie, environnement et sociétés",2e,Validé,Grégoire Mariéthoz,
 PRODSAVOGEOG-1,Connaissances disciplinaires,Aptitudes,6,Mobiliser les concepts de philosophie et sociologie des sciences pour décrire les démarches scientifiques et la production de savoirs,Production de savoirs en géographie et environnement,"Géographie, environnement et sociétés",2e,Validé,Christian Kull,
 PRODSAVOGEOG-2,Connaissances disciplinaires,Aptitudes,6,"Comparer les apports et les limites des approches diverses, y compris positiviste, constructiviste, critique et interprétatives",Production de savoirs en géographie et environnement,"Géographie, environnement et sociétés",2e,Validé,Christian Kull,
 PRODSAVOGEOG-3,Terrain / Méthodo,Savoirs,6,"Identifier les étapes d'un projet de recherche, de la question au dispositif",Production de savoirs en géographie et environnement,"Géographie, environnement et sociétés",2e,Validé,Christian Kull,

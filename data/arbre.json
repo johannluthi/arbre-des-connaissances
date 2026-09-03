@@ -118,6 +118,45 @@
    "niv": 6
   },
   {
+   "id": "SYSTENER-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Décrire les principaux éléments et dynamiques des systèmes énergétiques ainsi que les enjeux et les solutions liés à leur transformation",
+   "cours": "Systèmes énergétiques",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Selin Yilmaz",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "SYSTENER-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Analyser les impacts techniques, sociaux, politiques, économiques et environnementaux des différents systèmes énergétiques et des trajectoires de transition",
+   "cours": "Systèmes énergétiques",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Selin Yilmaz",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "SYSTENER-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Comparer les systèmes énergétiques, les approches de gouvernance et les dynamiques de transition dans différents contextes géographiques et socio-politiques",
+   "cours": "Systèmes énergétiques",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Selin Yilmaz",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "EXCUCASSE-1",
    "cat": "Terrain / Méthodo",
    "txt": "Observer et décrire un milieu naturel ou anthropisé sur le terrain",
@@ -2158,10 +2197,10 @@
    "resp": "Selin Yilmaz",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "SYSTENER",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Chimie générale",

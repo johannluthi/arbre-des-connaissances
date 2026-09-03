@@ -326,6 +326,45 @@
    "niv": 6
   },
   {
+   "id": "ECOLANTHINTR-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Questionner la relation entre nature et culture et la façon dont ces concepts influencent les débats et les pratiques environnementales",
+   "cours": "Écologies de l'Anthropocène : une introduction aux humanités environnementales",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Sara Asu Schroer",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "ECOLANTHINTR-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Développer une compréhension des thèmes clés des humanités environnementales et de ce qu'ils peuvent apporter à la recherche environnementale interdisciplinaire",
+   "cours": "Écologies de l'Anthropocène : une introduction aux humanités environnementales",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Sara Asu Schroer",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "ECOLANTHINTR-3",
+   "cat": "Soft Skills",
+   "txt": "Développer des compétences en réflexion critique et en discussion collaborative sur des sujets environnementaux",
+   "cours": "Écologies de l'Anthropocène : une introduction aux humanités environnementales",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Sara Asu Schroer",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "GESTEAU-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Maîtriser le concept de gestion intégrée des eaux",
@@ -1964,7 +2003,7 @@
    "statut": "À documenter"
   },
   {
-   "cours": "Introduction à la pensée écologique",
+   "cours": "Écologies de l'Anthropocène : une introduction aux humanités environnementales",
    "module": "M2 – Durabilité et transition écologique",
    "orient": "Géographie, environnement et sociétés",
    "annee": "2e",
@@ -1972,10 +2011,10 @@
    "resp": "S. A. Schroer",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
-   "id": "INTRPENSECOL",
-   "statut": "À documenter"
+   "n": 3,
+   "nval": 3,
+   "id": "ECOLANTHINTR",
+   "statut": "Documenté"
   },
   {
    "cours": "Gestion sociale des flux de matière",

@@ -1987,27 +1987,27 @@
   {
    "id": "GEOPEXPL-1",
    "cat": "Connaissances disciplinaires",
-   "txt": "Introduction à l'ensemble des méthodes de géophysique d'exploration courantes permettant l'analyse et la résolution de problèmes concrets, comme par exemple l'estimation de la forme et de la profondeur d'une minéralisation métallique",
+   "txt": "Analyser et résoudre un problème concret par les méthodes courantes de géophysique d'exploration, par exemple estimer la forme et la profondeur d'une minéralisation métallique",
    "cours": "Géophysique d'exploration",
    "orient": "Géologie",
    "annee": "3e",
    "statut": "Validé",
    "par": "Klaus Holliger",
    "sur": [],
-   "cec": "Savoirs",
+   "cec": "Aptitudes",
    "niv": 6
   },
   {
    "id": "GEOPEXPL-2",
    "cat": "Connaissances disciplinaires",
-   "txt": "Connaissances en interprétation pétrophysique des mesures géophysiques, permettant par exemple l'estimation des teneurs en gaz, pétrole et eau présentes dans l'espace poreux d'un réservoir d'hydrocarbures",
+   "txt": "Interpréter les mesures géophysiques en termes pétrophysiques, par exemple estimer les teneurs en gaz, pétrole et eau dans l'espace poreux d'un réservoir d'hydrocarbures",
    "cours": "Géophysique d'exploration",
    "orient": "Géologie",
    "annee": "3e",
    "statut": "Validé",
    "par": "Klaus Holliger",
    "sur": [],
-   "cec": "Savoirs",
+   "cec": "Aptitudes",
    "niv": 6
   },
   {

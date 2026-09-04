@@ -586,6 +586,45 @@
    "niv": 6
   },
   {
+   "id": "MINEOPTI-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Connaissance des principes de l'optique cristalline",
+   "cours": "Minéralogie optique",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "MINEOPTI-2",
+   "cat": "Terrain / Méthodo",
+   "txt": "Déterminer des minéraux en lame mince au microscope polarisant",
+   "cours": "Minéralogie optique",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "MINEOPTI-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Décrire et documenter les propriétés optiques des silicates principaux",
+   "cours": "Minéralogie optique",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
    "id": "GEOGSOCICULT-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Analyser les dimensions sociales et culturelles de la production de l'espace",
@@ -1933,6 +1972,97 @@
    "niv": 6
   },
   {
+   "id": "PETRMAGMMETA-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Identifier et classer les roches magmatiques et métamorphiques et leurs textures",
+   "cours": "Pétrographie magmatique et métamorphique",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "PETRMAGMMETA-2",
+   "cat": "Terrain / Méthodo",
+   "txt": "Décrire une lame mince et en déduire une histoire de cristallisation ou de métamorphisme",
+   "cours": "Pétrographie magmatique et métamorphique",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "PETRMAGMMETA-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Relier observation pétrographique et contexte géodynamique",
+   "cours": "Pétrographie magmatique et métamorphique",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "CAMPPETRMAGM-1",
+   "cat": "Terrain / Méthodo",
+   "txt": "Reconnaître et échantillonner des associations magmatiques sur le terrain",
+   "cours": "Camp de pétrologie magmatique",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "CAMPPETRMAGM-2",
+   "cat": "Terrain / Méthodo",
+   "txt": "Relier observations de terrain et processus magmatiques profonds",
+   "cours": "Camp de pétrologie magmatique",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "CAMPPETRMAGM-3",
+   "cat": "Terrain / Méthodo",
+   "txt": "Différencier observations du terrain et interprétations",
+   "cours": "Camp de pétrologie magmatique",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "CAMPPETRMAGM-4",
+   "cat": "Soft Skills",
+   "txt": "Documenter et restituer un travail de terrain de manière structurée",
+   "cours": "Camp de pétrologie magmatique",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "PALEON-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Reconnaître les principaux groupes fossiles, leur anatomie fonctionnelle et leur valeur stratigraphique",
@@ -2050,6 +2180,58 @@
    "niv": 6
   },
   {
+   "id": "THERCINE-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Distinguer des processus en équilibre et en déséquilibre",
+   "cours": "Thermodynamique et cinétique",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "THERCINE-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Appliquer la thermodynamique des équilibres aux systèmes géologiques",
+   "cours": "Thermodynamique et cinétique",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "THERCINE-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Prendre en compte les vitesses de réaction et de diffusion dans l'interprétation",
+   "cours": "Thermodynamique et cinétique",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "THERCINE-4",
+   "cat": "Techniques et informatique",
+   "txt": "Mener des calculs quantitatifs simples et tester des hypothèses",
+   "cours": "Thermodynamique et cinétique",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "PETRMETACAMP-1",
    "cat": "Terrain / Méthodo",
    "txt": "Cartographier une zone métamorphique sur le terrain",
@@ -2084,6 +2266,58 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Pierre Lanari",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOLCHAIALPI-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Synthétiser l'évolution géodynamique des Alpes",
+   "cours": "Géologie de la chaîne alpine",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOLCHAIALPI-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Analyse et compréhension des problèmes dans l'évolution géodynamique des Alpes",
+   "cours": "Géologie de la chaîne alpine",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOLCHAIALPI-3",
+   "cat": "Techniques et informatique",
+   "txt": "Intégrer données structurales, pétrologiques et sédimentaires en un modèle cohérent",
+   "cours": "Géologie de la chaîne alpine",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOLCHAIALPI-4",
+   "cat": "Soft Skills",
+   "txt": "Synthèse des articles scientifiques et présentation des résultats sur le terrain",
+   "cours": "Géologie de la chaîne alpine",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Othmar Müntener",
    "sur": [],
    "cec": "Aptitudes",
    "niv": 6
@@ -2656,10 +2890,10 @@
    "resp": "Othmar Müntener",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "MINEOPTI",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Géographie sociale et culturelle",
@@ -3426,10 +3660,10 @@
    "resp": "Othmar Müntener",
    "ratt": "FGSE",
    "autres": "P. Lanari",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "PETRMAGMMETA",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Géologie structurale",
@@ -3468,10 +3702,10 @@
    "resp": "Othmar Müntener",
    "ratt": "FGSE",
    "autres": "S. Pilet",
-   "n": 0,
-   "nval": 0,
+   "n": 4,
+   "nval": 4,
    "id": "CAMPPETRMAGM",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Sédimentologie physique",
@@ -3552,10 +3786,10 @@
    "resp": "Othmar Müntener",
    "ratt": "FGSE",
    "autres": "J. Marin-Carbonne ; P. Lanari",
-   "n": 0,
-   "nval": 0,
+   "n": 4,
+   "nval": 4,
    "id": "THERCINE",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Pétrologie métamorphique, camp",
@@ -3580,10 +3814,10 @@
    "resp": "Othmar Müntener",
    "ratt": "FGSE",
    "autres": "S. Schmalholz ; P. Lanari",
-   "n": 0,
-   "nval": 0,
+   "n": 4,
+   "nval": 4,
    "id": "GEOLCHAIALPI",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Erosion, tectonique et climat",

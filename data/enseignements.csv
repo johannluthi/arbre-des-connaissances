@@ -23,7 +23,7 @@ ELEMECOL,Eléments d'écologie,M4 – Sciences de base (3 orientations),Propéde
 ELEMSCIEECON,Eléments de sciences économiques,"M4 – Sciences de base (GES, SE)",Propédeutique,1re,3,Valérie Boisvert,FGSE,NN,3,3,Documenté
 ELEMSCIESOCI,Eléments de sciences sociales,"M4 – Sciences de base (GES, SE)",Propédeutique,1re,3,J. Pollard (SSP),UNIL – SSP,,0,0,À documenter
 MINEGENE,Minéralogie générale,M4 – Sciences de base (Géologie),Propédeutique,1re,3,Sébastien Pilet,FGSE,,0,0,À documenter
-MINEOPTI,Minéralogie optique,M4 – Sciences de base (Géologie),Propédeutique,1re,3,Othmar Müntener,FGSE,,0,0,À documenter
+MINEOPTI,Minéralogie optique,M4 – Sciences de base (Géologie),Propédeutique,1re,3,Othmar Müntener,FGSE,,3,3,Documenté
 GEOGSOCICULT,Géographie sociale et culturelle,M1 – Géographie humaine,"Géographie, environnement et sociétés",2e,6,René Véron,FGSE,L. Chanteloup,6,6,Documenté
 GEOGURBA,Géographie urbaine,M1 – Géographie humaine,"Géographie, environnement et sociétés",2e,6,Céline Rozenblat,FGSE,M. Rogov,3,3,Documenté
 GEOGECON,Géographie économique,M1 – Géographie humaine,"Géographie, environnement et sociétés",2e,3,Christophe Mager,FGSE,,3,3,Documenté
@@ -78,18 +78,18 @@ ECOTOX,Ecotoxicologie,M7b – Sciences aquatiques,Sciences de l'environnement,3e
 HYDRPOLLEAUX,Hydrochimie et pollution des eaux,M7b – Sciences aquatiques,Sciences de l'environnement,3e,3,Jasmine Berg,FGSE,,3,3,Documenté
 LIMNOL,Limnologie,M7b – Sciences aquatiques,Sciences de l'environnement,3e,3,Marie-Elodie Perga,FGSE,,0,0,À documenter
 INTRGEOCISOT,Introduction à la géochimie isotopique,M7b (SE) ; M4 (Géologie),Sciences de l'environnement,2e/3e,3,Torsten Vennemann,FGSE,B. Bomou ; M. Galvez,0,0,À documenter
-PETRMAGMMETA,Pétrographie magmatique et métamorphique,M1 – Géologie structurale et pétrologie,Géologie,2e,3,Othmar Müntener,FGSE,P. Lanari,0,0,À documenter
+PETRMAGMMETA,Pétrographie magmatique et métamorphique,M1 – Géologie structurale et pétrologie,Géologie,2e,3,Othmar Müntener,FGSE,P. Lanari,3,3,Documenté
 GEOLSTRU,Géologie structurale,M1 – Géologie structurale et pétrologie,Géologie,2e,6,Anindita Samsu,FGSE,,0,0,À documenter
 CAMPGEOLSTRU,Camp de géologie structurale,M1 – Géologie structurale et pétrologie,Géologie,2e,3,Anindita Samsu,FGSE,,0,0,À documenter
-CAMPPETRMAGM,Camp de pétrologie magmatique,M1 – Géologie structurale et pétrologie,Géologie,2e,3,Othmar Müntener,FGSE,S. Pilet,0,0,À documenter
+CAMPPETRMAGM,Camp de pétrologie magmatique,M1 – Géologie structurale et pétrologie,Géologie,2e,3,Othmar Müntener,FGSE,S. Pilet,4,4,Documenté
 SEDIPHYS,Sédimentologie physique,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Samuel Jaccard,FGSE,B. Bomou,0,0,À documenter
 PALEON,Paléontologie,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Allison Daley,FGSE,A. Pictet,3,3,Documenté
 CAMPSTRASEDI,Camp de stratigraphie et sédimentologie,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Samuel Jaccard,FGSE,B. Bomou,0,0,À documenter
 TECTGEOD,Tectonique et géodynamique,M3 – Géophysique et risques,Géologie,2e,3,Stefan Schmalholz,FGSE,,3,3,Documenté
 PETRMAGMAVA,Pétrologie magmatique et métamorphique (avancée),M5 – Géologie avancée,Géologie,3e,3,Pierre Lanari,FGSE,O. Müntener,3,3,Documenté
-THERCINE,Thermodynamique et cinétique,M5 – Géologie avancée,Géologie,3e,3,Othmar Müntener,FGSE,J. Marin-Carbonne ; P. Lanari,0,0,À documenter
+THERCINE,Thermodynamique et cinétique,M5 – Géologie avancée,Géologie,3e,3,Othmar Müntener,FGSE,J. Marin-Carbonne ; P. Lanari,4,4,Documenté
 PETRMETACAMP,"Pétrologie métamorphique, camp",M5 – Géologie avancée,Géologie,3e,5,Pierre Lanari,FGSE,,3,3,Documenté
-GEOLCHAIALPI,Géologie de la chaîne alpine,M5 – Géologie avancée,Géologie,3e,3,Othmar Müntener,FGSE,S. Schmalholz ; P. Lanari,0,0,À documenter
+GEOLCHAIALPI,Géologie de la chaîne alpine,M5 – Géologie avancée,Géologie,3e,3,Othmar Müntener,FGSE,S. Schmalholz ; P. Lanari,4,4,Documenté
 EROSTECTCLIM,"Erosion, tectonique et climat",M6 – Géologie de la surface terrestre,Géologie,3e,3,Guillaume Jouvet,FGSE,J.-D. Champagnac ; G. King,9,9,Documenté
 HYDRGENE,Hydrogéologie générale,M6 – Géologie de la surface terrestre,Géologie,3e,3,Philippe Renard,UNINE,C. Roques (UNINE),0,0,À documenter
 SEDIBIOC,Sédimentologie biochimique,M6 – Géologie de la surface terrestre,Géologie,3e,3,Samuel Jaccard,FGSE,,0,0,À documenter

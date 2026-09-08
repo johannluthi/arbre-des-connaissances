@@ -781,6 +781,58 @@
    "niv": 6
   },
   {
+   "id": "AMENTERR-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Connaître les enjeux contemporains de l'aménagement du territoire en Suisse : consommation du sol, adaptation au changement climatique, difficultés d'accès au logement, augmentation de la surface habitable par personne, constructions hors de la zone à bâtir",
+   "cours": "Aménagement du territoire",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Gabriela Debrunner",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "AMENTERR-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Maîtriser les instruments (formels et informels), les niveaux et les acteurs (publics et privés) de l'aménagement du territoire en Suisse",
+   "cours": "Aménagement du territoire",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Gabriela Debrunner",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "AMENTERR-3",
+   "cat": "Soft Skills",
+   "txt": "Développer un projet d'aménagement dans une commune vaudoise et sur un périmètre spécifique, avec le soutien de l'équipe de Région Morges, en tenant compte des enjeux spatiaux, des exigences légales et des principes de durabilité sociale et environnementale",
+   "cours": "Aménagement du territoire",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Gabriela Debrunner",
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
+   "niv": 6
+  },
+  {
+   "id": "AMENTERR-4",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Formuler des recommandations politiques et opérationnelles à destination des acteurs publics (Municipalité, Conseil communal ou général)",
+   "cours": "Aménagement du territoire",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Gabriela Debrunner",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "INTRPENSECOL-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Questionner la relation entre nature et culture et la façon dont ces concepts influencent les débats et les pratiques environnementales",
@@ -3050,10 +3102,10 @@
    "resp": "Gabriela Debrunner",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 4,
+   "nval": 4,
    "id": "AMENTERR",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Introduction à la pensée écologique",

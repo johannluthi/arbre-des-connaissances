@@ -1708,6 +1708,45 @@
    "niv": 6
   },
   {
+   "id": "GEOMORII-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Être capable d'identifier, de comprendre et d'expliquer les processus géomorphologiques des milieux de montagne",
+   "cours": "Géomorphologie II",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Christophe Lambiel",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOMORII-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Comprendre les échelles de temps relatives à la mise en place du relief",
+   "cours": "Géomorphologie II",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Christophe Lambiel",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "GEOMORII-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Développer le sens de l'analyse paysagère",
+   "cours": "Géomorphologie II",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Christophe Lambiel",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "GEOPENVI-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Comprendre les fondements physiques des méthodes géophysiques et leurs applications dans le domaine de l'environnement",
@@ -1742,6 +1781,19 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Niklas Linde",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "EXCUCARTGEOM-1",
+   "cat": "Terrain / Méthodo",
+   "txt": "Être capable d'interpréter et de cartographier les formes du relief sur le terrain",
+   "cours": "Excursions et cartographie géomorphologique",
+   "orient": "Sciences de l'environnement",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Christophe Lambiel",
    "sur": [],
    "cec": "Aptitudes",
    "niv": 6
@@ -3460,10 +3512,10 @@
    "resp": "Christophe Lambiel",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "GEOMORII",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Risques environnementaux",
@@ -3600,10 +3652,10 @@
    "resp": "Christophe Lambiel",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 1,
+   "nval": 1,
    "id": "EXCUCARTGEOM",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Etudes des mouvements gravitaires",

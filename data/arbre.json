@@ -1327,6 +1327,45 @@
    "niv": 6
   },
   {
+   "id": "DYNAURBACAM-1",
+   "cat": "Soft Skills",
+   "txt": "Conduire une enquête de terrain urbaine collective, de la problématisation en passant par la méthodologie jusqu'au rapport",
+   "cours": "Dynamiques urbaines (camp de terrain)",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Martin Müller",
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
+   "niv": 6
+  },
+  {
+   "id": "DYNAURBACAM-2",
+   "cat": "Terrain / Méthodo",
+   "txt": "Croiser observation, entretiens, enquêtes et sources documentaires sur un terrain réel",
+   "cours": "Dynamiques urbaines (camp de terrain)",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Martin Müller",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "DYNAURBACAM-3",
+   "cat": "Soft Skills",
+   "txt": "Travailler en équipe sur la durée et respecter des échéances de rendu",
+   "cours": "Dynamiques urbaines (camp de terrain)",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Martin Müller",
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
+   "niv": 6
+  },
+  {
    "id": "EVALCRITMETH-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Analyser les fondements théoriques et méthodologiques des dispositifs d'évaluation économique de l'environnement",
@@ -3418,10 +3457,10 @@
    "resp": "Joëlle Salomon Cavin",
    "ratt": "FGSE",
    "autres": "C. Trivin (camp 2026) ; M. Müller (camp 2027)",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "DYNAURBACAM",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Evaluation critique des méthodes en économie environnementale",

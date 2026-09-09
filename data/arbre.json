@@ -1801,7 +1801,7 @@
   {
    "id": "GEOMORII-1",
    "cat": "Connaissances disciplinaires",
-   "txt": "Être capable d'identifier, de comprendre et d'expliquer les processus géomorphologiques des milieux de montagne",
+   "txt": "Compréhension des processus géomorphologiques de montagne",
    "cours": "Géomorphologie II",
    "orient": "Sciences de l'environnement",
    "annee": "2e",
@@ -1814,7 +1814,7 @@
   {
    "id": "GEOMORII-2",
    "cat": "Connaissances disciplinaires",
-   "txt": "Comprendre les échelles de temps relatives à la mise en place du relief",
+   "txt": "Distinguer les différentes échelles de temps impliquées dans la formation et l'évolution du relief",
    "cours": "Géomorphologie II",
    "orient": "Sciences de l'environnement",
    "annee": "2e",
@@ -1827,7 +1827,7 @@
   {
    "id": "GEOMORII-3",
    "cat": "Connaissances disciplinaires",
-   "txt": "Développer le sens de l'analyse paysagère",
+   "txt": "Développement des compétences en analyse paysagère",
    "cours": "Géomorphologie II",
    "orient": "Sciences de l'environnement",
    "annee": "2e",

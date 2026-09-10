@@ -1838,6 +1838,58 @@
    "niv": 6
   },
   {
+   "id": "HYDROL-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Maîtriser le cycle de l'eau et le bilan hydrologique d'un bassin versant",
+   "cours": "Hydrologie",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e/3e",
+   "statut": "Validé",
+   "par": "Paolo Benettin",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "HYDROL-2",
+   "cat": "Techniques et informatique",
+   "txt": "Analyser des séries temporelles de données environnementales et les interpréter en termes de processus physiques",
+   "cours": "Hydrologie",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e/3e",
+   "statut": "Validé",
+   "par": "Paolo Benettin",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "HYDROL-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Évaluer les incertitudes des mesures et des modèles",
+   "cours": "Hydrologie",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e/3e",
+   "statut": "Validé",
+   "par": "Paolo Benettin",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "HYDROL-4",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Décrire un environnement ou un processus complexe en identifiant ses composantes fondamentales et les relations qui les lient",
+   "cours": "Hydrologie",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e/3e",
+   "statut": "Validé",
+   "par": "Paolo Benettin",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
    "id": "GEOPENVI-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Comprendre les fondements physiques des méthodes géophysiques et leurs applications dans le domaine de l'environnement",
@@ -3723,10 +3775,10 @@
    "resp": "Paolo Benettin",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 4,
+   "nval": 4,
    "id": "HYDROL",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Hydrauliques, formes et processus fluviaux",

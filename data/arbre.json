@@ -2362,6 +2362,45 @@
    "niv": 6
   },
   {
+   "id": "INTRGEOCISOT-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Comprendre l'utilité du traçage isotopique plutôt qu'élémentaire pour l'étude des processus naturels",
+   "cours": "Introduction à la géochimie isotopique",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e/3e",
+   "statut": "Validé",
+   "par": "Torsten Vennemann",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "INTRGEOCISOT-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Notions des principes de la (géo)chronométrie et du fractionnement isotopique",
+   "cours": "Introduction à la géochimie isotopique",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e/3e",
+   "statut": "Validé",
+   "par": "Torsten Vennemann",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "INTRGEOCISOT-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Comprendre la nucléosynthèse des éléments et des isotopes et l'évolution de notre système solaire",
+   "cours": "Introduction à la géochimie isotopique",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e/3e",
+   "statut": "Validé",
+   "par": "Torsten Vennemann",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
    "id": "PETRMAGMMETA-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Identifier et classer les roches magmatiques et métamorphiques et leurs textures",
@@ -4114,10 +4153,10 @@
    "resp": "Torsten Vennemann",
    "ratt": "FGSE",
    "autres": "B. Bomou ; M. Galvez",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "INTRGEOCISOT",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Pétrographie magmatique et métamorphique",

@@ -1656,6 +1656,97 @@
    "niv": 6
   },
   {
+   "id": "BIOLOG-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Maîtriser les bases de la diversité du vivant et du fonctionnement des plantes",
+   "cours": "Biologie",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Pascal Vittoz",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "BIOLOG-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Lier les principaux groupes taxonomiques à leur fonction dans quelques écosystèmes",
+   "cours": "Biologie",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Pascal Vittoz",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "BIOLOG-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Utiliser une nomenclature et une classification biologiques correctes",
+   "cours": "Biologie",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Pascal Vittoz",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "ECOLVEGE-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Maîtriser les bases nécessaires pour comprendre le paysage végétal en Suisse",
+   "cours": "Ecologie végétale",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Pascal Vittoz",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "ECOLVEGE-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Expliquer la distribution de communautés végétales en fonction des facteurs écologiques",
+   "cours": "Ecologie végétale",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Pascal Vittoz",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "ECOLVEGE-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Utiliser la végétation comme indicateur de l'état d'un milieu",
+   "cours": "Ecologie végétale",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Pascal Vittoz",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "ECOLVEGE-4",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Maîtriser les bases de la législation suisse protégeant la flore et les milieux",
+   "cours": "Ecologie végétale",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Pascal Vittoz",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
    "id": "LEVEGEOM-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Comprendre les principes de la mesure géodésique et topographique",
@@ -3635,10 +3726,10 @@
    "resp": "Pascal Vittoz",
    "ratt": "FGSE",
    "autres": "M. Blanc",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "BIOLOG",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Ecologie végétale",
@@ -3649,10 +3740,10 @@
    "resp": "Pascal Vittoz",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 4,
+   "nval": 4,
    "id": "ECOLVEGE",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Levés géomatiques",

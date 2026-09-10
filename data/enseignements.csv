@@ -53,8 +53,8 @@ PREPTRAVBACH,Préparation au travail de Bachelor,M7 (GES) ; M8 (SE) ; M8 (Géolo
 TRAVBACH,Travail de Bachelor,M7 (GES) ; M8 (SE) ; M8 (Géologie),Transversal,3e,10,Directrice / directeur de mémoire,FGSE,,0,0,À documenter
 GEOCENVI,Géochimie environnementale,M1 – Chimie et biologie (SE) ; M4 (Géologie),Sciences de l'environnement,2e,3,Johanna Marin Carbonne,FGSE,,10,10,Documenté
 CHIMORGAENVI,Chimie organique environnementale,M1 – Chimie et biologie,Sciences de l'environnement,2e,3,Marco Keiluweit,FGSE,,3,3,Documenté
-BIOLOG,Biologie,M1 – Chimie et biologie,Sciences de l'environnement,2e,3,Pascal Vittoz,FGSE,M. Blanc,0,0,À documenter
-ECOLVEGE,Ecologie végétale,M1 – Chimie et biologie,Sciences de l'environnement,2e,3,Pascal Vittoz,FGSE,,0,0,À documenter
+BIOLOG,Biologie,M1 – Chimie et biologie,Sciences de l'environnement,2e,3,Pascal Vittoz,FGSE,M. Blanc,3,3,Documenté
+ECOLVEGE,Ecologie végétale,M1 – Chimie et biologie,Sciences de l'environnement,2e,3,Pascal Vittoz,FGSE,,4,4,Documenté
 LEVEGEOM,Levés géomatiques,M2 – Outils quantitatifs,Sciences de l'environnement,2e,3,Beatriz Quintal,FGSE,,3,3,Documenté
 ANALVECT,Analyse vectorielle,M2 (SE) ; M4 (Géologie),Sciences de l'environnement,2e,3,Pietro De Anna,FGSE,,5,5,Documenté
 MODENUME,Modélisation numérique,M2 (SE) ; M4 (Géologie),Sciences de l'environnement,2e,3,Guillaume Jouvet,FGSE,,3,3,Documenté

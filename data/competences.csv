@@ -1,4 +1,7 @@
 id,categorie,dimension_cec,niveau_cec,competence,enseignement,orientation,annee,statut,valide_par,sappuie_sur
+GEOGENVISOCI-1,Connaissances disciplinaires,Savoirs,6,Apprendre et situer les concepts fondamentaux de la géographie contemporaine,"Géographie, environnement et sociétés : approches et théories contemporaines",Propédeutique,1re,Validé,Mathis Stock,
+GEOGENVISOCI-2,Connaissances disciplinaires,Aptitudes,6,Analyser les enjeux socio-écologiques du point de vue des sciences sociales,"Géographie, environnement et sociétés : approches et théories contemporaines",Propédeutique,1re,Validé,Mathis Stock,
+GEOGENVISOCI-3,Soft Skills,Aptitudes,6,"Lire, résumer et discuter un texte scientifique en sciences sociales","Géographie, environnement et sociétés : approches et théories contemporaines",Propédeutique,1re,Validé,Mathis Stock,
 INTRSCIEENVI-1,Connaissances disciplinaires,Savoirs,6,"Décrire les grands compartiments et cycles du système environnemental (eau, sol, air, vivant)",Introduction aux sciences de l'environnement,Propédeutique,1re,Validé,Grégoire Mariéthoz,
 INTRSCIEENVI-2,Connaissances disciplinaires,Aptitudes,6,Articuler les interactions entre la société et son environnement,Introduction aux sciences de l'environnement,Propédeutique,1re,Validé,Grégoire Mariéthoz,
 INTRSCIEENVI-3,Soft Skills,Aptitudes,6,Faire une lecture critique d'un article scientifique,Introduction aux sciences de l'environnement,Propédeutique,1re,Validé,Grégoire Mariéthoz,

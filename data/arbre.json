@@ -1,6 +1,45 @@
 {
  "competences": [
   {
+   "id": "GEOGENVISOCI-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Apprendre et situer les concepts fondamentaux de la géographie contemporaine",
+   "cours": "Géographie, environnement et sociétés : approches et théories contemporaines",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Mathis Stock",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "GEOGENVISOCI-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Analyser les enjeux socio-écologiques du point de vue des sciences sociales",
+   "cours": "Géographie, environnement et sociétés : approches et théories contemporaines",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Mathis Stock",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOGENVISOCI-3",
+   "cat": "Soft Skills",
+   "txt": "Lire, résumer et discuter un texte scientifique en sciences sociales",
+   "cours": "Géographie, environnement et sociétés : approches et théories contemporaines",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Mathis Stock",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "INTRSCIEENVI-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Décrire les grands compartiments et cycles du système environnemental (eau, sol, air, vivant)",
@@ -3191,10 +3230,10 @@
    "resp": "Mathis Stock",
    "ratt": "FGSE",
    "autres": "C. Arnsperger ; J. Steinberger",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "GEOGENVISOCI",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Introduction aux sciences de l'environnement",

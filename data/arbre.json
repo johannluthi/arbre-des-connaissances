@@ -196,6 +196,45 @@
    "niv": 6
   },
   {
+   "id": "EXCUCASGES-1",
+   "cat": "Terrain / Méthodo",
+   "txt": "Relier une observation de terrain aux concepts vus en cours",
+   "cours": "Excursions et cas d'études (GES)",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Christian Arnsperger",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "EXCUCASGES-2",
+   "cat": "Terrain / Méthodo",
+   "txt": "Conduire une observation structurée hors du cadre académique et en tenir un carnet",
+   "cours": "Excursions et cas d'études (GES)",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Christian Arnsperger",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "EXCUCASGES-3",
+   "cat": "Soft Skills",
+   "txt": "Travailler en groupe et restituer collectivement un cas d'étude",
+   "cours": "Excursions et cas d'études (GES)",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Christian Arnsperger",
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
+   "niv": 6
+  },
+  {
    "id": "SYSTENER-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Décrire les principaux éléments et dynamiques des systèmes énergétiques ainsi que les enjeux et les solutions liés à leur transformation",
@@ -1491,6 +1530,45 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Charlotte Blattner",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "DURAMODEVIE-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Analyser les modes de vie sous l'angle de la soutenabilité forte",
+   "cours": "Durabilité et modes de vie",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Christian Arnsperger",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "DURAMODEVIE-2",
+   "cat": "Soft Skills",
+   "txt": "Évaluer le potentiel et les limites des transformations individuelles et collectives",
+   "cours": "Durabilité et modes de vie",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Christian Arnsperger",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "DURAMODEVIE-3",
+   "cat": "Soft Skills",
+   "txt": "Mener une réflexion critique et située sur ses propres pratiques",
+   "cours": "Durabilité et modes de vie",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Christian Arnsperger",
    "sur": [],
    "cec": "Aptitudes",
    "niv": 6
@@ -3131,10 +3209,10 @@
    "resp": "Christian Arnsperger",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "EXCUCASGES",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Regards croisés sur le changement climatique",
@@ -3733,10 +3811,10 @@
    "resp": "Christian Arnsperger",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "DURAMODEVIE",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Eléments d'économie écologique",

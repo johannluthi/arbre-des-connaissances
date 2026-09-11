@@ -911,6 +911,58 @@
    "niv": 6
   },
   {
+   "id": "GESTSOCIFLUX-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Comprendre le métabolisme social et les flux de matière et d'énergie des sociétés contemporaines : manque de circularité, dépendance aux combustibles fossiles, inégalités de revenus et de richesses",
+   "cours": "Gestion sociale des flux de matière",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Elke Pirgmaier",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "GESTSOCIFLUX-2",
+   "cat": "Soft Skills",
+   "txt": "Apprendre à penser de manière systémique, interdisciplinaire et critique",
+   "cours": "Gestion sociale des flux de matière",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Elke Pirgmaier",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GESTSOCIFLUX-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Réfléchir aux alternatives existantes au système actuel",
+   "cours": "Gestion sociale des flux de matière",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Elke Pirgmaier",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GESTSOCIFLUX-4",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Connaissance d'organisations et initiatives existantes qui priorisent la durabilité et l'économie sociale et solidaire, ainsi que des opportunités et défis auxquels elles sont confrontées",
+   "cours": "Gestion sociale des flux de matière",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Elke Pirgmaier",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
    "id": "GESTEAU-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Maîtriser le concept de gestion intégrée des eaux",
@@ -3559,10 +3611,10 @@
    "resp": "Julia Steinberger",
    "ratt": "FGSE",
    "autres": "C. Arnsperger",
-   "n": 0,
-   "nval": 0,
+   "n": 4,
+   "nval": 4,
    "id": "GESTSOCIFLUX",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Politiques environnementales",

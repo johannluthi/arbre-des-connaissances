@@ -1236,6 +1236,71 @@
    "niv": 6
   },
   {
+   "id": "METHQUALAVAN-1",
+   "cat": "Terrain / Méthodo",
+   "txt": "Appliquer des méthodes qualitatives à des problématiques en géographie ou en sciences de l'environnement",
+   "cours": "Méthodes qualitatives avancées : méthodes et terrains",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Laine Chanteloup et Gretchen Walters",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "METHQUALAVAN-2",
+   "cat": "Terrain / Méthodo",
+   "txt": "Développer un protocole de recherche",
+   "cours": "Méthodes qualitatives avancées : méthodes et terrains",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Laine Chanteloup et Gretchen Walters",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "METHQUALAVAN-3",
+   "cat": "Soft Skills",
+   "txt": "Mener une recherche respectant les enjeux éthiques et d'intégrité de la recherche",
+   "cours": "Méthodes qualitatives avancées : méthodes et terrains",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Laine Chanteloup et Gretchen Walters",
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
+   "niv": 6
+  },
+  {
+   "id": "METHQUALAVAN-4",
+   "cat": "Terrain / Méthodo",
+   "txt": "Mobiliser des méthodes qualitatives d'analyse de données",
+   "cours": "Méthodes qualitatives avancées : méthodes et terrains",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Laine Chanteloup et Gretchen Walters",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "METHQUALAVAN-5",
+   "cat": "Soft Skills",
+   "txt": "Présenter les résultats d'une recherche scientifique, visuellement, oralement et par écrit",
+   "cours": "Méthodes qualitatives avancées : méthodes et terrains",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Laine Chanteloup et Gretchen Walters",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "POLIECOL-1",
    "cat": "Soft Skills",
    "txt": "Exercer une pensée critique envers les enjeux socio-environnementaux",
@@ -3762,10 +3827,10 @@
    "resp": "Laine Chanteloup",
    "ratt": "FGSE",
    "autres": "G. Walters",
-   "n": 0,
-   "nval": 0,
+   "n": 5,
+   "nval": 5,
    "id": "METHQUALAVAN",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Géoinformatique II",

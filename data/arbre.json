@@ -1405,6 +1405,32 @@
    "niv": 6
   },
   {
+   "id": "GEOINFII-9",
+   "cat": "Soft Skills",
+   "txt": "Communiquer ses résultats sur un site web personnel structuré",
+   "cours": "Géoinformatique II",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Tom Beucler",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOINFII-10",
+   "cat": "Soft Skills",
+   "txt": "Tenir des échéances de rendu rapprochées et persévérer dans la résolution de problèmes techniques sur un semestre",
+   "cours": "Géoinformatique II",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Tom Beucler",
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
+   "niv": 6
+  },
+  {
    "id": "POLIECOL-1",
    "cat": "Soft Skills",
    "txt": "Exercer une pensée critique envers les enjeux socio-environnementaux",
@@ -4140,8 +4166,8 @@
    "resp": "Tom Beucler",
    "ratt": "FGSE",
    "autres": "",
-   "n": 8,
-   "nval": 8,
+   "n": 10,
+   "nval": 10,
    "id": "GEOINFII",
    "statut": "Documenté"
   },

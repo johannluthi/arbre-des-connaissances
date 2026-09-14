@@ -2280,6 +2280,45 @@
    "niv": 6
   },
   {
+   "id": "PHYSGLOB-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Acquérir une compréhension générale de la physique de la Terre à grande échelle, ainsi que des principales découvertes qui ont conduit à notre compréhension actuelle de sa structure et de son fonctionnement",
+   "cours": "Physique du globe",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "James Irving",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "PHYSGLOB-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Comprendre les principes de base de la géophysique, notamment les méthodes gravimétriques, sismiques et magnétiques",
+   "cours": "Physique du globe",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "James Irving",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "PHYSGLOB-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Développer les compétences quantitatives nécessaires pour analyser et résoudre des problèmes en sciences de la Terre",
+   "cours": "Physique du globe",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "James Irving",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "GEOMORII-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Compréhension des processus géomorphologiques de montagne",
@@ -2407,6 +2446,45 @@
    "par": "Niklas Linde",
    "sur": [],
    "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOPENVICAMP-1",
+   "cat": "Terrain / Méthodo",
+   "txt": "Acquérir une expérience pratique de terrain avec les méthodes de géophysique appliquée étudiées dans le cours « Géophysique de l'environnement »",
+   "cours": "Géophysique de l'environnement : camp",
+   "orient": "Sciences de l'environnement",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "James Irving",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOPENVICAMP-2",
+   "cat": "Techniques et informatique",
+   "txt": "Assurer la qualité des données depuis la conception et l'acquisition des mesures jusqu'à leur traitement et leur interprétation",
+   "cours": "Géophysique de l'environnement : camp",
+   "orient": "Sciences de l'environnement",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "James Irving",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOPENVICAMP-3",
+   "cat": "Soft Skills",
+   "txt": "Travailler en équipe pour analyser les mesures et rédiger un rapport final répondant à la problématique spécifique du site étudié",
+   "cours": "Géophysique de l'environnement : camp",
+   "orient": "Sciences de l'environnement",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "James Irving",
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
    "niv": 6
   },
   {
@@ -3428,6 +3506,45 @@
    "niv": 6
   },
   {
+   "id": "GEOPEXPLCAMP-1",
+   "cat": "Terrain / Méthodo",
+   "txt": "Acquérir une expérience pratique de terrain avec les méthodes de géophysique appliquée étudiées dans le cours « Géophysique d'exploration »",
+   "cours": "Géophysique d'exploration – camp",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "James Irving",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOPEXPLCAMP-2",
+   "cat": "Techniques et informatique",
+   "txt": "Assurer la qualité des données depuis la conception et l'acquisition des mesures jusqu'à leur traitement et leur interprétation",
+   "cours": "Géophysique d'exploration – camp",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "James Irving",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "GEOPEXPLCAMP-3",
+   "cat": "Soft Skills",
+   "txt": "Travailler en équipe pour analyser les mesures et rédiger un rapport final répondant à la problématique spécifique du site étudié",
+   "cours": "Géophysique d'exploration – camp",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "James Irving",
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
+   "niv": 6
+  },
+  {
    "id": "GEOLINGEEXCU-1",
    "cat": "Terrain / Méthodo",
    "txt": "Observer sur des chantiers réels l'application de la géologie de l'ingénieur",
@@ -4317,10 +4434,10 @@
    "resp": "James Irving",
    "ratt": "FGSE",
    "autres": "NN",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "PHYSGLOB",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Géomorphologie II",
@@ -4443,10 +4560,10 @@
    "resp": "James Irving",
    "ratt": "FGSE",
    "autres": "N. Linde",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "GEOPENVICAMP",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Analyses des données environnementales",
@@ -4821,10 +4938,10 @@
    "resp": "James Irving",
    "ratt": "FGSE",
    "autres": "N. Linde ; B. Quintal",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "GEOPEXPLCAMP",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Géologie de l'ingénieur",

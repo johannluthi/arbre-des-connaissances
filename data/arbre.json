@@ -625,6 +625,45 @@
    "niv": 6
   },
   {
+   "id": "ELEMECOL-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Acquérir les concepts clés en écologie, des organismes aux populations, communautés et écosystèmes",
+   "cours": "Eléments d'écologie",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Antoine Guisan",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "ELEMECOL-2",
+   "cat": "Techniques et informatique",
+   "txt": "Comprendre et savoir interpréter les données et résultats associés, notamment graphiques",
+   "cours": "Eléments d'écologie",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Antoine Guisan",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "ELEMECOL-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Relier les connaissances et l'expertise acquises à des enjeux de conservation",
+   "cours": "Eléments d'écologie",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Antoine Guisan",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "ELEMSCIEECON-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Maîtriser les notions de base de micro- et macroéconomie",
@@ -3900,10 +3939,10 @@
    "resp": "Antoine Guisan",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "ELEMECOL",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Eléments de sciences économiques",

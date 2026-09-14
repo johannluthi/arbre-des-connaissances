@@ -2410,6 +2410,45 @@
    "niv": 6
   },
   {
+   "id": "ANALDONNENVI-1",
+   "cat": "Techniques et informatique",
+   "txt": "Structurer et explorer un jeu de données environnementales réel",
+   "cours": "Analyses des données environnementales",
+   "orient": "Sciences de l'environnement",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Marie-Elodie Perga",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "ANALDONNENVI-2",
+   "cat": "Techniques et informatique",
+   "txt": "Choisir et réaliser les visualisations graphiques informatives adaptées à la nature des données",
+   "cours": "Analyses des données environnementales",
+   "orient": "Sciences de l'environnement",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Marie-Elodie Perga",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "ANALDONNENVI-3",
+   "cat": "Techniques et informatique",
+   "txt": "Choisir, appliquer et interpréter une analyse statistique adaptée à la question posée",
+   "cours": "Analyses des données environnementales",
+   "orient": "Sciences de l'environnement",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Marie-Elodie Perga",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "EXCUCARTGEOM-1",
    "cat": "Terrain / Méthodo",
    "txt": "Être capable d'interpréter et de cartographier les formes du relief sur le terrain",
@@ -2695,6 +2734,45 @@
    "annee": "3e",
    "statut": "Validé",
    "par": "Jasmine Berg",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "LIMNOL-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Expliquer le fonctionnement physique, chimique et biologique des lacs",
+   "cours": "Limnologie",
+   "orient": "Sciences de l'environnement",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Marie-Elodie Perga",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "LIMNOL-2",
+   "cat": "Techniques et informatique",
+   "txt": "Interpréter des profils verticaux et des séries temporelles limnologiques",
+   "cours": "Limnologie",
+   "orient": "Sciences de l'environnement",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Marie-Elodie Perga",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "LIMNOL-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Relier l'état d'un lac aux pressions du bassin versant et au climat",
+   "cours": "Limnologie",
+   "orient": "Sciences de l'environnement",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Marie-Elodie Perga",
    "sur": [],
    "cec": "Aptitudes",
    "niv": 6
@@ -4379,10 +4457,10 @@
    "resp": "Marie-Elodie Perga",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "ANALDONNENVI",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Excursions et cartographie géomorphologique",
@@ -4477,10 +4555,10 @@
    "resp": "Marie-Elodie Perga",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "LIMNOL",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Introduction à la géochimie isotopique",

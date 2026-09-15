@@ -2475,6 +2475,84 @@
    "niv": 6
   },
   {
+   "id": "HYDRFORMPROC-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Expliquer les processus hydrauliques et sédimentaires des cours d'eau",
+   "cours": "Hydrauliques, formes et processus fluviaux",
+   "orient": "Sciences de l'environnement",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Stuart Lane",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "HYDRFORMPROC-2",
+   "cat": "Terrain / Méthodo",
+   "txt": "Mesurer sur le terrain et interpréter des paramètres hydrauliques et morphologiques",
+   "cours": "Hydrauliques, formes et processus fluviaux",
+   "orient": "Sciences de l'environnement",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Stuart Lane",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "HYDRFORMPROC-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Relier la dynamique fluviale aux enjeux de renaturation et de protection contre les crues",
+   "cours": "Hydrauliques, formes et processus fluviaux",
+   "orient": "Sciences de l'environnement",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Stuart Lane",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "CAMPTERRENVI-1",
+   "cat": "Terrain / Méthodo",
+   "txt": "Concevoir et exécuter un protocole de mesure environnementale sur le terrain",
+   "cours": "Camp de terrain en environnement",
+   "orient": "Sciences de l'environnement",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Stuart Lane",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "CAMPTERRENVI-2",
+   "cat": "Soft Skills",
+   "txt": "Acquérir, contrôler et traiter des données de terrain en équipe",
+   "cours": "Camp de terrain en environnement",
+   "orient": "Sciences de l'environnement",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Stuart Lane",
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
+   "niv": 6
+  },
+  {
+   "id": "CAMPTERRENVI-3",
+   "cat": "Soft Skills",
+   "txt": "Rendre compte des résultats sous forme de rapport scientifique",
+   "cours": "Camp de terrain en environnement",
+   "orient": "Sciences de l'environnement",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Stuart Lane",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
    "id": "GEOPENVI-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Comprendre les fondements physiques des méthodes géophysiques et leurs applications dans le domaine de l'environnement",
@@ -4569,10 +4647,10 @@
    "resp": "Stuart Lane",
    "ratt": "FGSE",
    "autres": "G. Antoniazza",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "HYDRFORMPROC",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Pédologie",
@@ -4597,10 +4675,10 @@
    "resp": "Stuart Lane",
    "ratt": "FGSE",
    "autres": "G. Antoniazza",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "CAMPTERRENVI",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Géophysique de l'environnement",

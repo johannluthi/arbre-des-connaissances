@@ -5,7 +5,7 @@ GEOLINTRSCIE,Géologie : introduction aux Sciences de la Terre,M1 – Initiation
 POPUCROI,Population et dé/croissance,M2 – Préparation à une orientation (GES),Propédeutique,1re,6,Christophe Mager,FGSE,,3,3,Documenté
 PENSGEOG,La pensée géographique,M2 – Préparation à une orientation (GES),Propédeutique,1re,6,Patrick Rérat,FGSE,M. Müller,3,3,Documenté
 EXCUCASGES,Excursions et cas d'études (GES),M2 – Préparation à une orientation (GES),Propédeutique,1re,3,Christian Arnsperger,FGSE,,3,3,Documenté
-REGACROICHAN,Regards croisés sur le changement climatique,M2 – Préparation à une orientation (les 3 blocs),Propédeutique,1re,3,Samuel Jaccard,FGSE,D. Domeisen ; J. Steinberger,0,0,À documenter
+REGACROICHAN,Regards croisés sur le changement climatique,M2 – Préparation à une orientation (les 3 blocs),Propédeutique,1re,3,Samuel Jaccard,FGSE,D. Domeisen ; J. Steinberger,3,3,Documenté
 SYSTENER,Systèmes énergétiques,M2 (SE) ; M6 – Transition écologique (GES),Propédeutique,2e/3e,3,Selin Yilmaz,FGSE,,3,3,Documenté
 CHIMGENE,Chimie générale,"M2 – Préparation à une orientation (SE, Géologie)",Propédeutique,1re,3,S. Terrettaz (EPFL),EPFL,,0,0,À documenter
 PHYSGENEI,Physique générale I,"M2 – Préparation à une orientation (SE, Géologie)",Propédeutique,1re,3,R. Trappitsch (EPFL),EPFL,,0,0,À documenter
@@ -82,9 +82,9 @@ PETRMAGMMETA,Pétrographie magmatique et métamorphique,M1 – Géologie structu
 GEOLSTRU,Géologie structurale,M1 – Géologie structurale et pétrologie,Géologie,2e,6,Anindita Samsu,FGSE,,3,3,Documenté
 CAMPGEOLSTRU,Camp de géologie structurale,M1 – Géologie structurale et pétrologie,Géologie,2e,3,Anindita Samsu,FGSE,,3,3,Documenté
 CAMPPETRMAGM,Camp de pétrologie magmatique,M1 – Géologie structurale et pétrologie,Géologie,2e,3,Othmar Müntener,FGSE,S. Pilet,4,4,Documenté
-SEDIPHYS,Sédimentologie physique,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Samuel Jaccard,FGSE,B. Bomou,0,0,À documenter
+SEDIPHYS,Sédimentologie physique,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Samuel Jaccard,FGSE,B. Bomou,4,4,Documenté
 PALEON,Paléontologie,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Allison Daley,FGSE,A. Pictet,3,3,Documenté
-CAMPSTRASEDI,Camp de stratigraphie et sédimentologie,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Samuel Jaccard,FGSE,B. Bomou,0,0,À documenter
+CAMPSTRASEDI,Camp de stratigraphie et sédimentologie,"M2 – Sédimentologie, géomorphologie et paléontologie",Géologie,2e,3,Samuel Jaccard,FGSE,B. Bomou,3,3,Documenté
 TECTGEOD,Tectonique et géodynamique,M3 – Géophysique et risques,Géologie,2e,3,Stefan Schmalholz,FGSE,,3,3,Documenté
 PETRMAGMAVA,Pétrologie magmatique et métamorphique (avancée),M5 – Géologie avancée,Géologie,3e,3,Pierre Lanari,FGSE,O. Müntener,3,3,Documenté
 THERCINE,Thermodynamique et cinétique,M5 – Géologie avancée,Géologie,3e,3,Othmar Müntener,FGSE,J. Marin-Carbonne ; P. Lanari,4,4,Documenté
@@ -92,7 +92,7 @@ PETRMETACAMP,"Pétrologie métamorphique, camp",M5 – Géologie avancée,Géolo
 GEOLCHAIALPI,Géologie de la chaîne alpine,M5 – Géologie avancée,Géologie,3e,3,Othmar Müntener,FGSE,S. Schmalholz ; P. Lanari,4,4,Documenté
 EROSTECTCLIM,"Erosion, tectonique et climat",M6 – Géologie de la surface terrestre,Géologie,3e,3,Guillaume Jouvet,FGSE,J.-D. Champagnac ; G. King,9,9,Documenté
 HYDRGENE,Hydrogéologie générale,M6 – Géologie de la surface terrestre,Géologie,3e,3,Philippe Renard,UNINE,C. Roques (UNINE),0,0,À documenter
-SEDIBIOC,Sédimentologie biochimique,M6 – Géologie de la surface terrestre,Géologie,3e,3,Samuel Jaccard,FGSE,,0,0,À documenter
+SEDIBIOC,Sédimentologie biochimique,M6 – Géologie de la surface terrestre,Géologie,3e,3,Samuel Jaccard,FGSE,,4,4,Documenté
 CAMPCARTPALE,Camp de cartographie et paléontologie,M6 – Géologie de la surface terrestre,Géologie,3e,3,Allison Daley,FGSE,S. Jaccard ; B. Bomou,3,3,Documenté
 GEOPEXPL,Géophysique d'exploration,M7 – Géologie de l'exploration,Géologie,3e,6,Klaus Holliger,FGSE,,2,2,Documenté
 GEOPEXPLCAMP,Géophysique d'exploration – camp,M7 – Géologie de l'exploration,Géologie,3e,6,James Irving,FGSE,N. Linde ; B. Quintal,3,3,Documenté

@@ -274,6 +274,45 @@
    "niv": 6
   },
   {
+   "id": "REGACROICHAN-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Expliquer les mécanismes physiques du changement climatique et ses manifestations",
+   "cours": "Regards croisés sur le changement climatique",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Samuel Jaccard",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "REGACROICHAN-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Confronter les lectures physique, sociale et politique d'un même phénomène",
+   "cours": "Regards croisés sur le changement climatique",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Samuel Jaccard",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "REGACROICHAN-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Distinguer les faits établis, les incertitudes et les prises de position",
+   "cours": "Regards croisés sur le changement climatique",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Samuel Jaccard",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
    "id": "SYSTENER-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Décrire les principaux éléments et dynamiques des systèmes énergétiques ainsi que les enjeux et les solutions liés à leur transformation",
@@ -3207,6 +3246,58 @@
    "niv": 6
   },
   {
+   "id": "SEDIPHYS-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Expliquer les processus de transport et de dépôt des sédiments",
+   "cours": "Sédimentologie physique",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Samuel Jaccard",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "SEDIPHYS-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Décrire une série sédimentaire et en reconstituer les environnements de dépôt",
+   "cours": "Sédimentologie physique",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Samuel Jaccard",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "SEDIPHYS-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Établir des corrélations et raisonner en termes de séquences",
+   "cours": "Sédimentologie physique",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Samuel Jaccard",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "SEDIPHYS-4",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Identifier et interpréter les principaux constituants, textures et structures des roches sédimentaires",
+   "cours": "Sédimentologie physique",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Samuel Jaccard",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
    "id": "PALEON-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Reconnaître les principaux groupes fossiles, leur anatomie fonctionnelle et leur valeur stratigraphique",
@@ -3243,6 +3334,45 @@
    "par": "Allison Daley",
    "sur": [],
    "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "CAMPSTRASEDI-1",
+   "cat": "Terrain / Méthodo",
+   "txt": "Lever une coupe stratigraphique détaillée sur le terrain",
+   "cours": "Camp de stratigraphie et sédimentologie",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Samuel Jaccard",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "CAMPSTRASEDI-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Interpréter une succession sédimentaire en termes d'évolution paléoenvironnementale",
+   "cours": "Camp de stratigraphie et sédimentologie",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Samuel Jaccard",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "CAMPSTRASEDI-3",
+   "cat": "Terrain / Méthodo",
+   "txt": "Organiser et documenter un travail de terrain sur plusieurs jours",
+   "cours": "Camp de stratigraphie et sédimentologie",
+   "orient": "Géologie",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Samuel Jaccard",
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
    "niv": 6
   },
   {
@@ -3584,6 +3714,58 @@
    "niv": 6
   },
   {
+   "id": "SEDIBIOC-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Expliquer les processus biogéochimiques de formation des sédiments",
+   "cours": "Sédimentologie biochimique",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Samuel Jaccard",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
+   "id": "SEDIBIOC-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Utiliser des proxies sédimentaires pour reconstituer des paléoenvironnements",
+   "cours": "Sédimentologie biochimique",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Samuel Jaccard",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "SEDIBIOC-3",
+   "cat": "Techniques et informatique",
+   "txt": "Interpréter des séries temporelles issues d'archives sédimentaires",
+   "cours": "Sédimentologie biochimique",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Samuel Jaccard",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6
+  },
+  {
+   "id": "SEDIBIOC-4",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Décrire les transformations de la matière organique au cours de la sédimentation et de la diagenèse précoce",
+   "cours": "Sédimentologie biochimique",
+   "orient": "Géologie",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Samuel Jaccard",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6
+  },
+  {
    "id": "CAMPCARTPALE-1",
    "cat": "Terrain / Méthodo",
    "txt": "Réaliser une cartographie géologique de détail d'une région géologiquement complexe",
@@ -3821,10 +4003,10 @@
    "resp": "Samuel Jaccard",
    "ratt": "FGSE",
    "autres": "D. Domeisen ; J. Steinberger",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "REGACROICHAN",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Systèmes énergétiques",
@@ -4899,10 +5081,10 @@
    "resp": "Samuel Jaccard",
    "ratt": "FGSE",
    "autres": "B. Bomou",
-   "n": 0,
-   "nval": 0,
+   "n": 4,
+   "nval": 4,
    "id": "SEDIPHYS",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Paléontologie",
@@ -4927,10 +5109,10 @@
    "resp": "Samuel Jaccard",
    "ratt": "FGSE",
    "autres": "B. Bomou",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "CAMPSTRASEDI",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Tectonique et géodynamique",
@@ -5039,10 +5221,10 @@
    "resp": "Samuel Jaccard",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 4,
+   "nval": 4,
    "id": "SEDIBIOC",
-   "statut": "À documenter"
+   "statut": "Documenté"
   },
   {
    "cours": "Camp de cartographie et paléontologie",

@@ -116,6 +116,22 @@ tbody td{padding:14px 16px;border-bottom:1px solid var(--line-soft);vertical-ali
 tbody tr:last-child td{border-bottom:0}
 tbody tr:hover td{background:var(--row-hover)}
 tbody tr:target,tbody tr.flash,tbody tr.flash:hover td{background:var(--row-active)}
+button.deplier{display:flex;align-items:flex-start;gap:6px;background:none;border:0;padding:0;margin:0;
+  font:inherit;color:inherit;text-align:left;cursor:pointer;border-radius:var(--r)}
+button.deplier:hover .txt{color:var(--blue)}
+button.deplier:focus-visible{outline:0;box-shadow:var(--ring)}
+.sans-deplier{display:block;padding-left:22px}
+button.deplier + .sub,.sans-deplier + .sub{padding-left:22px}
+.chevron{flex:none;width:16px;height:1.35em;display:inline-flex;align-items:center;justify-content:center}
+.chevron::before{content:"";width:6px;height:6px;border-right:2px solid var(--blue);border-bottom:2px solid var(--blue);
+  transform:rotate(-45deg);transition:transform .15s ease}
+button.deplier[aria-expanded="true"] .chevron::before{transform:rotate(45deg)}
+tbody tr.ouvert td,tbody tr.ouvert:hover td{background:var(--ice-100);border-bottom-color:transparent}
+tbody tr.detail td,tbody tr.detail:hover td{background:var(--ice-100);padding:2px 16px 18px 38px}
+ol.comps{margin:0 0 14px;padding-left:1.1em;display:grid;gap:10px;max-width:78ch}
+ol.comps li{color:var(--ink);padding-left:4px}
+ol.comps .comp-txt{font-weight:500}
+@media (prefers-reduced-motion:reduce){.chevron::before{transition:none}}
 .num{font-variant-numeric:tabular-nums;text-align:right;color:var(--body);font-weight:700}
 .mono{font-variant-numeric:tabular-nums;font-size:.78rem;font-weight:700;letter-spacing:.02em;
   color:var(--muted);white-space:nowrap}
@@ -202,6 +218,9 @@ D.enseignements.forEach(e => e._s = norm([e.id,e.cours,e.module,e.orient,e.resp,
 
 const BADGE = {'Validé':'b-val','Déduit':'b-ded','Proposition':'b-pro'};
 const okey = o => 'd-' + norm(o).split(/[ ,']/)[0].replace(/[^a-z]/g,'').replace(/^(.)/,c=>c.toUpperCase());
+const PAR_COURS = {};
+D.competences.forEach(c => (PAR_COURS[c.cours] ||= []).push(c));
+const OUVERTS = new Set();
 
 const VIEWS = {
   competences: {
@@ -214,13 +233,20 @@ const VIEWS = {
       {k:'cours', t:'Enseignement', r:c=>`<span class="dot ${okey(c.orient)}"></span>${esc(c.cours)}<span class="sub">${esc(c.orient)} · ${esc(c.annee)} année</span>`},
       {k:'par',   t:'Validé par',   r:c=>esc(c.par)},
     ],
-    filters: [['cat','Toutes catégories'],['cec','Toutes dimensions CEC'],['orient','Toutes orientations'],['annee','Toutes années'],['par','Tous les enseignant·e·s']],
+    filters: [['cours','Tous les enseignements'],['cat','Toutes catégories'],['cec','Toutes dimensions CEC'],['orient','Toutes orientations'],['annee','Toutes années'],['par','Tous les enseignant·e·s']],
     id: c => c.id,
   },
   enseignements: {
     data: D.enseignements, sort: {k:'cours', dir:1},
     cols: [
-      {k:'cours', t:'Enseignement', r:e=>`<span class="dot ${okey(e.orient)}"></span><span class="txt">${esc(e.cours)}</span><span class="sub">${esc(e.module)}</span>`},
+      {k:'cours', t:'Enseignement', r:e=>{
+        const n=(PAR_COURS[e.cours]||[]).length;
+        const nom=`<span class="dot ${okey(e.orient)}"></span><span class="txt">${esc(e.cours)}</span>`;
+        return (n
+          ? `<button type="button" class="deplier" data-ouvrir="${e.id}" aria-expanded="${OUVERTS.has(e.id)}" aria-controls="${e.id}-detail"><span class="chevron" aria-hidden="true"></span><span>${nom}</span></button>`
+          : `<span class="sans-deplier">${nom}</span>`)
+          + `<span class="sub">${esc(e.module)}</span>`;
+      }},
       {k:'orient',t:'Orientation',  r:e=>esc(e.orient)+`<span class="sub">${esc(e.annee)} année</span>`},
       {k:'ects',  t:'ECTS',         r:e=>`<span class="num">${e.ects}</span>`, cls:'num'},
       {k:'resp',  t:'Responsable',  r:e=>esc(e.resp)+(e.ratt!=='FGSE'?`<span class="sub">${esc(e.ratt)}</span>`:'')},
@@ -277,8 +303,18 @@ function render(){
     const on = V.sort.k===c.k;
     return `<th data-k="${c.k}"${on?` aria-sort="${V.sort.dir>0?'ascending':'descending'}"`:''}>${c.t}<span class="ar">${on?(V.sort.dir>0?'▲':'▼'):'↕'}</span></th>`;
   }).join('')+'</tr>';
-  $('#tbody').innerHTML = data.map(r=>`<tr id="${V.id(r)}">`+
-    V.cols.map(c=>`<td${c.cls?` class="${c.cls}"`:''}>${c.r(r)}</td>`).join('')+'</tr>').join('');
+  const ouvert = r => cur==='enseignements' && OUVERTS.has(r.id);
+  const detail = r => {
+    if(!ouvert(r)) return '';
+    const cs = PAR_COURS[r.cours]||[];
+    return `<tr class="detail" id="${r.id}-detail"><td colspan="${V.cols.length}">`+
+      `<ol class="comps">`+cs.map(c=>`<li><span class="comp-txt">${esc(c.txt)}</span>`+
+        `<span class="sub">${esc(c.cat)} · CEC ${esc(c.cec)}${c.par?` · validé par ${esc(c.par)}`:''}`+
+        `${c.statut&&c.statut!=='Validé'?` <span class="badge ${BADGE[c.statut]}">${esc(c.statut)}</span>`:''}</span></li>`).join('')+
+      `</ol><button type="button" class="ghost" data-voir="${esc(r.cours)}">Voir dans l'onglet Compétences</button></td></tr>`;
+  };
+  $('#tbody').innerHTML = data.map(r=>`<tr id="${V.id(r)}"${ouvert(r)?' class="ouvert"':''}>`+
+    V.cols.map(c=>`<td${c.cls?` class="${c.cls}"`:''}>${c.r(r)}</td>`).join('')+'</tr>'+detail(r)).join('');
   $('#empty').hidden = data.length>0;
   $('#count').textContent = `${data.length} / ${V.data.length}`;
 }
@@ -287,6 +323,17 @@ document.addEventListener('click', e=>{
   const th=e.target.closest('#thead th');
   if(th){ const V=VIEWS[cur], k=th.dataset.k;
     V.sort = {k, dir: V.sort.k===k ? -V.sort.dir : 1}; render(); return; }
+  const ouv=e.target.closest('[data-ouvrir]');
+  if(ouv){ const id=ouv.dataset.ouvrir;
+    OUVERTS.has(id) ? OUVERTS.delete(id) : OUVERTS.add(id);
+    render();
+    const b=document.querySelector(`[data-ouvrir="${id}"]`); if(b && b.focus) b.focus();
+    return; }
+  const voir=e.target.closest('[data-voir]');
+  if(voir){ state.competences.q=''; state.competences.f={cours: voir.dataset.voir};
+    activer('competences');
+    const t=$('#tools'); if(t && t.scrollIntoView) t.scrollIntoView({block:'start'});
+    return; }
   const go=e.target.closest('[data-go]');
   if(go){ e.preventDefault();
     const id=go.dataset.go, st=state[cur];
@@ -297,11 +344,12 @@ document.addEventListener('click', e=>{
       tr.classList.add('flash'); }
   }
 });
-document.querySelectorAll('nav.tabs button').forEach(b=>b.addEventListener('click',()=>{
-  cur=b.dataset.tab;
-  document.querySelectorAll('nav.tabs button').forEach(x=>x.setAttribute('aria-selected', String(x===b)));
+function activer(t){
+  cur=t;
+  document.querySelectorAll('nav.tabs button').forEach(x=>x.setAttribute('aria-selected', String(x.dataset.tab===t)));
   buildTools(); render();
-}));
+}
+document.querySelectorAll('nav.tabs button').forEach(b=>b.addEventListener('click',()=>activer(b.dataset.tab)));
 buildTools(); render();
 </script>
 </body>

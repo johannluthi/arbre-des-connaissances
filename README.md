@@ -10,15 +10,25 @@ de l'Université de Lausanne, plan d'études 2026-2027.
 
 | Fichier | Contenu |
 |---|---|
-| `index.html` | Le site : deux tableaux triables, filtrables et cherchables |
-| `data/competences.csv` | Une ligne par compétence |
+| `index.html` | Le site : trois tableaux triables, filtrables et cherchables |
+| `data/competences.csv` | Une ligne par compétence d'enseignement |
 | `data/enseignements.csv` | Une ligne par enseignement |
-| `data/arbre.json` | Les deux jeux de données réunis |
+| `data/parcours.csv` | Une ligne par compétence de parcours |
+| `data/arbre.json` | Les trois jeux de données réunis |
 
 ## Ce qui est publié, et ce qui ne l'est pas
 
-**Chaque compétence de ce dépôt a été rédigée ou approuvée par l'enseignant·e responsable du
-cours.** Le champ `valide_par` nomme la personne. Rien d'autre n'est publié.
+**Chaque compétence de ce dépôt a été rédigée ou approuvée par les enseignant·e·s concerné·e·s.**
+Deux statuts coexistent, et ils n'ont pas la même portée :
+
+- **`Validé`** — la compétence a été rédigée ou approuvée par l'enseignant·e responsable du cours,
+  sur son propre cours. Le champ `valide_par` nomme la personne.
+- **`Validé en séance`** — la compétence ne relève pas d'un cours mais d'un parcours entier. Elle a
+  été dégagée et approuvée collectivement lors d'une séance de groupe thématique, dont le fichier
+  `parcours.csv` donne le nom et la date. Le champ `propose_par` nomme la personne qui l'a formulée
+  en séance, ce qui n'est pas la même chose qu'une validation individuelle.
+
+Rien d'autre n'est publié.
 
 Le recensement est en cours : les enseignements marqués « À documenter » n'ont pas encore fait
 l'objet d'une réponse. Le travail préparatoire — propositions rédigées pour amorcer la
@@ -38,6 +48,18 @@ n'engagerait pas les personnes citées.
 | `statut`, `valide_par` | Toujours `Validé`, et le nom de l'enseignant·e |
 | `dimension_cec`, `niveau_cec` | Dimension du Cadre européen des certifications — `Savoirs`, `Aptitudes` ou `Autonomie et responsabilité` — et niveau CEC (6 pour un Bachelor) |
 | `sappuie_sur` | Identifiants des compétences prérequises, quand l'enseignant·e les a signalées |
+
+### `parcours.csv`
+
+| Colonne | Description |
+|---|---|
+| `id` | Identifiant stable, préfixé `PARC-` |
+| `groupe_thematique` | Le groupe qui a dégagé la compétence |
+| `competence` | La compétence, formulée du point de vue de l'étudiant·e |
+| `categorie`, `dimension_cec`, `niveau_cec` | Mêmes classements que pour les compétences d'enseignement |
+| `propose_par` | Qui a formulé la compétence en séance |
+| `statut`, `valide_le` | Toujours `Validé en séance`, et la date de la séance |
+| `remarque` | Précision donnée en séance, quand il y en a une |
 
 ### `enseignements.csv`
 

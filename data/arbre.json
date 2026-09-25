@@ -5310,5 +5310,98 @@
    "id": "INTRMETE",
    "statut": "À documenter"
   }
+ ],
+ "parcours": [
+  {
+   "id": "PARC-SCIEAQUA-1",
+   "txt": "Appréhender la question de l'eau de manière holistique, du processus physique à la gouvernance",
+   "groupe": "Sciences aquatiques",
+   "cat": "Connaissances disciplinaires",
+   "cec": "Savoirs",
+   "niv": 6,
+   "statut": "Validé en séance",
+   "par": "E. Reynard",
+   "le": "22.09.2026",
+   "seance": "Groupe thématique Sciences aquatiques, séance du 22 septembre 2026",
+   "note": ""
+  },
+  {
+   "id": "PARC-SCIEAQUA-2",
+   "txt": "Lire et interpréter des graphiques et des données",
+   "groupe": "Sciences aquatiques",
+   "cat": "Techniques et informatique",
+   "cec": "Aptitudes",
+   "niv": 6,
+   "statut": "Validé en séance",
+   "par": "M.-E. Perga",
+   "le": "22.09.2026",
+   "seance": "Groupe thématique Sciences aquatiques, séance du 22 septembre 2026",
+   "note": "confirmée par l'ensemble du groupe"
+  },
+  {
+   "id": "PARC-SCIEAQUA-3",
+   "txt": "Faire des calculs d'ordre de grandeur",
+   "groupe": "Sciences aquatiques",
+   "cat": "Techniques et informatique",
+   "cec": "Aptitudes",
+   "niv": 6,
+   "statut": "Validé en séance",
+   "par": "M.-E. Perga",
+   "le": "22.09.2026",
+   "seance": "Groupe thématique Sciences aquatiques, séance du 22 septembre 2026",
+   "note": ""
+  },
+  {
+   "id": "PARC-SCIEAQUA-4",
+   "txt": "Manipuler du matériel de laboratoire et de terrain : suivre un protocole, calibrer des appareils, rédiger un rapport d'expérience",
+   "groupe": "Sciences aquatiques",
+   "cat": "Terrain / Méthodo",
+   "cec": "Aptitudes",
+   "niv": 6,
+   "statut": "Validé en séance",
+   "par": "N. Chèvre",
+   "le": "22.09.2026",
+   "seance": "Groupe thématique Sciences aquatiques, séance du 22 septembre 2026",
+   "note": ""
+  },
+  {
+   "id": "PARC-SCIEAQUA-5",
+   "txt": "Mettre en tension mesures et théories",
+   "groupe": "Sciences aquatiques",
+   "cat": "Terrain / Méthodo",
+   "cec": "Aptitudes",
+   "niv": 6,
+   "statut": "Validé en séance",
+   "par": "S. Lane",
+   "le": "22.09.2026",
+   "seance": "Groupe thématique Sciences aquatiques, séance du 22 septembre 2026",
+   "note": "exemples cités : le profil de vitesse qui s'écarte de la théorie, les courbes dose-réponse"
+  },
+  {
+   "id": "PARC-SCIEAQUA-6",
+   "txt": "Observer l'environnement, et pas seulement le mesurer",
+   "groupe": "Sciences aquatiques",
+   "cat": "Terrain / Méthodo",
+   "cec": "Aptitudes",
+   "niv": 6,
+   "statut": "Validé en séance",
+   "par": "N. Chèvre",
+   "le": "22.09.2026",
+   "seance": "Groupe thématique Sciences aquatiques, séance du 22 septembre 2026",
+   "note": ""
+  },
+  {
+   "id": "PARC-SCIEAQUA-7",
+   "txt": "Communiquer à différents publics et sur différents supports",
+   "groupe": "Sciences aquatiques",
+   "cat": "Soft Skills",
+   "cec": "Autonomie et responsabilité",
+   "niv": 6,
+   "statut": "Validé en séance",
+   "par": "le groupe",
+   "le": "22.09.2026",
+   "seance": "Groupe thématique Sciences aquatiques, séance du 22 septembre 2026",
+   "note": "quatre rendus différents aux excursions de 1re année : blog, infographie, vidéo, rapport"
+  }
  ]
 }

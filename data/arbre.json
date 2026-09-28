@@ -6753,7 +6753,9 @@
   {
    "id": "GRP-BIOLECOSTERR",
    "nom": "Biologie et écosystèmes terrestre",
-   "orientation": "Environnement",
+   "orientation": [
+    "Environnement"
+   ],
    "nens": 3,
    "ects": 9,
    "ncomp": 10,
@@ -6788,7 +6790,9 @@
   {
    "id": "GRP-CAMPTERR",
    "nom": "Camps de terrain",
-   "orientation": "Toutes",
+   "orientation": [
+    "Toutes"
+   ],
    "nens": 16,
    "ects": 57,
    "ncomp": 53,
@@ -6927,7 +6931,9 @@
   {
    "id": "GRP-CHIMENVI",
    "nom": "Chimie de l'environnement",
-   "orientation": "Environnement",
+   "orientation": [
+    "Environnement"
+   ],
    "nens": 6,
    "ects": 18,
    "ncomp": 26,
@@ -6986,7 +6992,9 @@
   {
    "id": "GRP-CLIMCHANGLOB",
    "nom": "Climat et changement globaux",
-   "orientation": "Environnement",
+   "orientation": [
+    "Environnement"
+   ],
    "nens": 5,
    "ects": 18,
    "ncomp": 16,
@@ -7037,7 +7045,9 @@
   {
    "id": "GRP-COMMREDASCIE",
    "nom": "Communication et rédaction scientifique",
-   "orientation": "Environnement",
+   "orientation": [
+    "Environnement"
+   ],
    "nens": 3,
    "ects": 15,
    "ncomp": 3,
@@ -7072,7 +7082,9 @@
   {
    "id": "GRP-EPISTE",
    "nom": "Epistémologie",
-   "orientation": "Géographie et Durabilité",
+   "orientation": [
+    "Géographie et Durabilité"
+   ],
    "nens": 3,
    "ects": 15,
    "ncomp": 9,
@@ -7107,7 +7119,9 @@
   {
    "id": "GRP-ETUDURBAAMEN",
    "nom": "Etudes urbaines et aménagement du territoire",
-   "orientation": "Géographie et Durabilité",
+   "orientation": [
+    "Géographie et Durabilité"
+   ],
    "nens": 4,
    "ects": 21,
    "ncomp": 17,
@@ -7150,7 +7164,9 @@
   {
    "id": "GRP-GEOGSOCIECON",
    "nom": "Géographie sociale et économique",
-   "orientation": "Géographie et Durabilité",
+   "orientation": [
+    "Géographie et Durabilité"
+   ],
    "nens": 7,
    "ects": 27,
    "ncomp": 23,
@@ -7217,7 +7233,9 @@
   {
    "id": "GRP-GEOLAPPLGEOP",
    "nom": "Géologie appliquée et géophysique",
-   "orientation": "Géologie",
+   "orientation": [
+    "Géologie"
+   ],
    "nens": 10,
    "ects": 37,
    "ncomp": 21,
@@ -7308,7 +7326,9 @@
   {
    "id": "GRP-GEOLSTRUTECT",
    "nom": "Géologie structurale et tectonique, chaînes de montagnes",
-   "orientation": "Géologie",
+   "orientation": [
+    "Géologie"
+   ],
    "nens": 8,
    "ects": 30,
    "ncomp": 24,
@@ -7383,7 +7403,9 @@
   {
    "id": "GRP-GEOSENVITERR",
    "nom": "Géosphère et environnement terrestre",
-   "orientation": "Environnement",
+   "orientation": [
+    "Environnement"
+   ],
    "nens": 5,
    "ects": 18,
    "ncomp": 16,
@@ -7434,7 +7456,9 @@
   {
    "id": "GRP-MATHINFOSTAT",
    "nom": "Mathématiques, informatiques et statistiques",
-   "orientation": "Toutes",
+   "orientation": [
+    "Toutes"
+   ],
    "nens": 11,
    "ects": 36,
    "ncomp": 38,
@@ -7533,7 +7557,9 @@
   {
    "id": "GRP-METHQUAL",
    "nom": "Méthodes Qualitatives",
-   "orientation": "Géographie",
+   "orientation": [
+    "Géographie"
+   ],
    "nens": 3,
    "ects": 12,
    "ncomp": 8,
@@ -7568,7 +7594,9 @@
   {
    "id": "GRP-PETRMINEGEOC",
    "nom": "Pétrologie, minéralogie, et géochimie",
-   "orientation": "Géologie",
+   "orientation": [
+    "Géologie"
+   ],
    "nens": 9,
    "ects": 29,
    "ncomp": 33,
@@ -7651,7 +7679,9 @@
   {
    "id": "GRP-PHYSENVI",
    "nom": "Physique de l'environnement",
-   "orientation": "Environnement",
+   "orientation": [
+    "Environnement"
+   ],
    "nens": 5,
    "ects": 18,
    "ncomp": 9,
@@ -7702,7 +7732,9 @@
   {
    "id": "GRP-SCIEAQUA2",
    "nom": "Sciences Aquatique",
-   "orientation": "Environnement",
+   "orientation": [
+    "Environnement"
+   ],
    "nens": 12,
    "ects": 45,
    "ncomp": 44,
@@ -7809,7 +7841,10 @@
   {
    "id": "GRP-SCIEHUMASOCI",
    "nom": "Sciences humaines et sociales et géographie de l'environnement",
-   "orientation": "Env. et Géographie",
+   "orientation": [
+    "Environnement",
+    "Géographie"
+   ],
    "nens": 8,
    "ects": 33,
    "ncomp": 22,
@@ -7884,7 +7919,9 @@
   {
    "id": "GRP-SEDICLIMGEOM",
    "nom": "Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie",
-   "orientation": "Géologie",
+   "orientation": [
+    "Géologie"
+   ],
    "nens": 9,
    "ects": 27,
    "ncomp": 29,
@@ -7967,7 +8004,9 @@
   {
    "id": "GRP-SYSTSOCIECOL",
    "nom": "Systèmes socio-écologiques",
-   "orientation": "Géographie et Durabilité",
+   "orientation": [
+    "Géographie et Durabilité"
+   ],
    "nens": 4,
    "ects": 15,
    "ncomp": 13,

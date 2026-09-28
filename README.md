@@ -72,10 +72,11 @@ nombre de compétences recensées et validées, état de la consultation.
 L'onglet **Thématiques** regroupe les enseignements par groupe thématique et permet de lister les
 compétences d'un domaine entier. Un enseignement peut relever de deux groupes.
 
-**Un seul de ces découpages est établi** : celui du groupe *Sciences aquatiques*, dont le périmètre
-vient du tableau présenté au groupe et de sa séance du 22 septembre 2026. Les sept autres sont une
-proposition construite à partir de la structure du plan d'études ; ils seront remplacés par les
-périmètres réels dès que les groupes les auront arrêtés.
+Les **19 groupes**, leur orientation et leur répondant·e viennent du classeur de travail de la
+Faculté. **Le rattachement des enseignements, lui, est une proposition** : le classeur ne le donne
+pas. Il est déduit de l'intitulé de chaque groupe et des enseignements de son répondant·e, et sera
+corrigé groupe par groupe. Seul le périmètre de *Sciences Aquatique* est établi, par le tableau du
+groupe et sa séance du 22 septembre 2026.
 
 ## Deux axes de classement
 

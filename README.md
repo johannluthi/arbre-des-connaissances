@@ -10,7 +10,7 @@ de l'Université de Lausanne, plan d'études 2026-2027.
 
 | Fichier | Contenu |
 |---|---|
-| `index.html` | Le site : trois tableaux triables, filtrables et cherchables |
+| `index.html` | Le site : quatre tableaux triables, filtrables et cherchables |
 | `data/competences.csv` | Une ligne par compétence d'enseignement |
 | `data/enseignements.csv` | Une ligne par enseignement |
 | `data/parcours.csv` | Une ligne par compétence de parcours |
@@ -45,6 +45,7 @@ n'engagerait pas les personnes citées.
 | `categorie` | Connaissances disciplinaires · Terrain / Méthodo · Techniques et informatique · Soft Skills |
 | `competence` | La compétence, formulée du point de vue de l'étudiant·e |
 | `enseignement`, `orientation`, `annee` | Rattachement au cursus |
+| `groupes_thematiques` | Le ou les groupes thématiques dont relève l'enseignement, séparés par ` · ` |
 | `statut`, `valide_par` | Toujours `Validé`, et le nom de l'enseignant·e |
 | `dimension_cec`, `niveau_cec` | Dimension du Cadre européen des certifications — `Savoirs`, `Aptitudes` ou `Autonomie et responsabilité` — et niveau CEC (6 pour un Bachelor) |
 | `sappuie_sur` | Identifiants des compétences prérequises, quand l'enseignant·e les a signalées |
@@ -63,8 +64,18 @@ n'engagerait pas les personnes citées.
 
 ### `enseignements.csv`
 
-Intitulé, module, orientation, année, ECTS, responsable, rattachement, nombre de compétences
-recensées et validées, état de la consultation.
+Intitulé, module, orientation, année, ECTS, responsable, rattachement, groupes thématiques,
+nombre de compétences recensées et validées, état de la consultation.
+
+## Groupes thématiques
+
+L'onglet **Thématiques** regroupe les enseignements par groupe thématique et permet de lister les
+compétences d'un domaine entier. Un enseignement peut relever de deux groupes.
+
+**Un seul de ces découpages est établi** : celui du groupe *Sciences aquatiques*, dont le périmètre
+vient du tableau présenté au groupe et de sa séance du 22 septembre 2026. Les sept autres sont une
+proposition construite à partir de la structure du plan d'études ; ils seront remplacés par les
+périmètres réels dès que les groupes les auront arrêtés.
 
 ## Deux axes de classement
 

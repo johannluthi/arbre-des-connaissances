@@ -154,6 +154,9 @@ button.lien:focus-visible{outline:0;box-shadow:var(--ring);border-radius:var(--r
 
 /* ---- vues graphiques ---- */
 #custom{padding:18px 16px}
+.chapo{max-width:88ch;margin:-4px 0 16px;font-size:.88rem;color:var(--body);
+  border-left:3px solid var(--ice-300);padding-left:14px}
+.chapo b{color:var(--ink)}
 .legende{display:flex;flex-wrap:wrap;gap:6px 18px;align-items:center;font-size:.78rem;color:var(--muted);
   margin:0 0 14px;padding-bottom:12px;border-bottom:1px solid var(--line-soft)}
 .legende b{color:var(--ink);font-weight:700}
@@ -172,13 +175,14 @@ svg.graphe .noeud:focus-visible circle{stroke:var(--blue);stroke-width:3}
 .voisins ol{margin:0;padding-left:1.2em;display:grid;gap:8px}
 .voisins li{color:var(--ink)}
 .matrice{overflow:auto;max-height:78vh}
-.matrice table{border-collapse:separate;border-spacing:0;min-width:auto;table-layout:fixed}
+.matrice table{border-collapse:separate;border-spacing:0;min-width:auto;width:auto;table-layout:fixed}
 .matrice col.cours{width:260px} .matrice col.cn{width:26px}
 .matrice th.coin{position:sticky;left:0;top:0;z-index:5;background:var(--sunk)}
 .matrice thead th.cn{position:sticky;top:0;z-index:3;background:var(--sunk);height:186px;padding:0 0 6px;
   border-bottom:2px solid var(--line);vertical-align:bottom}
 .matrice thead th.cn > div{writing-mode:vertical-rl;transform:rotate(180deg);margin:0 auto;
   font-size:.7rem;font-weight:600;color:var(--ink);white-space:nowrap;text-transform:none;letter-spacing:0}
+.matrice tbody th button.lien{font-size:.8rem}
 .matrice tbody th{position:sticky;left:0;z-index:2;background:var(--surface);text-align:left;font-weight:400;
   font-size:.8rem;color:var(--ink);padding:5px 12px 5px 0;white-space:nowrap;overflow:hidden;
   text-overflow:ellipsis;border-bottom:1px solid var(--line-soft)}
@@ -189,9 +193,11 @@ svg.graphe .noeud:focus-visible circle{stroke:var(--blue);stroke-width:3}
 .matrice tfoot td{font-size:.68rem;color:var(--muted);text-align:center;padding-top:6px;font-variant-numeric:tabular-nums}
 .matrice tfoot th{position:sticky;left:0;background:var(--surface);text-align:left;font-size:.72rem;color:var(--muted);font-weight:400;padding-top:6px}
 .matrice col.lacune{background:var(--ice-100)}
-.barres{display:flex;gap:2px;align-items:flex-end;height:22px}
-.barres i{display:block;width:9px;background:var(--blue);border-radius:1px 1px 0 0;min-height:2px}
+.barres{display:inline-flex;gap:3px;align-items:flex-end;height:26px}
+.barres i{position:relative;display:block;width:12px;background:var(--blue);border-radius:1px 1px 0 0;min-height:3px}
 .barres i.z{background:var(--line-soft)}
+.barres i b{position:absolute;top:100%;left:0;right:0;text-align:center;font-size:.6rem;font-weight:400;
+  color:var(--muted);line-height:1.6}
 
 /* ---- pied ---- */
 footer{background:var(--navy);color:#ccf1ff;font-size:.85rem}
@@ -249,6 +255,7 @@ footer .note{flex-basis:100%;color:#8ce0ff;font-size:.8rem}
 </nav>
 
 <div id="tools" class="tools"></div>
+<p id="chapo" class="chapo" hidden></p>
 <div class="tablebox">
   <div id="tablewrap">
     <table><thead id="thead"></thead><tbody id="tbody"></tbody></table>
@@ -350,10 +357,11 @@ const VIEWS = {
       {k:'a1', t:'1re année', r:c=>`<span class="num">${c.a1||'—'}</span>`, cls:'num'},
       {k:'a2', t:'2e année',  r:c=>`<span class="num">${c.a2||'—'}</span>`, cls:'num'},
       {k:'a3', t:'3e année',  r:c=>`<span class="num">${c.a3||'—'}</span>`, cls:'num'},
-      {k:'n',  t:'Progression', r:c=>{
+      {k:'n',  t:'Allure', r:c=>{
         const m=Math.max(c.a1,c.a2,c.a3,1);
-        return `<span class="barres">`+[c.a1,c.a2,c.a3].map(v=>
-          `<i class="${v?'':'z'}" style="height:${Math.round(100*v/m)||6}%"></i>`).join('')+`</span>`}},
+        return `<span class="barres" title="${c.a1} enseignement(s) en 1re année, ${c.a2} en 2e, ${c.a3} en 3e">`+
+          [['1',c.a1],['2',c.a2],['3',c.a3]].map(([an,v])=>
+          `<i class="${v?'':'z'}" style="height:${Math.round(100*v/m)||6}%"><b>${an}</b></i>`).join('')+`</span>`}},
       {k:'portee', t:'Lecture', r:c=>esc(c.portee)},
     ],
     filters: [['portee','Toutes les lectures']],
@@ -405,10 +413,20 @@ const COUL = {'Propédeutique':'--prop','Géographie, environnement et société
   "Sciences de l'environnement":'--se','Géologie':'--geo','Transversal':'--trans','Choix libre':'--libre'};
 function grapheSVG(data){
   const seuil = +(state.proximite.seuil || 3);
-  const ids = new Set(data.map(e=>e.id));
+  let ids = new Set(data.map(e=>e.id));
+  const choisi = SEL && ids.has(SEL) ? data.find(e=>e.id===SEL) : null;
+  if(choisi){
+    // on ne garde que le cours choisi et ceux qui lui sont liés
+    const garde = new Set([SEL]);
+    D.paires.forEach(p => { if(p.n>=seuil && ids.has(p.a) && ids.has(p.b)){
+      if(p.a===SEL) garde.add(p.b); if(p.b===SEL) garde.add(p.a); } });
+    data = data.filter(e=>garde.has(e.id)); ids = garde;
+  }
   const liens = D.paires.filter(p => p.n>=seuil && ids.has(p.a) && ids.has(p.b));
   if(!data.length) return '<p class="empty">Aucun enseignement ne correspond aux filtres.</p>';
-  const R=240, CX=450, CY=410, C=CX, n=data.length;
+  const n=data.length;
+  // le cercle se resserre quand il reste peu de cours, pour ne pas dessiner un anneau vide
+  const R=Math.max(110, Math.min(240, 30 + n*3)), CX=450, CY=410, C=CX;
   const pos={}; data.forEach((e,i)=>{ const a=-Math.PI/2 + 2*Math.PI*i/n;
     pos[e.id]={x:CX+R*Math.cos(a), y:CY+R*Math.sin(a), a:a*180/Math.PI}; });
   const relies = new Set(); liens.forEach(p=>{relies.add(p.a); relies.add(p.b)});
@@ -418,7 +436,7 @@ function grapheSVG(data){
       stroke-width="${(p.n*0.55).toFixed(2)}" stroke-opacity="${actif?0.85:0.3}"/>`}).join('');
   const noeuds = data.map(e=>{
     const p=pos[e.id], droite = p.a>-90 && p.a<90;
-    const pale = SEL && e.id!==SEL && !(PAIRES_DE[e.id]||[]).some(q=>q.n>=seuil && (q.a===SEL||q.b===SEL));
+    const pale = false;
     const r = relies.has(e.id) ? 3.5+Math.min(3,(e.concepts.length-2)*0.5) : 2.5;
     return `<g class="noeud${e.id===SEL?' actif':''}${pale?' pale':''}" data-noeud="${e.id}" tabindex="0" role="button"
        aria-label="${esc(e.cours)}"><circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="${r.toFixed(1)}"
@@ -428,8 +446,8 @@ function grapheSVG(data){
        >${esc(e.cours.length>30?e.cours.slice(0,29)+'…':e.cours)}</text></g>`}).join('');
   const isoles = data.filter(e=>!relies.has(e.id));
   let dessous = '';
-  if(SEL){
-    const moi = data.find(e=>e.id===SEL);
+  if(choisi){
+    const moi = choisi;
     const vs = (PAIRES_DE[SEL]||[]).filter(p=>p.n>=seuil && ids.has(p.a) && ids.has(p.b))
       .sort((x,y)=>y.n-x.n);
     dessous = `<div class="voisins"><h3>${esc(moi?moi.cours:'')}</h3>`+
@@ -439,12 +457,15 @@ function grapheSVG(data){
         : `<p class="sub">Aucun lien à ce seuil.</p>`)+
       `<p style="margin-top:12px"><button type="button" class="ghost" data-noeud="">Tout réafficher</button></p></div>`;
   }
-  return `<p class="legende"><b>${data.length}</b> enseignements documentés · <b>${liens.length}</b> liens ·
-      l'épaisseur du trait donne le nombre de concepts partagés · cliquez un cours pour n'en garder que ses liens
-      ${isoles.length?`· <b>${isoles.length}</b> sans aucun lien à ce seuil`:''}</p>`+
-    `<svg class="graphe" viewBox="0 0 900 820" role="img" aria-label="Graphe de proximité des enseignements">`+
+  return `<p class="legende">`+(choisi
+      ? `<b>${esc(choisi.cours)}</b> et les <b>${data.length-1}</b> enseignements qui partagent au moins
+         ${seuil} concepts avec lui · les traits entre eux sont également affichés`
+      : `<b>${data.length}</b> enseignements documentés · <b>${liens.length}</b> liens ·
+         l'épaisseur du trait donne le nombre de concepts partagés · cliquez un cours pour ne garder que lui et ses voisins
+         ${isoles.length?`· <b>${isoles.length}</b> sans aucun lien à ce seuil`:''}`)+`</p>`+
+    `<svg class="graphe" viewBox="${(CX-R-205).toFixed(0)} ${(CY-R-160).toFixed(0)} ${(2*(R+205)).toFixed(0)} ${(2*(R+160)).toFixed(0)}" role="img" aria-label="Graphe de proximité des enseignements">`+
     `<g>${arcs}</g><g>${noeuds}</g></svg>`+
-    (isoles.length && !SEL ? `<div class="voisins"><h3>Sans lien à ce seuil (${isoles.length})</h3><ol>`+
+    (isoles.length && !choisi ? `<div class="voisins"><h3>Sans lien à ce seuil (${isoles.length})</h3><ol>`+
       isoles.map(e=>`<li><button type="button" class="lien" data-voir="${esc(e.cours)}">${esc(e.cours)}</button>`+
         `<span class="sub">${e.concepts.length?e.concepts.length+' concept'+(e.concepts.length>1?'s':''):'aucun concept repéré'}</span></li>`).join('')+
       `</ol></div>` : '')+dessous;
@@ -452,23 +473,37 @@ function grapheSVG(data){
 
 function matriceHTML(data){
   if(!data.length) return '<p class="empty">Aucun enseignement ne correspond aux filtres.</p>';
-  const cols = D.concepts.map(c=>c.label);
+  const st = state.matrice;
+  let cols = D.concepts.map(c=>c.label);
+  let entete = '';
+  if(st.cours){
+    const e = data.find(x=>x.cours===st.cours);
+    if(e){ cols = cols.filter(l=>e.concepts.includes(l)); data = [e];
+      entete = `<p class="legende"><b>${esc(e.cours)}</b> · ses <b>${cols.length}</b> concepts
+        <button type="button" class="ghost" data-mat="">Tout réafficher</button></p>`; }
+  } else if(st.concept){
+    cols = [st.concept]; data = data.filter(e=>e.concepts.includes(st.concept));
+    entete = `<p class="legende"><b>${esc(st.concept)}</b> · les <b>${data.length}</b> enseignements qui le portent
+      <button type="button" class="ghost" data-mat="">Tout réafficher</button></p>`;
+  }
+  if(!cols.length || !data.length) return entete + '<p class="empty">Rien à afficher pour cette sélection.</p>';
   const compte = cols.map(l => data.filter(e=>e.concepts.includes(l)).length);
   const vides = compte.filter(v=>!v).length;
-  return `<p class="legende"><b>${data.length}</b> enseignements × <b>${cols.length}</b> concepts ·
-      une colonne vide est une lacune, une colonne pleine une redondance assumée
-      ${vides?`· <b>${vides}</b> colonne${vides>1?'s':''} vide${vides>1?'s':''} pour cette sélection`:''}</p>`+
+  return (entete || `<p class="legende"><b>${data.length}</b> enseignements × <b>${cols.length}</b> concepts ·
+      cliquez un enseignement pour ne voir que ses concepts, un concept pour ne voir que ses enseignements
+      ${vides?`· <b>${vides}</b> colonne${vides>1?'s':''} vide${vides>1?'s':''} pour cette sélection`:''}</p>`)+
     `<div class="matrice"><table><colgroup><col class="cours"/>`+
     compte.map(v=>`<col class="cn${v?'':' lacune'}"/>`).join('')+`</colgroup>`+
-    `<thead><tr><th class="coin"></th>`+cols.map(l=>`<th class="cn"><div>${esc(l)}</div></th>`).join('')+`</tr></thead>`+
-    `<tbody>`+data.map(e=>`<tr><th title="${esc(e.cours)}">${esc(e.cours)}</th>`+
+    `<thead><tr><th class="coin"></th>`+cols.map(l=>
+      `<th class="cn"><div><button type="button" class="lien" data-mat-concept="${esc(l)}">${esc(l)}</button></div></th>`).join('')+`</tr></thead>`+
+    `<tbody>`+data.map(e=>`<tr><th title="${esc(e.cours)}"><button type="button" class="lien" data-mat-cours="${esc(e.cours)}">${esc(e.cours)}</button></th>`+
       cols.map(l=>e.concepts.includes(l)?`<td><span></span></td>`:`<td class="vide"><span></span></td>`).join('')+`</tr>`).join('')+
     `</tbody><tfoot><tr><th>Nombre d'enseignements</th>`+compte.map(v=>`<td>${v||'0'}</td>`).join('')+`</tr></tfoot></table></div>`;
 }
 
 let cur = 'competences';
 const state = {competences:{q:'',f:{}}, enseignements:{q:'',f:{}}, thematiques:{q:'',f:{}},
-  proximite:{q:'',f:{},seuil:'3'}, progression:{q:'',f:{}}, matrice:{q:'',f:{}}, parcours:{q:'',f:{}}};
+  proximite:{q:'',f:{},seuil:'3'}, progression:{q:'',f:{}}, matrice:{q:'',f:{},cours:'',concept:''}, parcours:{q:'',f:{}}};
 
 function uniq(rows,k){ return [...new Set(rows.flatMap(r=>Array.isArray(r[k])?r[k]:[r[k]]))]
   .filter(v=>v!=='' && v!=null).sort((a,b)=>String(a).localeCompare(String(b),'fr')); }
@@ -499,7 +534,7 @@ function buildTools(){
     el.appendChild(s2);
   });
   const b=document.createElement('button'); b.className='ghost'; b.textContent='Réinitialiser';
-  b.addEventListener('click', ()=>{ st.q=''; st.f={}; buildTools(); render(); });
+  b.addEventListener('click', ()=>{ st.q=''; st.f={}; st.cours=''; st.concept=''; SEL=null; buildTools(); render(); });
   el.appendChild(b);
   const c=document.createElement('span'); c.className='count'; c.id='count'; el.appendChild(c);
 }
@@ -516,15 +551,23 @@ function rows(){
   });
 }
 
+const CHAPO = {
+  progression: `Un <b>concept</b> est une notion repérée dans le texte des compétences validées. Les trois
+    colonnes donnent le nombre d'enseignements qui le portent en 1re, en 2e et en 3e année : c'est la
+    trajectoire du concept dans le cursus. Un concept porté chaque année se construit dans la durée ;
+    un concept qui n'apparaît qu'en 3e année n'a pas été préparé ; un concept porté par un seul cours
+    est orphelin. Dépliez une ligne pour voir les enseignements concernés.`,
+};
 function render(){
   const V=VIEWS[cur], data=rows();
   if(V.custom){
-    $('#tablewrap').hidden = true; $('#custom').hidden = false;
+    $('#tablewrap').hidden = true; $('#custom').hidden = false; $('#chapo').hidden = true;
     $('#custom').innerHTML = V.custom(data);
     $('#count').textContent = `${data.length} / ${V.data.length}`;
     return;
   }
   $('#tablewrap').hidden = false; $('#custom').hidden = true;
+  $('#chapo').innerHTML = CHAPO[cur] || ''; $('#chapo').hidden = !CHAPO[cur];
   $('#thead').innerHTML='<tr>'+V.cols.map(c=>{
     const on = V.sort.k===c.k;
     return `<th data-k="${c.k}"${on?` aria-sort="${V.sort.dir>0?'ascending':'descending'}"`:''}>${c.t}<span class="ar">${on?(V.sort.dir>0?'▲':'▼'):'↕'}</span></th>`;
@@ -554,6 +597,12 @@ document.addEventListener('click', e=>{
     activer('competences');
     const t=$('#tools'); if(t && t.scrollIntoView) t.scrollIntoView({block:'start'});
     return; }
+  const mc=e.target.closest('[data-mat-cours]');
+  if(mc){ state.matrice.cours=mc.dataset.matCours; state.matrice.concept=''; render(); return; }
+  const mk=e.target.closest('[data-mat-concept]');
+  if(mk){ state.matrice.concept=mk.dataset.matConcept; state.matrice.cours=''; render(); return; }
+  const mz=e.target.closest('[data-mat]');
+  if(mz){ state.matrice.cours=''; state.matrice.concept=''; render(); return; }
   const nd=e.target.closest('[data-noeud]');
   if(nd){ const id=nd.dataset.noeud; SEL = (id && id!==SEL) ? id : null; render(); return; }
   const grp=e.target.closest('[data-groupe]');

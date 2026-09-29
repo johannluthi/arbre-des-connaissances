@@ -78,12 +78,14 @@ se lit dans `concepts.py` : rien n'est deviné statistiquement, chaque concept e
 
 - **Proximité** — chaque enseignement est relié à ceux qui partagent ses concepts ; l'épaisseur du
   trait donne le nombre de concepts communs. Un seuil réglable fait apparaître les grappes, et la
-  liste des cours sans aucun lien.
+  liste des cours sans aucun lien. Cliquer un cours ne garde que lui et ses voisins, avec le détail
+  des concepts partagés.
 - **Progression** — pour chaque concept, le nombre d'enseignements qui le portent en 1re, 2e et 3e
   année. Montre ce qui se construit dans la durée, ce qui n'est jamais introduit avant la 3e année,
   et ce qui reste porté par un seul cours.
 - **Matrice** — une ligne par enseignement, une colonne par concept. Une colonne vide est une
-  lacune, une colonne pleine une redondance assumée.
+  lacune, une colonne pleine une redondance assumée. Cliquer un enseignement ne montre que ses
+  concepts ; cliquer un concept ne montre que les enseignements qui le portent.
 
 Ces trois vues ne portent que sur les **82 enseignements documentés**. Un cours sans compétence
 validée n'y apparaît pas : son absence de liens ne dit rien de son contenu.

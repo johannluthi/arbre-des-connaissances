@@ -168,6 +168,8 @@ svg.graphe .noeud circle{stroke:var(--surface);stroke-width:1.5}
 svg.graphe .noeud text{font-size:9px;fill:var(--body);dominant-baseline:middle}
 svg.graphe .noeud.actif text{fill:var(--blue);font-weight:700}
 svg.graphe .noeud.pale{opacity:.25}
+svg.graphe text.etiq{font-size:8.5px;fill:var(--blue);paint-order:stroke;stroke:var(--surface);
+  stroke-width:3px;stroke-linejoin:round;pointer-events:none}
 svg.graphe .noeud:focus-visible{outline:0}
 svg.graphe .noeud:focus-visible circle{stroke:var(--blue);stroke-width:3}
 .voisins{max-width:78ch;margin:18px auto 0;font-size:.9rem}
@@ -176,12 +178,14 @@ svg.graphe .noeud:focus-visible circle{stroke:var(--blue);stroke-width:3}
 .voisins li{color:var(--ink)}
 .matrice{overflow:auto;max-height:78vh}
 .matrice table{border-collapse:separate;border-spacing:0;min-width:auto;width:auto;table-layout:fixed}
-.matrice col.cours{width:260px} .matrice col.cn{width:26px}
+.matrice col.cours{width:260px} .matrice col.cn{width:34px}
 .matrice th.coin{position:sticky;left:0;top:0;z-index:5;background:var(--sunk)}
-.matrice thead th.cn{position:sticky;top:0;z-index:3;background:var(--sunk);height:186px;padding:0 0 6px;
-  border-bottom:2px solid var(--line);vertical-align:bottom}
-.matrice thead th.cn > div{writing-mode:vertical-rl;transform:rotate(180deg);margin:0 auto;
-  font-size:.7rem;font-weight:600;color:var(--ink);white-space:nowrap;text-transform:none;letter-spacing:0}
+.matrice thead th.cn{position:sticky;top:0;background:var(--sunk);height:184px;padding:0;
+  border-bottom:2px solid var(--line)}
+.matrice thead th.cn > div{position:absolute;bottom:8px;left:50%;width:210px;transform:rotate(-60deg);
+  transform-origin:left bottom;font-size:.72rem;font-weight:600;color:var(--ink);white-space:nowrap;
+  text-align:left;text-transform:none;letter-spacing:0}
+.matrice thead th.cn > div button.lien{font-size:.72rem;font-weight:600}
 .matrice tbody th button.lien{font-size:.8rem}
 .matrice tbody th{position:sticky;left:0;z-index:2;background:var(--surface);text-align:left;font-weight:400;
   font-size:.8rem;color:var(--ink);padding:5px 12px 5px 0;white-space:nowrap;overflow:hidden;
@@ -285,6 +289,7 @@ D.concepts.forEach(c => c._s = norm([c.label,c.portee,c.cours.join(' ')].join(' 
 // un enseignement documenté entre dans le graphe même sans aucun concept :
 // c'est précisément un cours isolé.
 const DOC = D.enseignements.filter(e => e.nval > 0);
+const AN = {}; D.enseignements.forEach(e => AN[e.cours] = e.annee);
 D.enseignements.forEach(e => e.concepts = e.concepts || []);
 const PAIRES_DE = {};
 D.paires.forEach(p => { (PAIRES_DE[p.a] ||= []).push(p); (PAIRES_DE[p.b] ||= []).push(p); });
@@ -366,8 +371,10 @@ const VIEWS = {
     ],
     filters: [['portee','Toutes les lectures']],
     id: c => c.id,
-    detail: c => `<ol class="comps">`+c.cours.map(n=>
-        `<li><button type="button" class="lien" data-voir="${esc(n)}">${esc(n)}</button></li>`).join('')+`</ol>`,
+    detail: c => `<ol class="comps">`+c.cours
+        .slice().sort((x,y)=>String(AN[x]).localeCompare(String(AN[y]),'fr')||x.localeCompare(y,'fr'))
+        .map(n=>`<li><button type="button" class="lien" data-voir="${esc(n)}">${esc(n)}</button>`+
+          `<span class="sub">${esc(AN[n]||'')} année</span></li>`).join('')+`</ol>`,
   },
   matrice: {
     data: DOC, sort: {k:'annee', dir:1},
@@ -422,18 +429,31 @@ function grapheSVG(data){
       if(p.a===SEL) garde.add(p.b); if(p.b===SEL) garde.add(p.a); } });
     data = data.filter(e=>garde.has(e.id)); ids = garde;
   }
-  const liens = D.paires.filter(p => p.n>=seuil && ids.has(p.a) && ids.has(p.b));
-  if(!data.length) return '<p class="empty">Aucun enseignement ne correspond aux filtres.</p>';
+  let liens = D.paires.filter(p => p.n>=seuil && ids.has(p.a) && ids.has(p.b));
+  // les cours sans aucun lien quittent le cercle : ils sont listés dessous
+  const relies0 = new Set(); liens.forEach(p=>{relies0.add(p.a); relies0.add(p.b)});
+  const isoles = data.filter(e=>!relies0.has(e.id) && e.id!==SEL);
+  data = data.filter(e=>relies0.has(e.id) || e.id===SEL);
+  if(!data.length) return `<p class="empty">Aucun enseignement relié à ce seuil.</p>`;
   const n=data.length;
   // le cercle se resserre quand il reste peu de cours, pour ne pas dessiner un anneau vide
   const R=Math.max(110, Math.min(240, 30 + n*3)), CX=450, CY=410, C=CX;
   const pos={}; data.forEach((e,i)=>{ const a=-Math.PI/2 + 2*Math.PI*i/n;
     pos[e.id]={x:CX+R*Math.cos(a), y:CY+R*Math.sin(a), a:a*180/Math.PI}; });
-  const relies = new Set(); liens.forEach(p=>{relies.add(p.a); relies.add(p.b)});
+  const relies = relies0;
+  const etiq = [];
   const arcs = liens.map(p=>{
     const A=pos[p.a], B=pos[p.b], actif = SEL && (p.a===SEL||p.b===SEL);
+    if(actif && liens.filter(q=>q.a===SEL||q.b===SEL).length<=8){
+      // on écrit les concepts près du cours VOISIN : au milieu, toutes les courbes se rejoignent
+      const D1 = p.a===SEL ? A : B, D2 = p.a===SEL ? B : A, t = 0.74, u = 1-t;
+      const mx = u*u*D1.x + 2*t*u*CX + t*t*D2.x, my = u*u*D1.y + 2*t*u*CY + t*t*D2.y;
+      etiq.push(`<text class="etiq" x="${mx.toFixed(1)}" y="${(my-(p.com.length-1)*5).toFixed(1)}" text-anchor="middle">`+
+        p.com.map((t2,i)=>`<tspan x="${mx.toFixed(1)}" dy="${i?10:0}">${esc(t2)}</tspan>`).join('')+`</text>`);
+    }
     return `<path class="lien${actif?' actif':''}" d="M${A.x.toFixed(1)},${A.y.toFixed(1)} Q${CX},${CY} ${B.x.toFixed(1)},${B.y.toFixed(1)}"
       stroke-width="${(p.n*0.55).toFixed(2)}" stroke-opacity="${actif?0.85:0.3}"/>`}).join('');
+  const horiz = n <= 20;   // au-delà, les étiquettes horizontales se chevauchent
   const noeuds = data.map(e=>{
     const p=pos[e.id], droite = p.a>-90 && p.a<90;
     const pale = false;
@@ -442,9 +462,8 @@ function grapheSVG(data){
        aria-label="${esc(e.cours)}"><circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="${r.toFixed(1)}"
        fill="var(${COUL[e.orient]||'--muted'})"/>`+
       `<text x="${(CX+(R+9)*Math.cos(p.a*Math.PI/180)).toFixed(1)}" y="${(CY+(R+9)*Math.sin(p.a*Math.PI/180)).toFixed(1)}"
-       text-anchor="${droite?'start':'end'}" transform="rotate(${droite?p.a:p.a+180},${(CX+(R+9)*Math.cos(p.a*Math.PI/180)).toFixed(1)},${(CY+(R+9)*Math.sin(p.a*Math.PI/180)).toFixed(1)})"
-       >${esc(e.cours.length>30?e.cours.slice(0,29)+'…':e.cours)}</text></g>`}).join('');
-  const isoles = data.filter(e=>!relies.has(e.id));
+       text-anchor="${droite?'start':'end'}"${horiz?'':` transform="rotate(${droite?p.a:p.a+180},${(CX+(R+9)*Math.cos(p.a*Math.PI/180)).toFixed(1)},${(CY+(R+9)*Math.sin(p.a*Math.PI/180)).toFixed(1)})"`}
+       >${esc(e.cours.length>(horiz?46:30)?e.cours.slice(0,horiz?45:29)+'…':e.cours)}</text></g>`}).join('');
   let dessous = '';
   if(choisi){
     const moi = choisi;
@@ -462,12 +481,13 @@ function grapheSVG(data){
          ${seuil} concepts avec lui · les traits entre eux sont également affichés`
       : `<b>${data.length}</b> enseignements documentés · <b>${liens.length}</b> liens ·
          l'épaisseur du trait donne le nombre de concepts partagés · cliquez un cours pour ne garder que lui et ses voisins
-         ${isoles.length?`· <b>${isoles.length}</b> sans aucun lien à ce seuil`:''}`)+`</p>`+
+         ${isoles.length?`· <b>${isoles.length}</b> mis à part, faute de lien`:''}`)+`</p>`+
     `<svg class="graphe" viewBox="${(CX-R-205).toFixed(0)} ${(CY-R-160).toFixed(0)} ${(2*(R+205)).toFixed(0)} ${(2*(R+160)).toFixed(0)}" role="img" aria-label="Graphe de proximité des enseignements">`+
-    `<g>${arcs}</g><g>${noeuds}</g></svg>`+
-    (isoles.length && !choisi ? `<div class="voisins"><h3>Sans lien à ce seuil (${isoles.length})</h3><ol>`+
+    `<g>${arcs}</g><g>${noeuds}</g><g>${etiq.join('')}</g></svg>`+
+    (isoles.length ? `<div class="voisins"><h3>Hors du graphe : ${isoles.length} enseignement${isoles.length>1?'s':''} sans aucun lien</h3>`+
+      `<p class="sub" style="margin:-4px 0 10px">Il leur manque des concepts communs avec les autres cours, au seuil choisi.</p><ol>`+
       isoles.map(e=>`<li><button type="button" class="lien" data-voir="${esc(e.cours)}">${esc(e.cours)}</button>`+
-        `<span class="sub">${e.concepts.length?e.concepts.length+' concept'+(e.concepts.length>1?'s':''):'aucun concept repéré'}</span></li>`).join('')+
+        `<span class="sub">${e.concepts.length?e.concepts.length+' concept'+(e.concepts.length>1?'s':'')+' : '+esc(e.concepts.join(', ')):'aucun concept repéré dans ses compétences'}</span></li>`).join('')+
       `</ol></div>` : '')+dessous;
 }
 
@@ -492,10 +512,10 @@ function matriceHTML(data){
   return (entete || `<p class="legende"><b>${data.length}</b> enseignements × <b>${cols.length}</b> concepts ·
       cliquez un enseignement pour ne voir que ses concepts, un concept pour ne voir que ses enseignements
       ${vides?`· <b>${vides}</b> colonne${vides>1?'s':''} vide${vides>1?'s':''} pour cette sélection`:''}</p>`)+
-    `<div class="matrice"><table><colgroup><col class="cours"/>`+
+    `<div class="matrice"><table style="width:${260+cols.length*34}px"><colgroup><col class="cours"/>`+
     compte.map(v=>`<col class="cn${v?'':' lacune'}"/>`).join('')+`</colgroup>`+
-    `<thead><tr><th class="coin"></th>`+cols.map(l=>
-      `<th class="cn"><div><button type="button" class="lien" data-mat-concept="${esc(l)}">${esc(l)}</button></div></th>`).join('')+`</tr></thead>`+
+    `<thead><tr><th class="coin"></th>`+cols.map((l,i)=>
+      `<th class="cn" style="z-index:${200-i}"><div><button type="button" class="lien" data-mat-concept="${esc(l)}">${esc(l)}</button></div></th>`).join('')+`</tr></thead>`+
     `<tbody>`+data.map(e=>`<tr><th title="${esc(e.cours)}"><button type="button" class="lien" data-mat-cours="${esc(e.cours)}">${esc(e.cours)}</button></th>`+
       cols.map(l=>e.concepts.includes(l)?`<td><span></span></td>`:`<td class="vide"><span></span></td>`).join('')+`</tr>`).join('')+
     `</tbody><tfoot><tr><th>Nombre d'enseignements</th>`+compte.map(v=>`<td>${v||'0'}</td>`).join('')+`</tr></tfoot></table></div>`;

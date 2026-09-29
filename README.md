@@ -10,12 +10,11 @@ de l'Université de Lausanne, plan d'études 2026-2027.
 
 | Fichier | Contenu |
 |---|---|
-| `index.html` | Le site : sept onglets triables, filtrables et cherchables |
+| `index.html` | Le site : six onglets triables, filtrables et cherchables |
 | `data/competences.csv` | Une ligne par compétence d'enseignement |
 | `data/enseignements.csv` | Une ligne par enseignement |
 | `data/parcours.csv` | Une ligne par compétence de parcours |
 | `data/concepts.csv` | Une ligne par concept, avec sa présence par année |
-| `data/proximites.csv` | Une ligne par paire d'enseignements partageant au moins deux concepts |
 | `data/arbre.json` | Les trois jeux de données réunis |
 
 ## Ce qui est publié, et ce qui ne l'est pas
@@ -69,17 +68,13 @@ n'engagerait pas les personnes citées.
 Intitulé, module, orientation, année, ECTS, responsable, rattachement, groupes thématiques,
 nombre de compétences recensées et validées, état de la consultation.
 
-## Trois lectures des liens entre enseignements
+## Deux lectures des liens entre enseignements
 
-Trois onglets cherchent ce qui relie les enseignements, à partir d'un vocabulaire de
+Deux onglets cherchent ce qui relie les enseignements, à partir d'un vocabulaire de
 **36 concepts** repérés dans le texte des compétences validées. Ce vocabulaire est explicite et
 se lit dans `concepts.py` : rien n'est deviné statistiquement, chaque concept est un motif écrit
 à la main, et 17 % des compétences n'en portent aucun.
 
-- **Proximité** — chaque enseignement est relié à ceux qui partagent ses concepts ; l'épaisseur du
-  trait donne le nombre de concepts communs. Un seuil réglable fait apparaître les grappes, et la
-  liste des cours sans aucun lien. Cliquer un cours ne garde que lui et ses voisins, avec le détail
-  des concepts partagés.
 - **Progression** — pour chaque concept, le nombre d'enseignements qui le portent en 1re, 2e et 3e
   année. Montre ce qui se construit dans la durée, ce qui n'est jamais introduit avant la 3e année,
   et ce qui reste porté par un seul cours.
@@ -87,7 +82,7 @@ se lit dans `concepts.py` : rien n'est deviné statistiquement, chaque concept e
   lacune, une colonne pleine une redondance assumée. Cliquer un enseignement ne montre que ses
   concepts ; cliquer un concept ne montre que les enseignements qui le portent.
 
-Ces trois vues ne portent que sur les **82 enseignements documentés**. Un cours sans compétence
+Ces deux vues ne portent que sur les **82 enseignements documentés**. Un cours sans compétence
 validée n'y apparaît pas : son absence de liens ne dit rien de son contenu.
 
 ## Groupes thématiques

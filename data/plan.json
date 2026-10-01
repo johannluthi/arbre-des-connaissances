@@ -1,0 +1,3477 @@
+[
+ {
+  "id": "P001",
+  "cours": "Géographie, environnement et sociétés : approches et théories contemporaines",
+  "eid": "GEOGENVISOCI",
+  "module": "Module 1 – Initiation aux orientations",
+  "parcours": [
+   "Géographie, environnement et sociétés",
+   "Sciences de l'environnement",
+   "Géologie"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C 26TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi",
+   "Écrite"
+  ],
+  "eval_det": [
+   "CCi",
+   "Écrite (2h)"
+  ],
+  "ects": 6,
+  "ens": "M. Stock (coord.), C. Arnsperger, J. Steinberger",
+  "exiges": 18,
+  "note": ""
+ },
+ {
+  "id": "P002",
+  "cours": "Introduction aux sciences de l’environnement",
+  "eid": "INTRSCIEENVI",
+  "module": "Module 1 – Initiation aux orientations",
+  "parcours": [
+   "Géographie, environnement et sociétés",
+   "Sciences de l'environnement",
+   "Géologie"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C 26TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Pratique",
+   "Écrite"
+  ],
+  "eval_det": [
+   "Pratique",
+   "Écrite (2h)"
+  ],
+  "ects": 6,
+  "ens": "G. Mariéthoz (coord.), N. Chèvre, S. Lane, M. Keiluweit, M.-E. Perga, J. Steinberger",
+  "exiges": 18,
+  "note": ""
+ },
+ {
+  "id": "P003",
+  "cours": "Géologie : introduction aux Sciences de la Terre",
+  "eid": "GEOLINTRSCIE",
+  "module": "Module 1 – Initiation aux orientations",
+  "parcours": [
+   "Géographie, environnement et sociétés",
+   "Sciences de l'environnement",
+   "Géologie"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "39C 39TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Pratique",
+   "Écrite"
+  ],
+  "eval_det": [
+   "Pratique",
+   "Écrite (2h)"
+  ],
+  "ects": 6,
+  "ens": "S. Pilet (coord.), G. Hetényi, S. Jaccard",
+  "exiges": 18,
+  "note": ""
+ },
+ {
+  "id": "P004",
+  "cours": "Population et dé/croissance",
+  "eid": "POPUCROI",
+  "module": "Module 2 – Préparation à une orientation (bloc Géographie, environnement et sociétés)",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 13TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (3h)"
+  ],
+  "ects": 6,
+  "ens": "C. Mager",
+  "exiges": 18,
+  "note": ""
+ },
+ {
+  "id": "P005",
+  "cours": "La pensée géographique",
+  "eid": "PENSGEOG",
+  "module": "Module 2 – Préparation à une orientation (bloc Géographie, environnement et sociétés)",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 26TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Pratique",
+   "Écrite"
+  ],
+  "eval_det": [
+   "Pratique",
+   "Écrite (2h)"
+  ],
+  "ects": 6,
+  "ens": "P. Rérat (coord.), M. Müller",
+  "exiges": 18,
+  "note": ""
+ },
+ {
+  "id": "P006",
+  "cours": "Excursions et cas d’études",
+  "eid": "EXCUCASGES",
+  "module": "Module 2 – Préparation à une orientation (bloc Géographie, environnement et sociétés)",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "12C 14T",
+  "acts": [
+   "C",
+   "T"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "C. Arnsperger",
+  "exiges": 18,
+  "note": ""
+ },
+ {
+  "id": "P007",
+  "cours": "Systèmes énergétiques",
+  "eid": "SYSTENER",
+  "module": "Module 2 – Préparation à une orientation (bloc Sciences de l’environnement)",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "13C 13S",
+  "acts": [
+   "C",
+   "S"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "S. Yilmaz",
+  "exiges": 18,
+  "note": ""
+ },
+ {
+  "id": "P008",
+  "cours": "Chimie générale",
+  "eid": "CHIMGENE",
+  "module": "Module 2 – Préparation à une orientation (bloc Sciences de l’environnement)",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 13E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "S. Terrettaz / EPFL",
+  "exiges": 18,
+  "note": ""
+ },
+ {
+  "id": "P009",
+  "cours": "Physique générale I",
+  "eid": "PHYSGENEI",
+  "module": "Module 2 – Préparation à une orientation (bloc Sciences de l’environnement)",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "22C 22E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "R. Trappitsch / EPFL",
+  "exiges": 18,
+  "note": ""
+ },
+ {
+  "id": "P010",
+  "cours": "Excursions et cas d’études",
+  "eid": "EXCUCASSE",
+  "module": "Module 2 – Préparation à une orientation (bloc Sciences de l’environnement)",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Automne et printemps",
+  "heures": "8T 16T",
+  "acts": [
+   "T"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "N. Chèvre (coord.), M.-E. Perga, S. Lane, P. Vittoz",
+  "exiges": 18,
+  "note": ""
+ },
+ {
+  "id": "P011",
+  "cours": "Introduction à la géologie alpine",
+  "eid": "INTRGEOLALPI",
+  "module": "Module 2 – Préparation à une orientation (bloc Sciences de l’environnement)",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "8C 8TP 16T",
+  "acts": [
+   "C",
+   "TP",
+   "T"
+  ],
+  "eval": [
+   "Pratique",
+   "Écrite"
+  ],
+  "eval_det": [
+   "Pratique",
+   "Écrite (1h)"
+  ],
+  "ects": 3,
+  "ens": "G. Jouvet (resp.), J.-D. Champagnac",
+  "exiges": 18,
+  "note": ""
+ },
+ {
+  "id": "P012",
+  "cours": "Chimie générale",
+  "eid": "CHIMGENE",
+  "module": "Module 2 – Préparation à une orientation (bloc Géologie)",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 13E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "S. Terrettaz / EPFL",
+  "exiges": 18,
+  "note": ""
+ },
+ {
+  "id": "P013",
+  "cours": "Physique générale I",
+  "eid": "PHYSGENEI",
+  "module": "Module 2 – Préparation à une orientation (bloc Géologie)",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "22C 22E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "R. Trappitsch / EPFL",
+  "exiges": 18,
+  "note": ""
+ },
+ {
+  "id": "P014",
+  "cours": "Géologie régionale",
+  "eid": "GEOLREGI",
+  "module": "Module 2 – Préparation à une orientation (bloc Géologie)",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "16C 16T",
+  "acts": [
+   "C",
+   "T"
+  ],
+  "eval": [
+   "Pratique",
+   "Orale"
+  ],
+  "eval_det": [
+   "Pratique",
+   "Orale"
+  ],
+  "ects": 3,
+  "ens": "P. Lanari (coord.), S. Schmalholz",
+  "exiges": 18,
+  "note": ""
+ },
+ {
+  "id": "P015",
+  "cours": "Camp de terrain en géologie",
+  "eid": "CAMPTERRGEOL",
+  "module": "Module 2 – Préparation à une orientation (bloc Géologie)",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "75T",
+  "acts": [
+   "T"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "S. Schmalholz (coord.), A. Daley, A. Samsu",
+  "exiges": 18,
+  "note": ""
+ },
+ {
+  "id": "P016",
+  "cours": "Histoire de la Vie et stratigraphie",
+  "eid": "HISTVIESTRA",
+  "module": "Module 2 – Préparation à une orientation (bloc Géologie)",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 7TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Écrite",
+   "CCi"
+  ],
+  "eval_det": [
+   "Écrite (2h)",
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "A. Daley (coord.), J. Marin Carbonne, P. Gueriau",
+  "exiges": 18,
+  "note": ""
+ },
+ {
+  "id": "P017",
+  "cours": "Regards croisés sur le changement climatique",
+  "eid": "REGACROICHAN",
+  "module": "Module 2 – Préparation à une orientation (commun aux trois blocs)",
+  "parcours": [
+   "Géographie, environnement et sociétés",
+   "Sciences de l'environnement",
+   "Géologie"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "S. Jaccard (coord.), D. Domeisen, J. Steinberger",
+  "exiges": 0,
+  "note": "Fait partie du bloc de 18 ECTS de chacune des trois orientations."
+ },
+ {
+  "id": "P018",
+  "cours": "Méthodes quantitatives I : introduction aux principes et statistiques descriptives",
+  "eid": "METHQUANINTRI",
+  "module": "Module 3 – Méthodes de base",
+  "parcours": [
+   "Géographie, environnement et sociétés",
+   "Sciences de l'environnement",
+   "Géologie"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C 13TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "G. Guex",
+  "exiges": 15,
+  "note": "Communs aux trois orientations ; 15 ECTS en tout avec la ligne propre à l’orientation."
+ },
+ {
+  "id": "P019",
+  "cours": "Méthodes quantitatives II : statistiques inférentielles",
+  "eid": "METHQUANSTATII",
+  "module": "Module 3 – Méthodes de base",
+  "parcours": [
+   "Géographie, environnement et sociétés",
+   "Sciences de l'environnement",
+   "Géologie"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 13TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "G. Guex",
+  "exiges": 15,
+  "note": "Communs aux trois orientations ; 15 ECTS en tout avec la ligne propre à l’orientation."
+ },
+ {
+  "id": "P020",
+  "cours": "Géoinformatique I",
+  "eid": "GEOINFI",
+  "module": "Module 3 – Méthodes de base",
+  "parcours": [
+   "Géographie, environnement et sociétés",
+   "Sciences de l'environnement",
+   "Géologie"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "52CTP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Orale"
+  ],
+  "eval_det": [
+   "Orale"
+  ],
+  "ects": 6,
+  "ens": "C. Kaiser",
+  "exiges": 15,
+  "note": "Communs aux trois orientations ; 15 ECTS en tout avec la ligne propre à l’orientation."
+ },
+ {
+  "id": "P021",
+  "cours": "Introduction aux méthodes qualitatives",
+  "eid": "INTRMETHQUAL",
+  "module": "Module 3 – Méthodes de base (propre à Géographie, environnement et sociétés)",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "R. Kunz / SSP",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P022",
+  "cours": "Mathématiques pour les géosciences",
+  "eid": "MATHGEOS",
+  "module": "Module 3 – Méthodes de base (propre à Sciences de l’environnement et Géologie)",
+  "parcours": [
+   "Sciences de l'environnement",
+   "Géologie"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C 26E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "K. Zuleta / EPFL",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P023",
+  "cours": "Éléments d’écologie",
+  "eid": "ELEMECOL",
+  "module": "Module 4 – Sciences de base (commun)",
+  "parcours": [
+   "Géographie, environnement et sociétés",
+   "Sciences de l'environnement",
+   "Géologie"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "A. Guisan",
+  "exiges": 9,
+  "note": ""
+ },
+ {
+  "id": "P024",
+  "cours": "Éléments de sciences économiques",
+  "eid": "ELEMSCIEECON",
+  "module": "Module 4 – Sciences de base (Géographie et Sciences de l’environnement)",
+  "parcours": [
+   "Géographie, environnement et sociétés",
+   "Sciences de l'environnement"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "V. Boisvert (resp.), NN",
+  "exiges": 9,
+  "note": ""
+ },
+ {
+  "id": "P025",
+  "cours": "Éléments de sciences sociales",
+  "eid": "ELEMSCIESOCI",
+  "module": "Module 4 – Sciences de base (Géographie et Sciences de l’environnement)",
+  "parcours": [
+   "Géographie, environnement et sociétés",
+   "Sciences de l'environnement"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "J. Pollard / SSP",
+  "exiges": 9,
+  "note": ""
+ },
+ {
+  "id": "P026",
+  "cours": "Minéralogie générale",
+  "eid": "MINEGENE",
+  "module": "Module 4 – Sciences de base (Géologie)",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 13TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "S. Pilet",
+  "exiges": 9,
+  "note": ""
+ },
+ {
+  "id": "P027",
+  "cours": "Minéralogie optique",
+  "eid": "MINEOPTI",
+  "module": "Module 4 – Sciences de base (Géologie)",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "1re",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "13C 26TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "O. Müntener",
+  "exiges": 9,
+  "note": ""
+ },
+ {
+  "id": "P028",
+  "cours": "Géographie sociale et culturelle",
+  "eid": "GEOGSOCICULT",
+  "module": "Module 1 – Géographie humaine",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "39C 13TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi",
+   "Écrite"
+  ],
+  "eval_det": [
+   "CCi",
+   "Écrite (2h)"
+  ],
+  "ects": 6,
+  "ens": "R. Véron (coord.), L. Chanteloup",
+  "exiges": 21,
+  "note": ""
+ },
+ {
+  "id": "P029",
+  "cours": "Géographie urbaine",
+  "eid": "GEOGURBA",
+  "module": "Module 1 – Géographie humaine",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C 8T",
+  "acts": [
+   "C",
+   "T"
+  ],
+  "eval": [
+   "CCi",
+   "Écrite"
+  ],
+  "eval_det": [
+   "CCi",
+   "Écrite (2h)"
+  ],
+  "ects": 6,
+  "ens": "C. Rozenblat (resp.), M. Rogov",
+  "exiges": 21,
+  "note": ""
+ },
+ {
+  "id": "P030",
+  "cours": "Géographie économique",
+  "eid": "GEOGECON",
+  "module": "Module 1 – Géographie humaine",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Orale"
+  ],
+  "eval_det": [
+   "Orale"
+  ],
+  "ects": 3,
+  "ens": "C. Mager",
+  "exiges": 21,
+  "note": ""
+ },
+ {
+  "id": "P031",
+  "cours": "Aménagement du territoire",
+  "eid": "AMENTERR",
+  "module": "Module 1 – Géographie humaine",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 13TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Pratique",
+   "Écrite"
+  ],
+  "eval_det": [
+   "Pratique",
+   "Écrite (2h)"
+  ],
+  "ects": 6,
+  "ens": "G. Debrunner",
+  "exiges": 21,
+  "note": ""
+ },
+ {
+  "id": "P032",
+  "cours": "Introduction à la pensée écologique",
+  "eid": "INTRPENSECOL",
+  "module": "Module 2 – Durabilité et transition écologique",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "À définir"
+  ],
+  "eval_det": [
+   "À définir"
+  ],
+  "ects": 3,
+  "ens": "S. A. Schroer",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P033",
+  "cours": "Gestion sociale des flux de matière",
+  "eid": "GESTSOCIFLUX",
+  "module": "Module 2 – Durabilité et transition écologique",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 26ST",
+  "acts": [
+   "C",
+   "S",
+   "T"
+  ],
+  "eval": [
+   "CCi",
+   "Écrite"
+  ],
+  "eval_det": [
+   "CCi",
+   "Écrite (2h)"
+  ],
+  "ects": 6,
+  "ens": "J. Steinberger (coord.), C. Arnsperger",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P034",
+  "cours": "Politiques environnementales",
+  "eid": "POLIENVI",
+  "module": "Module 2 – Durabilité et transition écologique",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "52CS",
+  "acts": [
+   "C",
+   "S"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 6,
+  "ens": "J. Pollard / SSP",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P035",
+  "cours": "Gestion de l’eau",
+  "eid": "GESTEAU",
+  "module": "Module 3 – Environnement naturel",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Orale"
+  ],
+  "eval_det": [
+   "Orale"
+  ],
+  "ects": 3,
+  "ens": "E. Reynard",
+  "exiges": 9,
+  "note": ""
+ },
+ {
+  "id": "P036",
+  "cours": "Géomorphologie I",
+  "eid": "GEOMORI",
+  "module": "Module 3 – Environnement naturel",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "E. Reynard",
+  "exiges": 9,
+  "note": ""
+ },
+ {
+  "id": "P037",
+  "cours": "Télédétection",
+  "eid": "TELEDE",
+  "module": "Module 3 – Environnement naturel",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 26TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "G. Mariéthoz",
+  "exiges": 9,
+  "note": ""
+ },
+ {
+  "id": "P038",
+  "cours": "Production de savoirs en géographie et environnement",
+  "eid": "PRODSAVOGEOG",
+  "module": "Module 4 – Outils et méthodes",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26CTP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "C. Kull (resp.), S. Lane",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P039",
+  "cours": "Méthodes quantitatives III : statistiques multivariées",
+  "eid": "METHQUANSTATIII",
+  "module": "Module 4 – Outils et méthodes",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C 13TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "G. Guex",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P040",
+  "cours": "Méthodes d’enquête et d’analyse",
+  "eid": "METHENQUANAL",
+  "module": "Module 4 – Outils et méthodes",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "13C 13TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "C. Rozenblat (resp.), M. Rogov",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P041",
+  "cours": "Méthodes qualitatives avancées : méthodes et terrains",
+  "eid": "METHQUALAVAN",
+  "module": "Module 4 – Outils et méthodes",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C 26TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 6,
+  "ens": "L. Chanteloup (coord.), G. Walters",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P042",
+  "cours": "Géoinformatique II",
+  "eid": "GEOINFII",
+  "module": "Module 5 – Spécialisation en géographie humaine",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26CTP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "T. Beucler",
+  "exiges": 18,
+  "note": "Géoinformatique II est obligatoire ; 15 ECTS à choisir parmi les autres enseignements (24 ECTS offerts). Dynamiques urbaines : cours de terrain début juillet."
+ },
+ {
+  "id": "P043",
+  "cours": "Political Ecology",
+  "eid": "POLIECOL",
+  "module": "Module 5 – Spécialisation en géographie humaine",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Printemps",
+  "heures": "14C 9S",
+  "acts": [
+   "C",
+   "S"
+  ],
+  "eval": [
+   "Pratique",
+   "Écrite"
+  ],
+  "eval_det": [
+   "Pratique",
+   "Écrite (1h)"
+  ],
+  "ects": 3,
+  "ens": "C. Kull",
+  "exiges": 18,
+  "note": "Géoinformatique II est obligatoire ; 15 ECTS à choisir parmi les autres enseignements (24 ECTS offerts). Dynamiques urbaines : cours de terrain début juillet."
+ },
+ {
+  "id": "P044",
+  "cours": "Tourisme : environnement, société, économie",
+  "eid": "TOURENVISOCI",
+  "module": "Module 5 – Spécialisation en géographie humaine",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Automne",
+  "heures": "26CS",
+  "acts": [
+   "C",
+   "S"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "Mo. Müller (coord.), C. Clivaz, L. Kébir, M. Stock",
+  "exiges": 18,
+  "note": "Géoinformatique II est obligatoire ; 15 ECTS à choisir parmi les autres enseignements (24 ECTS offerts). Dynamiques urbaines : cours de terrain début juillet."
+ },
+ {
+  "id": "P045",
+  "cours": "Géographie des mobilités",
+  "eid": "GEOGMOBI",
+  "module": "Module 5 – Spécialisation en géographie humaine",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Printemps",
+  "heures": "22C 4TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Pratique",
+   "Écrite"
+  ],
+  "eval_det": [
+   "Pratique",
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "P. Rérat",
+  "exiges": 18,
+  "note": "Géoinformatique II est obligatoire ; 15 ECTS à choisir parmi les autres enseignements (24 ECTS offerts). Dynamiques urbaines : cours de terrain début juillet."
+ },
+ {
+  "id": "P046",
+  "cours": "Géographie du développement",
+  "eid": "GEOGDEVE",
+  "module": "Module 5 – Spécialisation en géographie humaine",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Printemps",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "R. Véron",
+  "exiges": 18,
+  "note": "Géoinformatique II est obligatoire ; 15 ECTS à choisir parmi les autres enseignements (24 ECTS offerts). Dynamiques urbaines : cours de terrain début juillet."
+ },
+ {
+  "id": "P047",
+  "cours": "Systèmes complexes et organisation de l’espace géographique",
+  "eid": "SYSTCOMPORGA",
+  "module": "Module 5 – Spécialisation en géographie humaine",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Automne",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "C. Rozenblat (resp.), M. Rogov",
+  "exiges": 18,
+  "note": "Géoinformatique II est obligatoire ; 15 ECTS à choisir parmi les autres enseignements (24 ECTS offerts). Dynamiques urbaines : cours de terrain début juillet."
+ },
+ {
+  "id": "P048",
+  "cours": "Dynamiques urbaines",
+  "eid": "DYNAURBACAM",
+  "module": "Module 5 – Spécialisation en géographie humaine",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Automne",
+  "heures": "14C 34T",
+  "acts": [
+   "C",
+   "T"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 6,
+  "ens": "J. Salomon Cavin (coord.), C. Trivin, M. Müller",
+  "exiges": 18,
+  "note": "Géoinformatique II est obligatoire ; 15 ECTS à choisir parmi les autres enseignements (24 ECTS offerts). Dynamiques urbaines : cours de terrain début juillet."
+ },
+ {
+  "id": "P049",
+  "cours": "Systèmes énergétiques",
+  "eid": "SYSTENER",
+  "module": "Module 6 – Spécialisation en transition écologique",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Printemps",
+  "heures": "13C 13S",
+  "acts": [
+   "C",
+   "S"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "S. Yilmaz",
+  "exiges": 15,
+  "note": "15 ECTS à choisir parmi les enseignements offerts (18 ECTS offerts). Éléments d’économie écologique n’est pas donné au printemps 2027."
+ },
+ {
+  "id": "P050",
+  "cours": "Évaluation critique des méthodes en économie environnementale",
+  "eid": "EVALCRITMETH",
+  "module": "Module 6 – Spécialisation en transition écologique",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Automne",
+  "heures": "10C 16TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "C. Mager",
+  "exiges": 15,
+  "note": "15 ECTS à choisir parmi les enseignements offerts (18 ECTS offerts). Éléments d’économie écologique n’est pas donné au printemps 2027."
+ },
+ {
+  "id": "P051",
+  "cours": "Droit de l’environnement",
+  "eid": "DROIENVI",
+  "module": "Module 6 – Spécialisation en transition écologique",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Printemps",
+  "heures": "39CS",
+  "acts": [
+   "C",
+   "S"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 6,
+  "ens": "C. Blattner",
+  "exiges": 15,
+  "note": "15 ECTS à choisir parmi les enseignements offerts (18 ECTS offerts). Éléments d’économie écologique n’est pas donné au printemps 2027."
+ },
+ {
+  "id": "P052",
+  "cours": "Durabilité et modes de vie",
+  "eid": "DURAMODEVIE",
+  "module": "Module 6 – Spécialisation en transition écologique",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Automne",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "C. Arnsperger",
+  "exiges": 15,
+  "note": "15 ECTS à choisir parmi les enseignements offerts (18 ECTS offerts). Éléments d’économie écologique n’est pas donné au printemps 2027."
+ },
+ {
+  "id": "P053",
+  "cours": "Éléments d’économie écologique",
+  "eid": "ELEMECONECOL",
+  "module": "Module 6 – Spécialisation en transition écologique",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Printemps",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "V. Boisvert",
+  "exiges": 15,
+  "note": "15 ECTS à choisir parmi les enseignements offerts (18 ECTS offerts). Éléments d’économie écologique n’est pas donné au printemps 2027."
+ },
+ {
+  "id": "P054",
+  "cours": "Préparation au travail de Bachelor",
+  "eid": "PREPTRAVBACH",
+  "module": "Module 7 – Travail de Bachelor",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "17CE",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 2,
+  "ens": "J. Salomon Cavin (coord.)",
+  "exiges": 12,
+  "note": "Une seule note pour 12 ECTS, donnée par la personne qui supervise le travail."
+ },
+ {
+  "id": "P055",
+  "cours": "Travail de Bachelor",
+  "eid": "TRAVBACH",
+  "module": "Module 7 – Travail de Bachelor",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "",
+  "heures": "",
+  "acts": [],
+  "eval": [],
+  "eval_det": [],
+  "ects": 10,
+  "ens": "",
+  "exiges": 12,
+  "note": "Une seule note pour 12 ECTS, donnée par la personne qui supervise le travail."
+ },
+ {
+  "id": "P056",
+  "cours": "Enseignements à choix libre",
+  "eid": "",
+  "module": "Module 8 – Module à choix libre",
+  "parcours": [
+   "Géographie, environnement et sociétés"
+  ],
+  "annee": "2e/3e",
+  "type": "Choix libre",
+  "sem": "",
+  "heures": "",
+  "acts": [],
+  "eval": [],
+  "eval_det": [],
+  "ects": 15,
+  "ens": "",
+  "exiges": 15,
+  "note": "Enseignements à choisir dans les autres orientations, d’autres facultés ou universités."
+ },
+ {
+  "id": "P057",
+  "cours": "Géochimie environnementale",
+  "eid": "GEOCENVI",
+  "module": "Module 1 – Éléments de chimie et biologie",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "J. Marin-Carbonne",
+  "exiges": 12,
+  "note": ""
+ },
+ {
+  "id": "P058",
+  "cours": "Chimie organique environnementale",
+  "eid": "CHIMORGAENVI",
+  "module": "Module 1 – Éléments de chimie et biologie",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "M. Keiluweit",
+  "exiges": 12,
+  "note": ""
+ },
+ {
+  "id": "P059",
+  "cours": "Biologie",
+  "eid": "BIOLOG",
+  "module": "Module 1 – Éléments de chimie et biologie",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "P. Vittoz (resp.), M. Blanc",
+  "exiges": 12,
+  "note": ""
+ },
+ {
+  "id": "P060",
+  "cours": "Écologie végétale",
+  "eid": "ECOLVEGE",
+  "module": "Module 1 – Éléments de chimie et biologie",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "P. Vittoz",
+  "exiges": 12,
+  "note": ""
+ },
+ {
+  "id": "P061",
+  "cours": "Méthodes quantitatives III : statistiques multivariées",
+  "eid": "METHQUANSTATIII",
+  "module": "Module 2 – Outils quantitatifs",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C 13TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "G. Guex",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P062",
+  "cours": "Levés géomatiques",
+  "eid": "LEVEGEOM",
+  "module": "Module 2 – Outils quantitatifs",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "20C 20TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "B. Quintal",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P063",
+  "cours": "Télédétection",
+  "eid": "TELEDE",
+  "module": "Module 2 – Outils quantitatifs",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 26TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "G. Mariéthoz",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P064",
+  "cours": "Analyse vectorielle",
+  "eid": "ANALVECT",
+  "module": "Module 2 – Outils quantitatifs",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "18C 18E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Pratique",
+   "Orale"
+  ],
+  "eval_det": [
+   "Pratique",
+   "Orale"
+  ],
+  "ects": 3,
+  "ens": "P. De Anna",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P065",
+  "cours": "Modélisation numérique",
+  "eid": "MODENUME",
+  "module": "Module 2 – Outils quantitatifs",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "13C 26E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "G. Jouvet",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P066",
+  "cours": "Physique générale II",
+  "eid": "PHYSGENEII",
+  "module": "Module 3 – Éléments de géosciences",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C 28E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "F. Carbone / EPFL",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P067",
+  "cours": "Physique du globe",
+  "eid": "PHYSGLOB",
+  "module": "Module 3 – Éléments de géosciences",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "24C 20E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Pratique",
+   "Écrite"
+  ],
+  "eval_det": [
+   "Pratique",
+   "Écrite (3h)"
+  ],
+  "ects": 3,
+  "ens": "J. Irving (resp.), NN",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P068",
+  "cours": "Géomorphologie I",
+  "eid": "GEOMORI",
+  "module": "Module 3 – Éléments de géosciences",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "E. Reynard",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P069",
+  "cours": "Géomorphologie II",
+  "eid": "GEOMORII",
+  "module": "Module 3 – Éléments de géosciences",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26CTP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Orale"
+  ],
+  "eval_det": [
+   "Orale"
+  ],
+  "ects": 3,
+  "ens": "C. Lambiel",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P070",
+  "cours": "Risques environnementaux",
+  "eid": "RISQENVI",
+  "module": "Module 3 – Éléments de géosciences",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "27C 9E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "M. Jaboyedoff",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P071",
+  "cours": "Production de savoirs en géographie et environnement",
+  "eid": "PRODSAVOGEOG",
+  "module": "Module 4 – Processus environnementaux",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26CTP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "C. Kull (resp.), S. Lane",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P072",
+  "cours": "Principes de la science atmosphérique",
+  "eid": "PRINSCIEATMO",
+  "module": "Module 4 – Processus environnementaux",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "39CTP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Écrite",
+   "Pratique"
+  ],
+  "eval_det": [
+   "Écrite (2h)",
+   "Pratique"
+  ],
+  "ects": 6,
+  "ens": "D. Domeisen",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P073",
+  "cours": "Hydrologie",
+  "eid": "HYDROL",
+  "module": "Module 4 – Processus environnementaux",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 26TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 6,
+  "ens": "P. Benettin",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P074",
+  "cours": "Hydrologie",
+  "eid": "HYDROL",
+  "module": "Module 5 – Approches et gestion de l’environnement",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 26TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 6,
+  "ens": "P. Benettin",
+  "exiges": 18,
+  "note": "Hydrologie : uniquement au printemps 2027. Droit de l’environnement : dès le printemps 2028. Module 4 pour les étudiant·e·s entré·e·s en seconde partie en septembre 2025."
+ },
+ {
+  "id": "P075",
+  "cours": "Droit de l’environnement",
+  "eid": "DROIENVI",
+  "module": "Module 5 – Approches et gestion de l’environnement",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "39CS",
+  "acts": [
+   "C",
+   "S"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 6,
+  "ens": "C. Blattner",
+  "exiges": 18,
+  "note": "Hydrologie : uniquement au printemps 2027. Droit de l’environnement : dès le printemps 2028. Module 4 pour les étudiant·e·s entré·e·s en seconde partie en septembre 2025."
+ },
+ {
+  "id": "P076",
+  "cours": "Hydrauliques, formes et processus fluviaux",
+  "eid": "HYDRFORMPROC",
+  "module": "Module 5 – Approches et gestion de l’environnement",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "14C 10TP 8T",
+  "acts": [
+   "C",
+   "TP",
+   "T"
+  ],
+  "eval": [
+   "Pratique",
+   "Orale"
+  ],
+  "eval_det": [
+   "Pratique",
+   "Orale"
+  ],
+  "ects": 3,
+  "ens": "S. Lane (coord.), G. Antoniazza",
+  "exiges": 18,
+  "note": "Hydrologie : uniquement au printemps 2027. Droit de l’environnement : dès le printemps 2028. Module 4 pour les étudiant·e·s entré·e·s en seconde partie en septembre 2025."
+ },
+ {
+  "id": "P077",
+  "cours": "Gestion de l’eau",
+  "eid": "GESTEAU",
+  "module": "Module 5 – Approches et gestion de l’environnement",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Orale"
+  ],
+  "eval_det": [
+   "Orale"
+  ],
+  "ects": 3,
+  "ens": "E. Reynard",
+  "exiges": 18,
+  "note": "Hydrologie : uniquement au printemps 2027. Droit de l’environnement : dès le printemps 2028. Module 4 pour les étudiant·e·s entré·e·s en seconde partie en septembre 2025."
+ },
+ {
+  "id": "P078",
+  "cours": "Pédologie",
+  "eid": "PEDOLO",
+  "module": "Module 5 – Approches et gestion de l’environnement",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Pratique",
+   "Écrite"
+  ],
+  "eval_det": [
+   "Pratique",
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "S. Grand",
+  "exiges": 18,
+  "note": "Hydrologie : uniquement au printemps 2027. Droit de l’environnement : dès le printemps 2028. Module 4 pour les étudiant·e·s entré·e·s en seconde partie en septembre 2025."
+ },
+ {
+  "id": "P079",
+  "cours": "Camp de terrain en environnement",
+  "eid": "CAMPTERRENVI",
+  "module": "Module 5 – Approches et gestion de l’environnement",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "40T",
+  "acts": [
+   "T"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "S. Lane (resp.), G. Antoniazza",
+  "exiges": 18,
+  "note": "Hydrologie : uniquement au printemps 2027. Droit de l’environnement : dès le printemps 2028. Module 4 pour les étudiant·e·s entré·e·s en seconde partie en septembre 2025."
+ },
+ {
+  "id": "P080",
+  "cours": "Géoinformatique II",
+  "eid": "GEOINFII",
+  "module": "Module 6 – Sciences et outils quantitatifs en environnement",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26CTP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "T. Beucler",
+  "exiges": 15,
+  "note": "Module 5 pour les étudiant·e·s entré·e·s en seconde partie en septembre 2025."
+ },
+ {
+  "id": "P081",
+  "cours": "Géophysique de l’environnement",
+  "eid": "GEOPENVI",
+  "module": "Module 6 – Sciences et outils quantitatifs en environnement",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "39C 39TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (3h)"
+  ],
+  "ects": 6,
+  "ens": "N. Linde",
+  "exiges": 15,
+  "note": "Module 5 pour les étudiant·e·s entré·e·s en seconde partie en septembre 2025."
+ },
+ {
+  "id": "P082",
+  "cours": "Géophysique de l’environnement : camp",
+  "eid": "GEOPENVICAMP",
+  "module": "Module 6 – Sciences et outils quantitatifs en environnement",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "42T",
+  "acts": [
+   "T"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "J. Irving (coord.), N. Linde",
+  "exiges": 15,
+  "note": "Module 5 pour les étudiant·e·s entré·e·s en seconde partie en septembre 2025."
+ },
+ {
+  "id": "P083",
+  "cours": "Analyses des données environnementales",
+  "eid": "ANALDONNENVI",
+  "module": "Module 6 – Sciences et outils quantitatifs en environnement",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "13C 13TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "M. Perga",
+  "exiges": 15,
+  "note": "Module 5 pour les étudiant·e·s entré·e·s en seconde partie en septembre 2025."
+ },
+ {
+  "id": "P084",
+  "cours": "Excursions et cartographie géomorphologique",
+  "eid": "EXCUCARTGEOM",
+  "module": "Module 7a – Processus de la surface terrestre (module thématique, 1 à choix)",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Automne",
+  "heures": "40T",
+  "acts": [
+   "T"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "C. Lambiel",
+  "exiges": 12,
+  "note": "Un module thématique à choisir : 7a ou 7b."
+ },
+ {
+  "id": "P085",
+  "cours": "Études des mouvements gravitaires",
+  "eid": "ETUDMOUVGRAV",
+  "module": "Module 7a – Processus de la surface terrestre (module thématique, 1 à choix)",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Printemps",
+  "heures": "13C 32T",
+  "acts": [
+   "C",
+   "T"
+  ],
+  "eval": [
+   "Pratique",
+   "Écrite"
+  ],
+  "eval_det": [
+   "Pratique",
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "M.-H. Derron (coord.), M. Jaboyedoff",
+  "exiges": 12,
+  "note": "Un module thématique à choisir : 7a ou 7b."
+ },
+ {
+  "id": "P086",
+  "cours": "Changement environnemental du quaternaire",
+  "eid": "CHANENVIQUAT",
+  "module": "Module 7a – Processus de la surface terrestre (module thématique, 1 à choix)",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Printemps",
+  "heures": "11C 11TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "G. King",
+  "exiges": 12,
+  "note": "Un module thématique à choisir : 7a ou 7b."
+ },
+ {
+  "id": "P087",
+  "cours": "Cartographie géologique",
+  "eid": "CARTGEOL",
+  "module": "Module 7a – Processus de la surface terrestre (module thématique, 1 à choix)",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Printemps",
+  "heures": "40T",
+  "acts": [
+   "T"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "S. Schmalholz (coord.), A. Daley",
+  "exiges": 12,
+  "note": "Un module thématique à choisir : 7a ou 7b."
+ },
+ {
+  "id": "P088",
+  "cours": "Écotoxicologie",
+  "eid": "ECOTOX",
+  "module": "Module 7b – Sciences aquatiques (module thématique, 1 à choix)",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Printemps",
+  "heures": "26C 13TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi",
+   "Écrite"
+  ],
+  "eval_det": [
+   "CCi",
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "N. Chèvre",
+  "exiges": 12,
+  "note": "Un module thématique à choisir : 7a ou 7b."
+ },
+ {
+  "id": "P089",
+  "cours": "Hydrochimie et pollution des eaux",
+  "eid": "HYDRPOLLEAUX",
+  "module": "Module 7b – Sciences aquatiques (module thématique, 1 à choix)",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Automne",
+  "heures": "21C 9TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (1h30)"
+  ],
+  "ects": 3,
+  "ens": "J. Berg",
+  "exiges": 12,
+  "note": "Un module thématique à choisir : 7a ou 7b."
+ },
+ {
+  "id": "P090",
+  "cours": "Limnologie",
+  "eid": "LIMNOL",
+  "module": "Module 7b – Sciences aquatiques (module thématique, 1 à choix)",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Printemps",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "M.-E. Perga",
+  "exiges": 12,
+  "note": "Un module thématique à choisir : 7a ou 7b."
+ },
+ {
+  "id": "P091",
+  "cours": "Introduction à la géochimie isotopique",
+  "eid": "INTRGEOCISOT",
+  "module": "Module 7b – Sciences aquatiques (module thématique, 1 à choix)",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "À choisir",
+  "sem": "Automne",
+  "heures": "26C 26E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "T. Vennemann (resp.), B. Bomou",
+  "exiges": 12,
+  "note": "Un module thématique à choisir : 7a ou 7b."
+ },
+ {
+  "id": "P092",
+  "cours": "Préparation au travail de Bachelor",
+  "eid": "PREPTRAVBACH",
+  "module": "Module 8 – Travail de Bachelor",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "17CE",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 2,
+  "ens": "J. Salomon Cavin (coord.)",
+  "exiges": 12,
+  "note": "Une seule note pour 12 ECTS."
+ },
+ {
+  "id": "P093",
+  "cours": "Travail de Bachelor",
+  "eid": "TRAVBACH",
+  "module": "Module 8 – Travail de Bachelor",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "",
+  "heures": "",
+  "acts": [],
+  "eval": [],
+  "eval_det": [],
+  "ects": 10,
+  "ens": "",
+  "exiges": 12,
+  "note": "Une seule note pour 12 ECTS."
+ },
+ {
+  "id": "P094",
+  "cours": "Enseignements à choix libre",
+  "eid": "",
+  "module": "Module 9 – Module à choix libre",
+  "parcours": [
+   "Sciences de l'environnement"
+  ],
+  "annee": "2e/3e",
+  "type": "Choix libre",
+  "sem": "",
+  "heures": "",
+  "acts": [],
+  "eval": [],
+  "eval_det": [],
+  "ects": 6,
+  "ens": "",
+  "exiges": 6,
+  "note": "Enseignements à choisir dans les autres orientations, d’autres facultés ou universités."
+ },
+ {
+  "id": "P095",
+  "cours": "Pétrographie magmatique et métamorphique",
+  "eid": "PETRMAGMMETA",
+  "module": "Module 1 – Géologie structurale et pétrologie",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C 26TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Écrite",
+   "CCi"
+  ],
+  "eval_det": [
+   "Écrite (2h)",
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "O. Müntener (coord.), P. Lanari",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P096",
+  "cours": "Géologie structurale",
+  "eid": "GEOLSTRU",
+  "module": "Module 1 – Géologie structurale et pétrologie",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C 48TP 4T",
+  "acts": [
+   "C",
+   "TP",
+   "T"
+  ],
+  "eval": [
+   "Pratique",
+   "Orale"
+  ],
+  "eval_det": [
+   "Pratique",
+   "Orale"
+  ],
+  "ects": 6,
+  "ens": "A. Samsu",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P097",
+  "cours": "Camp de géologie structurale",
+  "eid": "CAMPGEOLSTRU",
+  "module": "Module 1 – Géologie structurale et pétrologie",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "48T",
+  "acts": [
+   "T"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "A. Samsu",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P098",
+  "cours": "Camp de pétrologie magmatique",
+  "eid": "CAMPPETRMAGM",
+  "module": "Module 1 – Géologie structurale et pétrologie",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "72T",
+  "acts": [
+   "T"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "O. Müntener (coord.), S. Pilet",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P099",
+  "cours": "Sédimentologie physique",
+  "eid": "SEDIPHYS",
+  "module": "Module 2 – Sédimentologie, géomorphologie et paléontologie",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 26TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (3h)"
+  ],
+  "ects": 3,
+  "ens": "S. Jaccard (resp.), B. Bomou",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P100",
+  "cours": "Géomorphologie I",
+  "eid": "GEOMORI",
+  "module": "Module 2 – Sédimentologie, géomorphologie et paléontologie",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "E. Reynard",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P101",
+  "cours": "Géomorphologie II",
+  "eid": "GEOMORII",
+  "module": "Module 2 – Sédimentologie, géomorphologie et paléontologie",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26CTP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Orale"
+  ],
+  "eval_det": [
+   "Orale"
+  ],
+  "ects": 3,
+  "ens": "C. Lambiel",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P102",
+  "cours": "Paléontologie",
+  "eid": "PALEON",
+  "module": "Module 2 – Sédimentologie, géomorphologie et paléontologie",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 26TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Écrite",
+   "Pratique"
+  ],
+  "eval_det": [
+   "Écrite (2h)",
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "A. Daley (resp.), A. Pictet",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P103",
+  "cours": "Camp de stratigraphie et sédimentologie",
+  "eid": "CAMPSTRASEDI",
+  "module": "Module 2 – Sédimentologie, géomorphologie et paléontologie",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "72T",
+  "acts": [
+   "T"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "S. Jaccard (resp.), B. Bomou",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P104",
+  "cours": "Physique du globe",
+  "eid": "PHYSGLOB",
+  "module": "Module 3 – Géophysique et risques",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "24C 20E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Pratique",
+   "Écrite"
+  ],
+  "eval_det": [
+   "Pratique",
+   "Écrite (3h)"
+  ],
+  "ects": 3,
+  "ens": "J. Irving",
+  "exiges": 12,
+  "note": ""
+ },
+ {
+  "id": "P105",
+  "cours": "Télédétection",
+  "eid": "TELEDE",
+  "module": "Module 3 – Géophysique et risques",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 26TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "G. Mariéthoz",
+  "exiges": 12,
+  "note": ""
+ },
+ {
+  "id": "P106",
+  "cours": "Tectonique et géodynamique",
+  "eid": "TECTGEOD",
+  "module": "Module 3 – Géophysique et risques",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 26TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "S. Schmalholz",
+  "exiges": 12,
+  "note": ""
+ },
+ {
+  "id": "P107",
+  "cours": "Risques environnementaux",
+  "eid": "RISQENVI",
+  "module": "Module 3 – Géophysique et risques",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "27C 9E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "M. Jaboyedoff",
+  "exiges": 12,
+  "note": ""
+ },
+ {
+  "id": "P108",
+  "cours": "Géochimie environnementale",
+  "eid": "GEOCENVI",
+  "module": "Module 4 – Sciences et méthodes de base",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C",
+  "acts": [
+   "C"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "J. Marin-Carbonne",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P109",
+  "cours": "Introduction à la géochimie isotopique",
+  "eid": "INTRGEOCISOT",
+  "module": "Module 4 – Sciences et méthodes de base",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C 26E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "T. Vennemann (resp.), M. Galvez",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P110",
+  "cours": "Analyse vectorielle",
+  "eid": "ANALVECT",
+  "module": "Module 4 – Sciences et méthodes de base",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "18C 18E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Pratique",
+   "Orale"
+  ],
+  "eval_det": [
+   "Pratique",
+   "Orale"
+  ],
+  "ects": 3,
+  "ens": "P. De Anna",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P111",
+  "cours": "Physique générale II",
+  "eid": "PHYSGENEII",
+  "module": "Module 4 – Sciences et méthodes de base",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C 28E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "S. Bréchet / EPFL",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P112",
+  "cours": "Modélisation numérique",
+  "eid": "MODENUME",
+  "module": "Module 4 – Sciences et méthodes de base",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "13C 26E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "G. Jouvet",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P113",
+  "cours": "Pétrologie magmatique et métamorphique",
+  "eid": "PETRMAGMAVA",
+  "module": "Module 5 – Géologie avancée",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C 26TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Orale",
+   "CCi"
+  ],
+  "eval_det": [
+   "Orale",
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "P. Lanari (coord.), O. Müntener",
+  "exiges": 14,
+  "note": ""
+ },
+ {
+  "id": "P114",
+  "cours": "Thermodynamique et cinétique",
+  "eid": "THERCINE",
+  "module": "Module 5 – Géologie avancée",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "26C 13E",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "O. Müntener (coord.), J. Marin-Carbonne, P. Lanari",
+  "exiges": 14,
+  "note": ""
+ },
+ {
+  "id": "P115",
+  "cours": "Pétrologie métamorphique, camp",
+  "eid": "PETRMETACAMP",
+  "module": "Module 5 – Géologie avancée",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "80T",
+  "acts": [
+   "T"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 5,
+  "ens": "P. Lanari",
+  "exiges": 14,
+  "note": ""
+ },
+ {
+  "id": "P116",
+  "cours": "Géologie de la chaîne alpine",
+  "eid": "GEOLCHAIALPI",
+  "module": "Module 5 – Géologie avancée",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "12C 24T",
+  "acts": [
+   "C",
+   "T"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "O. Müntener (coord.), S. Schmalholz, P. Lanari",
+  "exiges": 14,
+  "note": ""
+ },
+ {
+  "id": "P117",
+  "cours": "Géoinformatique II",
+  "eid": "GEOINFII",
+  "module": "Module 6 – Géologie de la surface terrestre",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26CTP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "T. Beucler",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P118",
+  "cours": "Érosion, tectonique et climat",
+  "eid": "EROSTECTCLIM",
+  "module": "Module 6 – Géologie de la surface terrestre",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "18C 13TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "G. Jouvet (resp.), J.-D. Champagnac, G. King",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P119",
+  "cours": "Hydrogéologie générale",
+  "eid": "HYDRGENE",
+  "module": "Module 6 – Géologie de la surface terrestre",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "24CE 8T",
+  "acts": [
+   "C",
+   "E",
+   "T"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 3,
+  "ens": "P. Renard, C. Roques / UNINE",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P120",
+  "cours": "Sédimentologie biochimique",
+  "eid": "SEDIBIOC",
+  "module": "Module 6 – Géologie de la surface terrestre",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "26C 26TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (3h)"
+  ],
+  "ects": 3,
+  "ens": "S. Jaccard",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P121",
+  "cours": "Camp de cartographie et paléontologie",
+  "eid": "CAMPCARTPALE",
+  "module": "Module 6 – Géologie de la surface terrestre",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "40T",
+  "acts": [
+   "T"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 3,
+  "ens": "A. Daley (coord.), S. Jaccard, B. Bomou",
+  "exiges": 15,
+  "note": ""
+ },
+ {
+  "id": "P122",
+  "cours": "Géophysique d’exploration",
+  "eid": "GEOPEXPL",
+  "module": "Module 7 – Géologie de l’exploration",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "44C 44TP",
+  "acts": [
+   "C",
+   "TP"
+  ],
+  "eval": [
+   "CCi"
+  ],
+  "eval_det": [
+   "CCi"
+  ],
+  "ects": 6,
+  "ens": "K. Holliger",
+  "exiges": 16,
+  "note": ""
+ },
+ {
+  "id": "P123",
+  "cours": "Géophysique d’exploration – camp",
+  "eid": "GEOPEXPLCAMP",
+  "module": "Module 7 – Géologie de l’exploration",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "120T",
+  "acts": [
+   "T"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 6,
+  "ens": "J. Irving (coord.), N. Linde, B. Quintal",
+  "exiges": 16,
+  "note": ""
+ },
+ {
+  "id": "P124",
+  "cours": "Géologie de l’ingénieur",
+  "eid": "GEOLINGE",
+  "module": "Module 7 – Géologie de l’exploration",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "22C 14E 8T",
+  "acts": [
+   "C",
+   "E",
+   "T"
+  ],
+  "eval": [
+   "Écrite"
+  ],
+  "eval_det": [
+   "Écrite (2h)"
+  ],
+  "ects": 3,
+  "ens": "M. Violay (EPFL) (coord.), O. Müntener, P. Lanari",
+  "exiges": 16,
+  "note": ""
+ },
+ {
+  "id": "P125",
+  "cours": "Géologie de l’ingénieur, excursion",
+  "eid": "GEOLINGEEXCU",
+  "module": "Module 7 – Géologie de l’exploration",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Printemps",
+  "heures": "12T",
+  "acts": [
+   "T"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 1,
+  "ens": "B. Quintal (coord.), L. Baron",
+  "exiges": 16,
+  "note": ""
+ },
+ {
+  "id": "P126",
+  "cours": "Préparation au travail de Bachelor",
+  "eid": "PREPTRAVBACH",
+  "module": "Module 8 – Travail de Bachelor",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "Automne",
+  "heures": "17CE",
+  "acts": [
+   "C",
+   "E"
+  ],
+  "eval": [
+   "Pratique"
+  ],
+  "eval_det": [
+   "Pratique"
+  ],
+  "ects": 9,
+  "ens": "J. Salomon Cavin (coord.)",
+  "exiges": 9,
+  "note": "Une seule note pour 9 ECTS, donnée par la personne qui supervise le travail."
+ },
+ {
+  "id": "P127",
+  "cours": "Travail de Bachelor",
+  "eid": "TRAVBACH",
+  "module": "Module 8 – Travail de Bachelor",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "3e",
+  "type": "Obligatoire",
+  "sem": "",
+  "heures": "",
+  "acts": [],
+  "eval": [],
+  "eval_det": [],
+  "ects": 0,
+  "ens": "",
+  "exiges": 9,
+  "note": "Une seule note pour 9 ECTS, donnée par la personne qui supervise le travail."
+ },
+ {
+  "id": "P128",
+  "cours": "Enseignements à choix libre",
+  "eid": "",
+  "module": "Module 9 – Module à choix libre",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e/3e",
+  "type": "Choix libre",
+  "sem": "",
+  "heures": "",
+  "acts": [],
+  "eval": [],
+  "eval_det": [],
+  "ects": 9,
+  "ens": "",
+  "exiges": 9,
+  "note": "Enseignements à choisir dans les autres orientations, d’autres facultés ou universités. Liste proposée à l’automne : Micropaléontologie (UNIGE), Introduction à la météorologie, Ressources minérales (UNIGE), Gestion de l’eau, Méthodes quantitatives III, Pédologie, Hydrauliques, formes et processus fluviaux, Hydrologie, Droit de l’environnement, Écotoxicologie, Hydrochimie et pollution des eaux, Écologie végétale."
+ },
+ {
+  "id": "P129",
+  "cours": "Introduction à la météorologie",
+  "eid": "INTRMETE",
+  "module": "Module 9 – Module à choix libre",
+  "parcours": [
+   "Géologie"
+  ],
+  "annee": "2e/3e",
+  "type": "Choix libre",
+  "sem": "",
+  "heures": "",
+  "acts": [],
+  "eval": [],
+  "eval_det": [],
+  "ects": 3,
+  "ens": "FGSE",
+  "exiges": 9,
+  "note": "Enseignements à choisir dans les autres orientations, d’autres facultés ou universités. Liste proposée à l’automne : Micropaléontologie (UNIGE), Introduction à la météorologie, Ressources minérales (UNIGE), Gestion de l’eau, Méthodes quantitatives III, Pédologie, Hydrauliques, formes et processus fluviaux, Hydrologie, Droit de l’environnement, Écotoxicologie, Hydrochimie et pollution des eaux, Écologie végétale."
+ }
+]

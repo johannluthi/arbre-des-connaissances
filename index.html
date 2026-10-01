@@ -479,7 +479,6 @@ function groupeHTML(g){
   const an=a=>g.cours.filter(c=>c.annee.split('/').includes(a))
                      .sort((x,y)=>x.cours.localeCompare(y.cours,'fr'));
   return `<section class="fiche">`+
-    ((g.ens||[]).length?`<p class="fens"><b>Enseignant·e·s</b> ${esc(g.ens.join(' · '))}</p>`:'')+
     ((g.vitrine||[]).length?`<div class="fvit"><b>Cours vitrine et excursions</b><ul>`+g.vitrine.map(v=>`<li>${esc(v)}</li>`).join('')+`</ul></div>`:'')+
     `<div class="fgrid">`+col('1re année',an('1re'))+col('2e année',an('2e'))+col('3e année',an('3e'))+`</div></section>`;
 }

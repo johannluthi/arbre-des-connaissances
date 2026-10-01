@@ -5954,6 +5954,68 @@
     "Sociétés et populations",
     "Théories et paradigmes",
     "Vivant et écosystèmes"
+   ],
+   "seances": [
+    {
+     "txt": "Qu’est-ce que la géographie ? - Les 7 questions magiques de la géographie",
+     "groupe": "Epistémologie"
+    },
+    {
+     "txt": "Conditions géographiques contemporaines des sociétés humaines",
+     "groupe": "Etudes urbaines et aménagement du territoire"
+    },
+    {
+     "txt": "Penser géographiquement : les concepts clés de la géographie",
+     "groupe": "Géographie sociale et économique"
+    },
+    {
+     "txt": "Conditions géographiques contemporaines des sociétés humaines",
+     "groupe": "Géographie sociale et économique"
+    },
+    {
+     "txt": "Savoirs & Imaginaires géographiques",
+     "groupe": "Géographie sociale et économique"
+    },
+    {
+     "txt": "Habiter le Monde entre mobilité et ancrages",
+     "groupe": "Géographie sociale et économique"
+    },
+    {
+     "txt": "Agriculture et permaculture (M. Vandaele, S. Bellocq et C. Arnsperger)",
+     "groupe": "Géosphère et environnement terrestre"
+    },
+    {
+     "txt": "Introduction aux Liens Société Environnement",
+     "groupe": "Sciences humaines et sociales et géographie de l'environnement"
+    },
+    {
+     "txt": "Bien vivre, à l'intérieur des limites planétaires",
+     "groupe": "Sciences humaines et sociales et géographie de l'environnement"
+    },
+    {
+     "txt": "Introduction à la notion de durabilité et à ses enjeux de base",
+     "groupe": "Sciences humaines et sociales et géographie de l'environnement"
+    },
+    {
+     "txt": "Enjeux de pouvoir",
+     "groupe": "Sciences humaines et sociales et géographie de l'environnement"
+    },
+    {
+     "txt": "Transition social-écologique",
+     "groupe": "Sciences humaines et sociales et géographie de l'environnement"
+    },
+    {
+     "txt": "Conceptions alternatives de la durabilité : perspectives indigènes",
+     "groupe": "Sciences humaines et sociales et géographie de l'environnement"
+    },
+    {
+     "txt": "Durabilité et relations société-environnement (J. Steinberger)",
+     "groupe": "Sciences humaines et sociales et géographie de l'environnement"
+    },
+    {
+     "txt": "Introduction à la durabilité et perspective de pensée systémique - Bien vivre, à l’intérieur des limites planétaires - Transition social-écologique - Conceptions alternatives de la durabilité : perspectives indigènes",
+     "groupe": "Systèmes socio-écologiques"
+    }
    ]
   },
   {
@@ -5987,6 +6049,64 @@
     "Terrain",
     "Écriture scientifique",
     "Éthique et intégrité"
+   ],
+   "seances": [
+    {
+     "txt": "Ecosystèmes terrestres (M. Keiluweit)",
+     "groupe": "Biologie et écosystèmes terrestre"
+    },
+    {
+     "txt": "Biogéochimie et grands cycles (M. Keiluweit)",
+     "groupe": "Chimie de l'environnement"
+    },
+    {
+     "txt": "Processus atmosphériques et climatiques (G. Mariéthoz)",
+     "groupe": "Climat et changement globaux"
+    },
+    {
+     "txt": "Changements climatiques (G. Mariéthoz)",
+     "groupe": "Climat et changement globaux"
+    },
+    {
+     "txt": "Cryosphère et les liens avec le climat (S. Lane, G. Antoniazza)",
+     "groupe": "Climat et changement globaux"
+    },
+    {
+     "txt": "Géosphère, paysage et sédiments (S. Lane, G. Antoniazza)",
+     "groupe": "Géosphère et environnement terrestre"
+    },
+    {
+     "txt": "Ressources et risques naturels, conclusion générale (G. Mariéthoz)",
+     "groupe": "Géosphère et environnement terrestre"
+    },
+    {
+     "txt": "Durabilité et dégradation des sols (M. Keiluweit)",
+     "groupe": "Géosphère et environnement terrestre"
+    },
+    {
+     "txt": "Les environnements alpins (S. Lane)",
+     "groupe": "Géosphère et environnement terrestre"
+    },
+    {
+     "txt": "Hydrosphère et le cycle de l'eau (G. Mariéthoz)",
+     "groupe": "Sciences Aquatique"
+    },
+    {
+     "txt": "Le cycle de l'eau en ville (N. Chèvre)",
+     "groupe": "Sciences Aquatique"
+    },
+    {
+     "txt": "Cycle de l'eau en ville (N. Chèvre, A. Traore Dosso)",
+     "groupe": "Sciences Aquatique"
+    },
+    {
+     "txt": "Le léman la mesure de l'environnemet (M.-E. Perga)",
+     "groupe": "Sciences Aquatique"
+    },
+    {
+     "txt": "Science, Environnement et démocratie (S. Lane, G. Antoniazza)",
+     "groupe": "Sciences humaines et sociales et géographie de l'environnement"
+    }
    ]
   },
   {
@@ -6005,7 +6125,49 @@
     "Géologie structurale et tectonique, chaînes de montagnes"
    ],
    "statut": "À documenter",
-   "concepts": []
+   "concepts": [],
+   "seances": [
+    {
+     "txt": "Ressources naturelles (G. Hetenyi)",
+     "groupe": "Géologie appliquée et géophysique"
+    },
+    {
+     "txt": "Orogenèses (G. Hetenyi)",
+     "groupe": "Géologie structurale et tectonique, chaînes de montagnes"
+    },
+    {
+     "txt": "Tectonique des plaques (G. Hetenyi)",
+     "groupe": "Géologie structurale et tectonique, chaînes de montagnes"
+    },
+    {
+     "txt": "Géologie : introduction aux sciences de la Terre (F. Bussy, T Adatte, S. Pilet)",
+     "groupe": "Géosphère et environnement terrestre"
+    },
+    {
+     "txt": "Minéralogie (S. Pilet)",
+     "groupe": "Pétrologie, minéralogie, et géochimie"
+    },
+    {
+     "txt": "Magmatisme (S. Pilet)",
+     "groupe": "Pétrologie, minéralogie, et géochimie"
+    },
+    {
+     "txt": "Anthropocène (S. Jaccard)",
+     "groupe": "Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie"
+    },
+    {
+     "txt": "Sédimentologie, stratigraphie (S. Jaccard)",
+     "groupe": "Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie"
+    },
+    {
+     "txt": "Histoire de la Terre et de la vie (S. Jaccard)",
+     "groupe": "Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie"
+    },
+    {
+     "txt": "Géomorphologie (Jaccard)",
+     "groupe": "Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie"
+    }
+   ]
   },
   {
    "cours": "Population et dé/croissance",
@@ -8317,8 +8479,13 @@
     "P. Vittoz, M. Blanc"
    ],
    "vitrine": [
-    "Ecosystèmes terrestres (M. Keiluweit)",
-    "Introduction à la botanique (P. Vittoz)"
+    {
+     "txt": "Ecosystèmes terrestres (M. Keiluweit)",
+     "cours": "Introduction aux sciences de l'environnement"
+    },
+    {
+     "txt": "Introduction à la botanique (P. Vittoz)"
+    }
    ]
   },
   {
@@ -8545,7 +8712,10 @@
     "B. Bomou"
    ],
    "vitrine": [
-    "Biogéochimie et grands cycles (M. Keiluweit)"
+    {
+     "txt": "Biogéochimie et grands cycles (M. Keiluweit)",
+     "cours": "Introduction aux sciences de l'environnement"
+    }
    ]
   },
   {
@@ -8609,9 +8779,18 @@
     "G. King"
    ],
    "vitrine": [
-    "Processus atmosphériques et climatiques (G. Mariéthoz)",
-    "Changements climatiques (G. Mariéthoz)",
-    "Cryosphère et les liens avec le climat (S. Lane, G. Antoniazza)"
+    {
+     "txt": "Processus atmosphériques et climatiques (G. Mariéthoz)",
+     "cours": "Introduction aux sciences de l'environnement"
+    },
+    {
+     "txt": "Changements climatiques (G. Mariéthoz)",
+     "cours": "Introduction aux sciences de l'environnement"
+    },
+    {
+     "txt": "Cryosphère et les liens avec le climat (S. Lane, G. Antoniazza)",
+     "cours": "Introduction aux sciences de l'environnement"
+    }
    ]
   },
   {
@@ -8657,11 +8836,21 @@
     "N. Chèvre"
    ],
    "vitrine": [
-    "Géographie : lecture scientifique et écriture académique, capacité d’analyse et attitude réflexive, autonomie dans l’apprentissage des notions de base",
-    "Revue de la littérature et recherche documentaire (I. Contreiras)",
-    "Les étapes de la démarche scientifique (I. Contreiras)",
-    "Problématique et question de recherche (I. Contreiras)",
-    "Hypothèses et méthodologie (I. Contreiras)"
+    {
+     "txt": "Géographie : lecture scientifique et écriture académique, capacité d’analyse et attitude réflexive, autonomie dans l’apprentissage des notions de base"
+    },
+    {
+     "txt": "Revue de la littérature et recherche documentaire (I. Contreiras)"
+    },
+    {
+     "txt": "Les étapes de la démarche scientifique (I. Contreiras)"
+    },
+    {
+     "txt": "Problématique et question de recherche (I. Contreiras)"
+    },
+    {
+     "txt": "Hypothèses et méthodologie (I. Contreiras)"
+    }
    ]
   },
   {
@@ -8696,7 +8885,10 @@
     "C. Kull"
    ],
    "vitrine": [
-    "Qu’est-ce que la géographie ? - Les 7 questions magiques de la géographie"
+    {
+     "txt": "Qu’est-ce que la géographie ? - Les 7 questions magiques de la géographie",
+     "cours": "Géographie, environnement et sociétés : approches et théories contemporaines"
+    }
    ]
   },
   {
@@ -8753,7 +8945,10 @@
     "P. Rérat"
    ],
    "vitrine": [
-    "Conditions géographiques contemporaines des sociétés humaines"
+    {
+     "txt": "Conditions géographiques contemporaines des sociétés humaines",
+     "cours": "Géographie, environnement et sociétés : approches et théories contemporaines"
+    }
    ]
   },
   {
@@ -8832,10 +9027,22 @@
     "C. Clivaz"
    ],
    "vitrine": [
-    "Penser géographiquement : les concepts clés de la géographie",
-    "Conditions géographiques contemporaines des sociétés humaines",
-    "Savoirs & Imaginaires géographiques",
-    "Habiter le Monde entre mobilité et ancrages"
+    {
+     "txt": "Penser géographiquement : les concepts clés de la géographie",
+     "cours": "Géographie, environnement et sociétés : approches et théories contemporaines"
+    },
+    {
+     "txt": "Conditions géographiques contemporaines des sociétés humaines",
+     "cours": "Géographie, environnement et sociétés : approches et théories contemporaines"
+    },
+    {
+     "txt": "Savoirs & Imaginaires géographiques",
+     "cours": "Géographie, environnement et sociétés : approches et théories contemporaines"
+    },
+    {
+     "txt": "Habiter le Monde entre mobilité et ancrages",
+     "cours": "Géographie, environnement et sociétés : approches et théories contemporaines"
+    }
    ]
   },
   {
@@ -8942,7 +9149,10 @@
     "N. Linde"
    ],
    "vitrine": [
-    "Ressources naturelles (G. Hetenyi)"
+    {
+     "txt": "Ressources naturelles (G. Hetenyi)",
+     "cours": "Géologie : introduction aux Sciences de la Terre"
+    }
    ]
   },
   {
@@ -9035,8 +9245,14 @@
     "S. Jaccard"
    ],
    "vitrine": [
-    "Orogenèses (G. Hetenyi)",
-    "Tectonique des plaques (G. Hetenyi)"
+    {
+     "txt": "Orogenèses (G. Hetenyi)",
+     "cours": "Géologie : introduction aux Sciences de la Terre"
+    },
+    {
+     "txt": "Tectonique des plaques (G. Hetenyi)",
+     "cours": "Géologie : introduction aux Sciences de la Terre"
+    }
    ]
   },
   {
@@ -9105,12 +9321,30 @@
     "S. Schmalholz, A. Daley"
    ],
    "vitrine": [
-    "Géosphère, paysage et sédiments (S. Lane, G. Antoniazza)",
-    "Ressources et risques naturels, conclusion générale (G. Mariéthoz)",
-    "Durabilité et dégradation des sols (M. Keiluweit)",
-    "Géologie : introduction aux sciences de la Terre (F. Bussy, T Adatte, S. Pilet)",
-    "Agriculture et permaculture (M. Vandaele, S. Bellocq et C. Arnsperger)",
-    "Les environnements alpins (S. Lane)"
+    {
+     "txt": "Géosphère, paysage et sédiments (S. Lane, G. Antoniazza)",
+     "cours": "Introduction aux sciences de l'environnement"
+    },
+    {
+     "txt": "Ressources et risques naturels, conclusion générale (G. Mariéthoz)",
+     "cours": "Introduction aux sciences de l'environnement"
+    },
+    {
+     "txt": "Durabilité et dégradation des sols (M. Keiluweit)",
+     "cours": "Introduction aux sciences de l'environnement"
+    },
+    {
+     "txt": "Géologie : introduction aux sciences de la Terre (F. Bussy, T Adatte, S. Pilet)",
+     "cours": "Géologie : introduction aux Sciences de la Terre"
+    },
+    {
+     "txt": "Agriculture et permaculture (M. Vandaele, S. Bellocq et C. Arnsperger)",
+     "cours": "Géographie, environnement et sociétés : approches et théories contemporaines"
+    },
+    {
+     "txt": "Les environnements alpins (S. Lane)",
+     "cours": "Introduction aux sciences de l'environnement"
+    }
    ]
   },
   {
@@ -9365,9 +9599,17 @@
     "T. Vennemann"
    ],
    "vitrine": [
-    "Minéralogie (S. Pilet)",
-    "Magmatisme (S. Pilet)",
-    "Géochimie environnementale (J. Marin-Carbonne)"
+    {
+     "txt": "Minéralogie (S. Pilet)",
+     "cours": "Géologie : introduction aux Sciences de la Terre"
+    },
+    {
+     "txt": "Magmatisme (S. Pilet)",
+     "cours": "Géologie : introduction aux Sciences de la Terre"
+    },
+    {
+     "txt": "Géochimie environnementale (J. Marin-Carbonne)"
+    }
    ]
   },
   {
@@ -9550,11 +9792,25 @@
     "M.-E. Perga"
    ],
    "vitrine": [
-    "Hydrosphère et le cycle de l'eau (G. Mariéthoz)",
-    "Le cycle de l'eau en ville (N. Chèvre)",
-    "La force hydraulique et l'environnement (C. Gabbud - externe)",
-    "Cycle de l'eau en ville (N. Chèvre, A. Traore Dosso)",
-    "Le léman la mesure de l'environnemet (M.-E. Perga)"
+    {
+     "txt": "Hydrosphère et le cycle de l'eau (G. Mariéthoz)",
+     "cours": "Introduction aux sciences de l'environnement"
+    },
+    {
+     "txt": "Le cycle de l'eau en ville (N. Chèvre)",
+     "cours": "Introduction aux sciences de l'environnement"
+    },
+    {
+     "txt": "La force hydraulique et l'environnement (C. Gabbud - externe)"
+    },
+    {
+     "txt": "Cycle de l'eau en ville (N. Chèvre, A. Traore Dosso)",
+     "cours": "Introduction aux sciences de l'environnement"
+    },
+    {
+     "txt": "Le léman la mesure de l'environnemet (M.-E. Perga)",
+     "cours": "Introduction aux sciences de l'environnement"
+    }
    ]
   },
   {
@@ -9648,15 +9904,41 @@
     "NN succ. Favre"
    ],
    "vitrine": [
-    "Introduction aux Liens Société Environnement",
-    "Bien vivre, à l'intérieur des limites planétaires",
-    "Introduction à la notion de durabilité et à ses enjeux de base",
-    "Enjeux de pouvoir",
-    "Transition social-écologique",
-    "Conceptions alternatives de la durabilité : perspectives indigènes",
-    "Science, Environnement et démocratie (S. Lane, G. Antoniazza)",
-    "Durabilité et relations société-environnement (J. Steinberger)",
-    "Géographie, environnement et sociétés : approches et théories contemporaines"
+    {
+     "txt": "Introduction aux Liens Société Environnement",
+     "cours": "Géographie, environnement et sociétés : approches et théories contemporaines"
+    },
+    {
+     "txt": "Bien vivre, à l'intérieur des limites planétaires",
+     "cours": "Géographie, environnement et sociétés : approches et théories contemporaines"
+    },
+    {
+     "txt": "Introduction à la notion de durabilité et à ses enjeux de base",
+     "cours": "Géographie, environnement et sociétés : approches et théories contemporaines"
+    },
+    {
+     "txt": "Enjeux de pouvoir",
+     "cours": "Géographie, environnement et sociétés : approches et théories contemporaines"
+    },
+    {
+     "txt": "Transition social-écologique",
+     "cours": "Géographie, environnement et sociétés : approches et théories contemporaines"
+    },
+    {
+     "txt": "Conceptions alternatives de la durabilité : perspectives indigènes",
+     "cours": "Géographie, environnement et sociétés : approches et théories contemporaines"
+    },
+    {
+     "txt": "Science, Environnement et démocratie (S. Lane, G. Antoniazza)",
+     "cours": "Introduction aux sciences de l'environnement"
+    },
+    {
+     "txt": "Durabilité et relations société-environnement (J. Steinberger)",
+     "cours": "Géographie, environnement et sociétés : approches et théories contemporaines"
+    },
+    {
+     "txt": "Géographie, environnement et sociétés : approches et théories contemporaines"
+    }
    ]
   },
   {
@@ -9752,10 +10034,22 @@
     "E. Reynard"
    ],
    "vitrine": [
-    "Anthropocène (S. Jaccard)",
-    "Sédimentologie, stratigraphie (S. Jaccard)",
-    "Histoire de la Terre et de la vie (S. Jaccard)",
-    "Géomorphologie (Jaccard)"
+    {
+     "txt": "Anthropocène (S. Jaccard)",
+     "cours": "Géologie : introduction aux Sciences de la Terre"
+    },
+    {
+     "txt": "Sédimentologie, stratigraphie (S. Jaccard)",
+     "cours": "Géologie : introduction aux Sciences de la Terre"
+    },
+    {
+     "txt": "Histoire de la Terre et de la vie (S. Jaccard)",
+     "cours": "Géologie : introduction aux Sciences de la Terre"
+    },
+    {
+     "txt": "Géomorphologie (Jaccard)",
+     "cours": "Géologie : introduction aux Sciences de la Terre"
+    }
    ]
   },
   {
@@ -9819,7 +10113,10 @@
     "P. Rérat"
    ],
    "vitrine": [
-    "Introduction à la durabilité et perspective de pensée systémique - Bien vivre, à l’intérieur des limites planétaires - Transition social-écologique - Conceptions alternatives de la durabilité : perspectives indigènes"
+    {
+     "txt": "Introduction à la durabilité et perspective de pensée systémique - Bien vivre, à l’intérieur des limites planétaires - Transition social-écologique - Conceptions alternatives de la durabilité : perspectives indigènes",
+     "cours": "Géographie, environnement et sociétés : approches et théories contemporaines"
+    }
    ]
   },
   {

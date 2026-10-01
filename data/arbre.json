@@ -261,7 +261,7 @@
    "cec": "Aptitudes",
    "niv": 6,
    "groupes": [
-    "Géographie sociale et économique"
+    "Systèmes socio-écologiques"
    ],
    "concepts": [
     "Sociétés et populations"
@@ -280,7 +280,7 @@
    "cec": "Savoirs",
    "niv": 6,
    "groupes": [
-    "Géographie sociale et économique"
+    "Systèmes socio-écologiques"
    ],
    "concepts": [
     "Économie",
@@ -300,7 +300,7 @@
    "cec": "Aptitudes",
    "niv": 6,
    "groupes": [
-    "Géographie sociale et économique"
+    "Systèmes socio-écologiques"
    ],
    "concepts": [
     "Économie",
@@ -6020,7 +6020,7 @@
    "nval": 3,
    "id": "POPUCROI",
    "groupes": [
-    "Géographie sociale et économique"
+    "Systèmes socio-écologiques"
    ],
    "statut": "Documenté",
    "concepts": [
@@ -8762,19 +8762,11 @@
    "orientation": [
     "Géographie et Durabilité"
    ],
-   "nens": 8,
-   "ects": 33,
-   "ncomp": 26,
+   "nens": 7,
+   "ects": 27,
+   "ncomp": 23,
    "nparc": 0,
    "cours": [
-    {
-     "id": "POPUCROI",
-     "cours": "Population et dé/croissance",
-     "resp": "Christophe Mager",
-     "annee": "1re",
-     "orient": "Propédeutique",
-     "n": 3
-    },
     {
      "id": "ELEMSCIEECON",
      "cours": "Eléments de sciences économiques",
@@ -9772,9 +9764,9 @@
    "orientation": [
     "Géographie et Durabilité"
    ],
-   "nens": 4,
-   "ects": 15,
-   "ncomp": 13,
+   "nens": 5,
+   "ects": 21,
+   "ncomp": 16,
    "nparc": 0,
    "cours": [
     {
@@ -9807,6 +9799,14 @@
      "resp": "Christian Arnsperger",
      "annee": "3e",
      "orient": "Géographie, environnement et sociétés",
+     "n": 3
+    },
+    {
+     "id": "POPUCROI",
+     "cours": "Population et dé/croissance",
+     "resp": "Christophe Mager",
+     "annee": "1re",
+     "orient": "Propédeutique",
      "n": 3
     }
    ],

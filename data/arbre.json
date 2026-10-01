@@ -437,7 +437,8 @@
    "cec": "Savoirs",
    "niv": 6,
    "groupes": [
-    "Climat et changement globaux"
+    "Climat et changement globaux",
+    "Sciences naturelles de l'Environnement"
    ],
    "concepts": [
     "Atmosphère et climat"
@@ -456,7 +457,8 @@
    "cec": "Aptitudes",
    "niv": 6,
    "groupes": [
-    "Climat et changement globaux"
+    "Climat et changement globaux",
+    "Sciences naturelles de l'Environnement"
    ],
    "concepts": [
     "Gouvernance et politiques",
@@ -476,7 +478,8 @@
    "cec": "Savoirs",
    "niv": 6,
    "groupes": [
-    "Climat et changement globaux"
+    "Climat et changement globaux",
+    "Sciences naturelles de l'Environnement"
    ],
    "concepts": [
     "Incertitude"
@@ -1037,7 +1040,8 @@
    "cec": "Savoirs",
    "niv": 6,
    "groupes": [
-    "Biologie et écosystèmes terrestre"
+    "Biologie et écosystèmes terrestre",
+    "Sciences naturelles de l'Environnement"
    ],
    "concepts": [
     "Vivant et écosystèmes",
@@ -1058,7 +1062,8 @@
    "cec": "Savoirs",
    "niv": 6,
    "groupes": [
-    "Biologie et écosystèmes terrestre"
+    "Biologie et écosystèmes terrestre",
+    "Sciences naturelles de l'Environnement"
    ],
    "concepts": [
     "Données",
@@ -1078,7 +1083,8 @@
    "cec": "Aptitudes",
    "niv": 6,
    "groupes": [
-    "Biologie et écosystèmes terrestre"
+    "Biologie et écosystèmes terrestre",
+    "Sciences naturelles de l'Environnement"
    ],
    "concepts": []
   },
@@ -1714,7 +1720,8 @@
    "niv": 6,
    "groupes": [
     "Géosphère et environnement terrestre",
-    "Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie"
+    "Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie",
+    "Sciences naturelles de l'Environnement"
    ],
    "concepts": []
   },
@@ -1732,7 +1739,8 @@
    "niv": 6,
    "groupes": [
     "Géosphère et environnement terrestre",
-    "Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie"
+    "Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie",
+    "Sciences naturelles de l'Environnement"
    ],
    "concepts": [
     "Terrain"
@@ -1752,7 +1760,8 @@
    "niv": 6,
    "groupes": [
     "Géosphère et environnement terrestre",
-    "Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie"
+    "Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie",
+    "Sciences naturelles de l'Environnement"
    ],
    "concepts": [
     "Atmosphère et climat"
@@ -6076,7 +6085,8 @@
    "nval": 3,
    "id": "REGACROICHAN",
    "groupes": [
-    "Climat et changement globaux"
+    "Climat et changement globaux",
+    "Sciences naturelles de l'Environnement"
    ],
    "statut": "Documenté",
    "concepts": [
@@ -6383,7 +6393,8 @@
    "nval": 3,
    "id": "ELEMECOL",
    "groupes": [
-    "Biologie et écosystèmes terrestre"
+    "Biologie et écosystèmes terrestre",
+    "Sciences naturelles de l'Environnement"
    ],
    "statut": "Documenté",
    "concepts": [
@@ -6669,7 +6680,8 @@
    "id": "GEOMORI",
    "groupes": [
     "Géosphère et environnement terrestre",
-    "Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie"
+    "Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie",
+    "Sciences naturelles de l'Environnement"
    ],
    "statut": "Documenté",
    "concepts": [
@@ -9554,6 +9566,43 @@
      "cours": "Durabilité et modes de vie",
      "resp": "Christian Arnsperger",
      "annee": "3e",
+     "orient": "Géographie, environnement et sociétés",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "id": "GRP-SCIENCESNATURELL",
+   "nom": "Sciences naturelles de l'Environnement",
+   "orientation": [
+    "Géographie et Durabilité"
+   ],
+   "nens": 3,
+   "ects": 9,
+   "ncomp": 9,
+   "nparc": 0,
+   "cours": [
+    {
+     "id": "ELEMECOL",
+     "cours": "Eléments d'écologie",
+     "resp": "Antoine Guisan",
+     "annee": "1re",
+     "orient": "Propédeutique",
+     "n": 3
+    },
+    {
+     "id": "REGACROICHAN",
+     "cours": "Regards croisés sur le changement climatique",
+     "resp": "Samuel Jaccard",
+     "annee": "1re",
+     "orient": "Propédeutique",
+     "n": 3
+    },
+    {
+     "id": "GEOMORI",
+     "cours": "Géomorphologie I",
+     "resp": "Emmanuel Reynard",
+     "annee": "2e",
      "orient": "Géographie, environnement et sociétés",
      "n": 3
     }

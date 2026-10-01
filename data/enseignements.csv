@@ -5,7 +5,7 @@ GEOLINTRSCIE,Géologie : introduction aux Sciences de la Terre,M1 – Initiation
 POPUCROI,Population et dé/croissance,M2 – Préparation à une orientation (GES),Propédeutique,1re,6,Christophe Mager,FGSE,,Géographie sociale et économique,3,3,Documenté
 PENSGEOG,La pensée géographique,M2 – Préparation à une orientation (GES),Propédeutique,1re,6,Patrick Rérat,FGSE,M. Müller,Epistémologie,3,3,Documenté
 EXCUCASGES,Excursions et cas d'études (GES),M2 – Préparation à une orientation (GES),Propédeutique,1re,3,Christian Arnsperger,FGSE,,Camps de terrain,3,3,Documenté
-REGACROICHAN,Regards croisés sur le changement climatique,M2 – Préparation à une orientation (les 3 blocs),Propédeutique,1re,3,Samuel Jaccard,FGSE,D. Domeisen ; J. Steinberger,Climat et changement globaux,3,3,Documenté
+REGACROICHAN,Regards croisés sur le changement climatique,M2 – Préparation à une orientation (les 3 blocs),Propédeutique,1re,3,Samuel Jaccard,FGSE,D. Domeisen ; J. Steinberger,Climat et changement globaux · Sciences naturelles de l'Environnement,3,3,Documenté
 SYSTENER,Systèmes énergétiques,M2 (SE) ; M6 – Transition écologique (GES),Propédeutique,2e/3e,3,Selin Yilmaz,FGSE,,Systèmes socio-écologiques,3,3,Documenté
 CHIMGENE,Chimie générale,"M2 – Préparation à une orientation (SE, Géologie)",Propédeutique,1re,3,S. Terrettaz (EPFL),EPFL,,Chimie de l'environnement,0,0,À documenter
 PHYSGENEI,Physique générale I,"M2 – Préparation à une orientation (SE, Géologie)",Propédeutique,1re,3,R. Trappitsch (EPFL),EPFL,,Physique de l'environnement,0,0,À documenter
@@ -19,7 +19,7 @@ METHQUANSTATII,Méthodes quantitatives II : statistiques inférentielles,M3 – 
 GEOINFI,Géoinformatique I,M3 – Méthodes de base (3 orientations),Propédeutique,1re,6,Christian Kaiser,FGSE,,"Mathématiques, informatiques et statistiques",0,0,À documenter
 INTRMETHQUAL,Introduction aux méthodes qualitatives,M3 – Méthodes de base (GES),Propédeutique,1re,3,R. Kunz (SSP),UNIL – SSP,,Méthodes Qualitatives,0,0,À documenter
 MATHGEOS,Mathématiques pour les géosciences,"M3 – Méthodes de base (SE, Géologie)",Propédeutique,1re,3,K. Zuleta (EPFL),EPFL,,"Mathématiques, informatiques et statistiques",0,0,À documenter
-ELEMECOL,Eléments d'écologie,M4 – Sciences de base (3 orientations),Propédeutique,1re,3,Antoine Guisan,FGSE,,Biologie et écosystèmes terrestre,3,3,Documenté
+ELEMECOL,Eléments d'écologie,M4 – Sciences de base (3 orientations),Propédeutique,1re,3,Antoine Guisan,FGSE,,Biologie et écosystèmes terrestre · Sciences naturelles de l'Environnement,3,3,Documenté
 ELEMSCIEECON,Eléments de sciences économiques,"M4 – Sciences de base (GES, SE)",Propédeutique,1re,3,Valérie Boisvert,FGSE,NN,Géographie sociale et économique,3,3,Documenté
 ELEMSCIESOCI,Eléments de sciences sociales,"M4 – Sciences de base (GES, SE)",Propédeutique,1re,3,J. Pollard (SSP),UNIL – SSP,,Géographie sociale et économique,0,0,À documenter
 MINEGENE,Minéralogie générale,M4 – Sciences de base (Géologie),Propédeutique,1re,3,Sébastien Pilet,FGSE,,"Pétrologie, minéralogie, et géochimie",0,0,À documenter
@@ -32,7 +32,7 @@ INTRPENSECOL,Introduction à la pensée écologique,M2 – Durabilité et transi
 GESTSOCIFLUX,Gestion sociale des flux de matière,M2 – Durabilité et transition écologique,"Géographie, environnement et sociétés",2e,6,Julia Steinberger,FGSE,C. Arnsperger,Sciences humaines et sociales et géographie de l'environnement · Systèmes socio-écologiques,4,4,Documenté
 POLIENVI,Politiques environnementales,M2 – Durabilité et transition écologique,"Géographie, environnement et sociétés",2e,6,J. Pollard (SSP),UNIL – SSP,,Sciences humaines et sociales et géographie de l'environnement,0,0,À documenter
 GESTEAU,Gestion de l'eau,M3 – Environnement naturel (GES) ; M5 (SE),"Géographie, environnement et sociétés",2e/3e,3,Emmanuel Reynard,FGSE,,Sciences Aquatique,3,3,Documenté
-GEOMORI,Géomorphologie I,M3 (GES) ; M3 (SE) ; M2 (Géologie),"Géographie, environnement et sociétés",2e,3,Emmanuel Reynard,FGSE,,"Géosphère et environnement terrestre · Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie",3,3,Documenté
+GEOMORI,Géomorphologie I,M3 (GES) ; M3 (SE) ; M2 (Géologie),"Géographie, environnement et sociétés",2e,3,Emmanuel Reynard,FGSE,,"Géosphère et environnement terrestre · Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie · Sciences naturelles de l'Environnement",3,3,Documenté
 TELEDE,Télédétection,M3 (GES) ; M2 (SE) ; M3 (Géologie),"Géographie, environnement et sociétés",2e,3,Grégoire Mariéthoz,FGSE,,"Mathématiques, informatiques et statistiques",3,3,Documenté
 PRODSAVOGEOG,Production de savoirs en géographie et environnement,M4 – Outils et méthodes (GES) ; M4 (SE),"Géographie, environnement et sociétés",2e,3,Christian Kull,FGSE,S. Lane,Communication et rédaction scientifique,3,3,Documenté
 METHQUANSTATIII,Méthodes quantitatives III : statistiques multivariées,M4 (GES) ; M2 (SE),"Géographie, environnement et sociétés",2e,3,Guillaume Guex,FGSE,,"Mathématiques, informatiques et statistiques",3,3,Documenté

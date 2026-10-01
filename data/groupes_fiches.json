@@ -1,7 +1,7 @@
 {
  "Mathématiques, informatiques et statistiques": [
   {
-   "orientation": "Géographie",
+   "orientation": "Géographie et Durabilité",
    "rubrique": "Informatique",
    "ens": [
     "C. Kaiser",
@@ -32,7 +32,7 @@
    ]
   },
   {
-   "orientation": "Géographie",
+   "orientation": "Géographie et Durabilité",
    "rubrique": "Méthodes quantitatives",
    "ens": [
     "F. Bavaud",
@@ -229,7 +229,7 @@
  ],
  "Méthodes Qualitatives": [
   {
-   "orientation": "Géographie",
+   "orientation": "Géographie et Durabilité",
    "rubrique": "Méthodes qualitatives",
    "ens": [
     "R. Kunz",
@@ -262,7 +262,7 @@
  ],
  "Epistémologie": [
   {
-   "orientation": "Géographie",
+   "orientation": "Géographie et Durabilité",
    "rubrique": "Epistémologie",
    "ens": [
     "C. Kull"
@@ -283,7 +283,7 @@
  ],
  "Systèmes socio-écologiques": [
   {
-   "orientation": "Géographie",
+   "orientation": "Géographie et Durabilité",
    "rubrique": "Systèmes socio-écologiques",
    "ens": [
     "C. Mager",
@@ -331,7 +331,7 @@
  ],
  "Géographie sociale et économique": [
   {
-   "orientation": "Géographie",
+   "orientation": "Géographie et Durabilité",
    "rubrique": "Géographie sociale",
    "ens": [
     "J. Pollard",
@@ -381,7 +381,7 @@
  ],
  "Sciences humaines et sociales et géographie de l'environnement": [
   {
-   "orientation": "Géographie",
+   "orientation": "Géographie et Durabilité",
    "rubrique": "Géographie et Durabilité Sciences sociales de l'Environnement",
    "ens": [
     "V. Boisvert",
@@ -503,7 +503,7 @@
  ],
  "Sciences naturelles de l'Environnement": [
   {
-   "orientation": "Géographie",
+   "orientation": "Géographie et Durabilité",
    "rubrique": "Sciences naturelles de l'Environnement",
    "ens": [
     "A. Guisan",
@@ -535,7 +535,7 @@
  ],
  "Etudes urbaines et aménagement du territoire": [
   {
-   "orientation": "Géographie",
+   "orientation": "Géographie et Durabilité",
    "rubrique": "Etudes urbaines et aménagement du territoire",
    "ens": [
     "G. Debrunner",
@@ -583,7 +583,7 @@
  ],
  "Communication et rédaction scientifique": [
   {
-   "orientation": "Géographie",
+   "orientation": "Géographie et Durabilité",
    "rubrique": "Rédaction",
    "ens": [
     "C. Lambiel"
@@ -600,7 +600,7 @@
    ]
   },
   {
-   "orientation": "Géographie",
+   "orientation": "Géographie et Durabilité",
    "rubrique": "Lecture, Ecriture, Esprit critique",
    "ens": [
     "Cours vitrine Géo."

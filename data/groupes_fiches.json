@@ -1,0 +1,1318 @@
+{
+ "Mathématiques, informatiques et statistiques": [
+  {
+   "orientation": "Géographie",
+   "rubrique": "Informatique",
+   "ens": [
+    "C. Kaiser",
+    "G. Mariéthoz",
+    "T. Beucler"
+   ],
+   "vitrine": [],
+   "a1": [
+    {
+     "txt": "Géoinformatique I (C. Kaiser)",
+     "sem": "SA",
+     "lien": "Géoinformatique I"
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Télédétection (G. Mariéthoz)",
+     "sem": "SP",
+     "lien": "Télédétection"
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Géoinformatique II (T. Beucler)",
+     "sem": "SA",
+     "lien": "Géoinformatique II"
+    }
+   ]
+  },
+  {
+   "orientation": "Géographie",
+   "rubrique": "Méthodes quantitatives",
+   "ens": [
+    "F. Bavaud",
+    "C. Rozenblat",
+    "G. Guex"
+   ],
+   "vitrine": [],
+   "a1": [
+    {
+     "txt": "Méthodes quantitatif I (G Guex)",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Méthodes quantitatif II (G Guex)",
+     "sem": "SP",
+     "lien": ""
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Méthodes quantitatives III : statistiques multi variées (G Guex)",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Méthodes d’enquête et d’analyse (C. Rozenblat)",
+     "sem": "SP",
+     "lien": "Méthodes d'enquête et d'analyse"
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Systèmes complexes et organisation de l’espace géographique (C. Rozenblat)",
+     "sem": "SA",
+     "lien": "Systèmes complexes et organisation de l'espace géographique"
+    }
+   ]
+  },
+  {
+   "orientation": "Géologie",
+   "rubrique": "Mathématiques, statistiques, informatique physique, et chimie",
+   "ens": [
+    "K. Zuleta",
+    "F. Carbone",
+    "S. Bréchet",
+    "C. Kaiser",
+    "G. Mariéthoz",
+    "P. De Anna",
+    "G. Jouvet",
+    "T. Beucler",
+    "G. Guex"
+   ],
+   "vitrine": [],
+   "a1": [
+    {
+     "txt": "Mathématiques pour les géosciences (Zuleta / EPFL) - Env+Géol",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Géoinformatique I (C. Kaiser)",
+     "sem": "SA",
+     "lien": "Géoinformatique I"
+    },
+    {
+     "txt": "Méthodes quantitatives I (G. Guex)",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Méthodes quantitatives II (G. Guex)",
+     "sem": "SP",
+     "lien": ""
+    },
+    {
+     "txt": "Physique générale I (F. Carbone / EPFL) - Env+Géol",
+     "sem": "SP",
+     "lien": ""
+    },
+    {
+     "txt": "Chimie générale (S. Terrettaz) - Env+Géol",
+     "sem": "SP",
+     "lien": ""
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Modélisation numérique (G. Jouvet) - Env+Géol",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Physique générale II (S. Bréchet /EPFL) - Env+Géol",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Télédétection (G. Mariéthoz)",
+     "sem": "SP",
+     "lien": "Télédétection"
+    },
+    {
+     "txt": "Analyse vectorielle (P. De Anna) - Env+Géol",
+     "sem": "SP",
+     "lien": ""
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Géoinformatique II (T. Beucler)",
+     "sem": "SA",
+     "lien": "Géoinformatique II"
+    }
+   ]
+  },
+  {
+   "orientation": "Environnement",
+   "rubrique": "Mathématiques, informatique, statistiques",
+   "ens": [
+    "K. Zuleta",
+    "C. Kaiser",
+    "B. Quintal",
+    "G. Mariéthoz",
+    "P. De Anna",
+    "G. Jouvet",
+    "T. Beucler",
+    "M. Perga",
+    "F. Bavaud"
+   ],
+   "vitrine": [],
+   "a1": [
+    {
+     "txt": "Mathématiques pour les géosciences (K. Zuleta - EPFL)",
+     "sem": "SA",
+     "lien": "Mathématiques pour les géosciences"
+    },
+    {
+     "txt": "Géoinformatique I (C. Kaiser)",
+     "sem": "SA",
+     "lien": "Géoinformatique I"
+    },
+    {
+     "txt": "Méthodes quantitatives I (G Guex)",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Méthodes quantitatives II (G Guex)",
+     "sem": "SP",
+     "lien": ""
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Modélisation numérique (G. Jouvet)",
+     "sem": "SA",
+     "lien": "Modélisation numérique"
+    },
+    {
+     "txt": "Méthodes quantitatives III (G Guex)",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Levés géomatiques (B. Quintal)",
+     "sem": "SP",
+     "lien": "Levés géomatiques"
+    },
+    {
+     "txt": "Télédétection (G. Mariéthoz)",
+     "sem": "SP",
+     "lien": "Télédétection"
+    },
+    {
+     "txt": "Analyse vectorielle (P. De Anna)",
+     "sem": "SP",
+     "lien": "Analyse vectorielle"
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Géoinformatique II ( (T. Beucler)",
+     "sem": "SA",
+     "lien": "Géoinformatique II"
+    },
+    {
+     "txt": "Analyses des données environnementales (M. Perga)",
+     "sem": "SP",
+     "lien": "Analyses des données environnementales"
+    }
+   ]
+  }
+ ],
+ "Méthodes Qualitatives": [
+  {
+   "orientation": "Géographie",
+   "rubrique": "Méthodes qualitatives",
+   "ens": [
+    "R. Kunz",
+    "L. Chanteloup",
+    "C. Mager"
+   ],
+   "vitrine": [],
+   "a1": [
+    {
+     "txt": "Méthodes qualitatives I (R. Kunz)",
+     "sem": "SA",
+     "lien": ""
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Méthodes qualitatives II (L. Chanteloup)",
+     "sem": "SA",
+     "lien": ""
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Evaluation critique des méthodes en économie environnementale (C. Mager)",
+     "sem": "SA",
+     "lien": "Evaluation critique des méthodes en économie environnementale"
+    }
+   ]
+  }
+ ],
+ "Epistémologie": [
+  {
+   "orientation": "Géographie",
+   "rubrique": "Epistémologie",
+   "ens": [
+    "C. Kull"
+   ],
+   "vitrine": [
+    "Qu’est-ce que la géographie ? - Les 7 questions magiques de la géographie"
+   ],
+   "a1": [],
+   "a2": [
+    {
+     "txt": "Production de savoirs en geographie et environnement (C. Kull)",
+     "sem": "SA",
+     "lien": "Production de savoirs en géographie et environnement"
+    }
+   ],
+   "a3": []
+  }
+ ],
+ "Systèmes socio-écologiques": [
+  {
+   "orientation": "Géographie",
+   "rubrique": "Systèmes socio-écologiques",
+   "ens": [
+    "C. Mager",
+    "E. Reynard",
+    "J. Steinberger",
+    "S. Yilmaz",
+    "C. Arnsperger",
+    "P. Rérat"
+   ],
+   "vitrine": [
+    "Introduction à la durabilité et perspective de pensée systémique - Bien vivre, à l’intérieur des limites planétaires - Transition social-écologique - Conceptions alternatives de la durabilité : perspectives indigènes"
+   ],
+   "a1": [
+    {
+     "txt": "Population et dé/croissance (C. Mager)",
+     "sem": "SP",
+     "lien": "Population et dé/croissance"
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Gestion de l’eau (E. Reynard)",
+     "sem": "SA",
+     "lien": "Gestion de l'eau"
+    },
+    {
+     "txt": "Gestion sociale des flux de matière (J. Steinberger)",
+     "sem": "SP",
+     "lien": "Gestion sociale des flux de matière"
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Systèmes énergétiques (S. Yilmaz)",
+     "sem": "SP",
+     "lien": "Systèmes énergétiques"
+    },
+    {
+     "txt": "Durabilité et modes de vie (C. Arnsperger)",
+     "sem": "SA",
+     "lien": "Durabilité et modes de vie"
+    }
+   ]
+  }
+ ],
+ "Géographie sociale et économique": [
+  {
+   "orientation": "Géographie",
+   "rubrique": "Géographie sociale",
+   "ens": [
+    "J. Pollard",
+    "R. Véron",
+    "L. Chanteloup",
+    "C. Mager",
+    "C. Clivaz"
+   ],
+   "vitrine": [
+    "Penser géographiquement : les concepts clés de la géographie",
+    "Conditions géographiques contemporaines des sociétés humaines",
+    "Savoirs & Imaginaires géographiques",
+    "Habiter le Monde entre mobilité et ancrages"
+   ],
+   "a1": [
+    {
+     "txt": "Eléments de sciences sociales (J. Pollard) SP La pensée géographique (P. Rérat)",
+     "sem": "SP",
+     "lien": ""
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Géographie sociale et culturelle (R. Véron+L. Chanteloup)",
+     "sem": "SP",
+     "lien": "Géographie sociale et culturelle"
+    },
+    {
+     "txt": "Géographie économique (C. Mager)",
+     "sem": "SA",
+     "lien": "Géographie économique"
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Géographie du développement (René Véron)",
+     "sem": "SP",
+     "lien": "Géographie du développement"
+    },
+    {
+     "txt": "Tourisme : environnement, société, économie (C. Clivaz)",
+     "sem": "SA",
+     "lien": "Tourisme : environnement, société, économie"
+    }
+   ]
+  }
+ ],
+ "Sciences humaines et sociales et géographie de l'environnement": [
+  {
+   "orientation": "Géographie",
+   "rubrique": "Géographie et Durabilité Sciences sociales de l'Environnement",
+   "ens": [
+    "V. Boisvert",
+    "C. Arnsperger",
+    "J. Pollard",
+    "C. Kull",
+    "succ. Favre",
+    "succ. Tola"
+   ],
+   "vitrine": [
+    "Introduction aux Liens Société Environnement",
+    "Bien vivre, à l'intérieur des limites planétaires",
+    "Introduction à la notion de durabilité et à ses enjeux de base",
+    "Enjeux de pouvoir",
+    "Transition social-écologique",
+    "Conceptions alternatives de la durabilité : perspectives indigènes"
+   ],
+   "a1": [
+    {
+     "txt": "Eléments de sciences économiques (V. Boisvert)",
+     "sem": "SP",
+     "lien": "Eléments de sciences économiques"
+    },
+    {
+     "txt": "Excursions et cas d’études (C. Arnsperger)",
+     "sem": "SP",
+     "lien": ""
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Introduction à la pensée écologique (NN (succ. Tola))",
+     "sem": "SP",
+     "lien": "Introduction à la pensée écologique"
+    },
+    {
+     "txt": "Politiques environnementales (J. Pollard)",
+     "sem": "SA",
+     "lien": "Politiques environnementales"
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Eléments d’économie écologique (V. Boisvert)",
+     "sem": "SP",
+     "lien": "Eléments d'économie écologique"
+    },
+    {
+     "txt": "Political Ecology (C. Kull)",
+     "sem": "SP",
+     "lien": "Political Ecology"
+    },
+    {
+     "txt": "Droit de l’environnement  (NN succ. Favre)",
+     "sem": "SP",
+     "lien": "Droit de l'environnement"
+    },
+    {
+     "txt": "Systèmes énergétiques (S. Yilmaz)",
+     "sem": "SP",
+     "lien": "Systèmes énergétiques"
+    },
+    {
+     "txt": "Durabilité et modes de vie (C. Arnsperger)",
+     "sem": "SA",
+     "lien": "Durabilité et modes de vie"
+    }
+   ]
+  },
+  {
+   "orientation": "Environnement",
+   "rubrique": "Sciences humaines & sociales et géographie de l'environnement",
+   "ens": [
+    "S. Lane",
+    "G. Antoniazza",
+    "J. Steinberger",
+    "V. Boisvert",
+    "J. Pollard",
+    "S. Yilmaz",
+    "C. Kull",
+    "NN succ. Favre"
+   ],
+   "vitrine": [
+    "Science, Environnement et démocratie (S. Lane, G. Antoniazza)",
+    "Durabilité et relations société-environnement (J. Steinberger)",
+    "Géographie, environnement et sociétés : approches et théories contemporaines"
+   ],
+   "a1": [
+    {
+     "txt": "Eléments de sciences économiques (V. Boisvert)",
+     "sem": "SP",
+     "lien": "Eléments de sciences économiques"
+    },
+    {
+     "txt": "Eléments de sciences sociales (J. Pollard / SSP)",
+     "sem": "SP",
+     "lien": "Eléments de sciences sociales"
+    },
+    {
+     "txt": "Systèmes énergétiques (S. Yilmaz)",
+     "sem": "SP",
+     "lien": "Systèmes énergétiques"
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Enjeux en géographie et environnement : approches méthodologiques (C. Kull (resp.) S. Lane)",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Droit de l'environnement (NN succ. Favre)",
+     "sem": "SP",
+     "lien": "Droit de l'environnement"
+    }
+   ],
+   "a3": []
+  }
+ ],
+ "Sciences naturelles de l'Environnement": [
+  {
+   "orientation": "Géographie",
+   "rubrique": "Sciences naturelles de l'Environnement",
+   "ens": [
+    "A. Guisan",
+    "E. Reynard",
+    "S. Jaccard"
+   ],
+   "vitrine": [],
+   "a1": [
+    {
+     "txt": "Eléments d’écologie (A. Guisan)",
+     "sem": "SA",
+     "lien": "Eléments d'écologie"
+    },
+    {
+     "txt": "Regards croisés sur le changement climatique (S. Jaccard)",
+     "sem": "SP",
+     "lien": "Regards croisés sur le changement climatique"
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Géomorphologie I (E. Reynard)",
+     "sem": "SA",
+     "lien": "Géomorphologie I"
+    }
+   ],
+   "a3": []
+  }
+ ],
+ "Etudes urbaines et aménagement du territoire": [
+  {
+   "orientation": "Géographie",
+   "rubrique": "Etudes urbaines et aménagement du territoire",
+   "ens": [
+    "G. Debrunner",
+    "C. Rozenblat",
+    "M. Müller",
+    "J.S. Cavin",
+    "R. Véron",
+    "L. Chanteloup",
+    "P. Rérat"
+   ],
+   "vitrine": [
+    "Conditions géographiques contemporaines des sociétés humaines"
+   ],
+   "a1": [],
+   "a2": [
+    {
+     "txt": "Aménagement du territoire (G. Debrunner)",
+     "sem": "SP",
+     "lien": "Aménagement du territoire"
+    },
+    {
+     "txt": "Géographie urbaine (C. Rozenblat)",
+     "sem": "SA",
+     "lien": "Géographie urbaine"
+    },
+    {
+     "txt": "Géographie sociale et culturelle (R. Véron+L. Chanteloup)",
+     "sem": "SP",
+     "lien": "Géographie sociale et culturelle"
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Dynamiques urbaines (M. Müller + J.S. Cavin)",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Géographie des mobilités (P. Rérat)",
+     "sem": "SP",
+     "lien": "Géographie des mobilités"
+    }
+   ]
+  }
+ ],
+ "Communication et rédaction scientifique": [
+  {
+   "orientation": "Géographie",
+   "rubrique": "Rédaction",
+   "ens": [
+    "C. Lambiel"
+   ],
+   "vitrine": [],
+   "a1": [],
+   "a2": [],
+   "a3": [
+    {
+     "txt": "Travail de Bachelor (J. Salomon Cavin, F. Bussy et C. Lambiel)",
+     "sem": "",
+     "lien": "Travail de Bachelor"
+    }
+   ]
+  },
+  {
+   "orientation": "Géographie",
+   "rubrique": "Lecture, Ecriture, Esprit critique",
+   "ens": [
+    "Cours vitrine Géo."
+   ],
+   "vitrine": [
+    "- Développer la « compétence transversale » de la lecture scientifique et de",
+    "l’écriture académique (travaux pratiques) qui vous sera utile tout au long de vos",
+    "études / combiné aux tutorats de Géologie & Sciences de l’environnement.",
+    "- Développer une capacité d’analyse ainsi qu’une attitude réflexive ;",
+    "- Développer une autonomie dans l’apprentissage des notions de bases ;"
+   ],
+   "a1": [],
+   "a2": [],
+   "a3": []
+  },
+  {
+   "orientation": "Environnement",
+   "rubrique": "Rédaction",
+   "ens": [
+    "I. Contreiras",
+    "C. Lambiel",
+    "N. Chèvre"
+   ],
+   "vitrine": [
+    "Revue de la littérature et recherche documentaire (I. Contreiras)",
+    "Les étapes de la démarche scientifique (I. Contreiras)",
+    "Problématique et question de recherche (I. Contreiras)",
+    "Hypothèses et méthodologie (I. Contreiras)"
+   ],
+   "a1": [
+    {
+     "txt": "Excursions et cas d'études (N. Chèvre)",
+     "sem": "SA-SP",
+     "lien": ""
+    }
+   ],
+   "a2": [],
+   "a3": [
+    {
+     "txt": "Travail de Bachelor (C. Lambiel)",
+     "sem": "",
+     "lien": "Travail de Bachelor"
+    }
+   ]
+  }
+ ],
+ "Géologie structurale et tectonique, chaînes de montagnes": [
+  {
+   "orientation": "Géologie",
+   "rubrique": "Géologie structurelle et tectoniques, chaines de montagne",
+   "ens": [
+    "S. Schmalholz",
+    "A. Samsu",
+    "O. Müntener",
+    "G. Hetenyi",
+    "P. Lanari",
+    "G. Jouvet",
+    "A. Daley",
+    "G. King",
+    "J-D. Champagnac",
+    "S. Pilet",
+    "S. Jaccard"
+   ],
+   "vitrine": [
+    "Orogenèses (G. Hetenyi)",
+    "Tectonique des plaques (G. Hetenyi)"
+   ],
+   "a1": [
+    {
+     "txt": "Géologie régionale (P. Lanari; S. Schmalholz)",
+     "sem": "SP",
+     "lien": "Géologie régionale"
+    },
+    {
+     "txt": "Camp de terrain en géologie (S. Schmalholz; A. Daley; A. Samsu)",
+     "sem": "SP",
+     "lien": "Camp de terrain en géologie"
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Géologie structurale (A. Samsu)",
+     "sem": "SA",
+     "lien": "Géologie structurale"
+    },
+    {
+     "txt": "Tectonique et géodynamique (S. Schmalholz)",
+     "sem": "SP",
+     "lien": "Tectonique et géodynamique"
+    },
+    {
+     "txt": "Camp de géologie structurale (A. Samsu)",
+     "sem": "SP",
+     "lien": "Camp de géologie structurale"
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Erosion, tectonique et climat (G. Jouvet; J-D. Champagnac; G. King)",
+     "sem": "SA",
+     "lien": "Erosion, tectonique et climat"
+    },
+    {
+     "txt": "Géologie de la chaîne alpine (O. Müntener; S. Schmalholz; P. Lanari)",
+     "sem": "SP",
+     "lien": "Géologie de la chaîne alpine"
+    }
+   ]
+  }
+ ],
+ "Géologie appliquée et géophysique": [
+  {
+   "orientation": "Géologie",
+   "rubrique": "Géologie appliquée et géophysique",
+   "ens": [
+    "M. Jaboyedoff",
+    "D. Hunkeler",
+    "P. Renard",
+    "L. Baron",
+    "B. Quintal",
+    "K. Holliger",
+    "A. Samsu",
+    "J. Irving",
+    "N. Linde"
+   ],
+   "vitrine": [
+    "Ressources naturelles (G. Hetenyi)"
+   ],
+   "a1": [],
+   "a2": [
+    {
+     "txt": "Physique du Globe (J. Irving)",
+     "sem": "SA",
+     "lien": "Physique du globe"
+    },
+    {
+     "txt": "Risques environnementaux (M. Jaboyedoff)",
+     "sem": "SP",
+     "lien": "Risques environnementaux"
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Hydrogéologie générale (D. Hunkeler; P. Renard)",
+     "sem": "SA",
+     "lien": "Hydrogéologie générale"
+    },
+    {
+     "txt": "Géophysique d’exploration (K. Holliger)",
+     "sem": "SA",
+     "lien": "Géophysique d'exploration"
+    },
+    {
+     "txt": "Géologie de l’ingénieur (L. Baron)",
+     "sem": "SP",
+     "lien": "Géologie de l'ingénieur"
+    },
+    {
+     "txt": "Camp de géophysique d’exploration (J. Irving; N. Linde; B. Quintal)",
+     "sem": "SP",
+     "lien": ""
+    }
+   ]
+  }
+ ],
+ "Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie": [
+  {
+   "orientation": "Géologie",
+   "rubrique": "Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie",
+   "ens": [
+    "A. Daley",
+    "J. Marin Carbonne",
+    "S. Jaccard",
+    "G. Jouvet",
+    "C. Lambiel",
+    "E. Reynard"
+   ],
+   "vitrine": [
+    "Anthropocène (S. Jaccard)",
+    "Sédimentologie, stratigraphie (S. Jaccard)",
+    "Histoire de la Terre et de la vie (S. Jaccard)",
+    "Géomorphologie (Jaccard)"
+   ],
+   "a1": [
+    {
+     "txt": "Eléments d’écologie (A. Guisan)",
+     "sem": "SA",
+     "lien": "Eléments d'écologie"
+    },
+    {
+     "txt": "Histoire de la Vie et stratigraphie (A. Daley; J. Marin Carbonne)",
+     "sem": "SP",
+     "lien": "Histoire de la Vie et stratigraphie"
+    },
+    {
+     "txt": "Regards croisés sur le changement climatique (S. Jaccard)",
+     "sem": "SP",
+     "lien": "Regards croisés sur le changement climatique"
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Sédimentologie physique (S. Jaccard)",
+     "sem": "SA",
+     "lien": "Sédimentologie physique"
+    },
+    {
+     "txt": "Géomorphologie I (E. Reynard)",
+     "sem": "SA",
+     "lien": "Géomorphologie I"
+    },
+    {
+     "txt": "Camp de stratigraphie et sédimentologie (S. Jaccard)",
+     "sem": "SP",
+     "lien": "Camp de stratigraphie et sédimentologie"
+    },
+    {
+     "txt": "Paléontologie (A. Daley)",
+     "sem": "SP",
+     "lien": "Paléontologie"
+    },
+    {
+     "txt": "Géomorphologie II (C. Lambiel)",
+     "sem": "SP",
+     "lien": "Géomorphologie II"
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Sédimentologie biochimique (S. Jaccard)",
+     "sem": "SA",
+     "lien": "Sédimentologie biochimique"
+    },
+    {
+     "txt": "Erosion, tectonique et climat (G. Jouvet; J-D. Champagnac; G. King)",
+     "sem": "SA",
+     "lien": "Erosion, tectonique et climat"
+    },
+    {
+     "txt": "Camp de cartographie et paléontologie (A. Daley)",
+     "sem": "SP",
+     "lien": "Camp de cartographie et paléontologie"
+    }
+   ]
+  }
+ ],
+ "Pétrologie, minéralogie, et géochimie": [
+  {
+   "orientation": "Géologie",
+   "rubrique": "Pétrologie, minéralogie, et géochimie",
+   "ens": [
+    "S. Pilet",
+    "O. Müntener",
+    "P. Lanari",
+    "J. Marin Carbonne",
+    "T. Vennemann"
+   ],
+   "vitrine": [
+    "Minéralogie (S. Pilet)",
+    "Magmatisme (S. Pilet)",
+    "Géochimie environnementale (J. Marin-Carbonne)"
+   ],
+   "a1": [],
+   "a2": [
+    {
+     "txt": "Géochimie environnementale, théorie (J. Marin Carbonne)",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Introduction à la géochimie isotopique (T. Vennemann)",
+     "sem": "SA",
+     "lien": "Introduction à la géochimie isotopique"
+    },
+    {
+     "txt": "Pétrologie magmatique et métamorphique (P. Lanari (coord.) O. Müntener)",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Minéralogie générale (S. Pilet)",
+     "sem": "SP",
+     "lien": "Minéralogie générale"
+    },
+    {
+     "txt": "Minéralogie optique (O. Müntener)",
+     "sem": "SP",
+     "lien": "Minéralogie optique"
+    },
+    {
+     "txt": "Camp de pétrologie magmatique (O. Müntener (coord.), S. Pilet)",
+     "sem": "SP",
+     "lien": ""
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Thermodynamique (O. Müntener)",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Pétrologie métamorphique, camp (P. Lanari)",
+     "sem": "SP",
+     "lien": "Pétrologie métamorphique, camp"
+    }
+   ]
+  }
+ ],
+ "Camps de terrain": [
+  {
+   "orientation": "Géologie",
+   "rubrique": "Camps de terrain",
+   "ens": [
+    "S. Schmalholz",
+    "A. Samsu",
+    "O. Müntener",
+    "S. Jaccard",
+    "A. Daley",
+    "O. Müntener",
+    "P. Lanari",
+    "J. Irving",
+    "N. Linde",
+    "B. Quintal"
+   ],
+   "vitrine": [],
+   "a1": [
+    {
+     "txt": "Camp de terrain en géologie (S. Schmalholz; A. Daley; A. Samsu)",
+     "sem": "SP",
+     "lien": "Camp de terrain en géologie"
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Camp de géologie structurale (A. Samsu)",
+     "sem": "SP",
+     "lien": "Camp de géologie structurale"
+    },
+    {
+     "txt": "Camp de pétrologie magmatique (O. Müntener (coord.) S. Pilet)",
+     "sem": "SP",
+     "lien": ""
+    },
+    {
+     "txt": "Camp de stratigraphie et sédimentologie (S. Jaccard)",
+     "sem": "SP",
+     "lien": "Camp de stratigraphie et sédimentologie"
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Camp de cartographie et paléontologie (A. Daley)",
+     "sem": "SP",
+     "lien": "Camp de cartographie et paléontologie"
+    },
+    {
+     "txt": "Géologie de la chaîne alpine (O. Müntener; S. Schmalholz; P. Lanari)",
+     "sem": "SP",
+     "lien": "Géologie de la chaîne alpine"
+    },
+    {
+     "txt": "Géophysique d’exploration - Camp (J. Irving; N. Linde; B. Quintal)",
+     "sem": "SP",
+     "lien": "Géophysique d'exploration – camp"
+    }
+   ]
+  },
+  {
+   "orientation": "Environnement",
+   "rubrique": "Terrains",
+   "ens": [
+    "N. Chèvre",
+    "B. Quintal",
+    "S. Lane",
+    "G. Antoniazza",
+    "J. Irving"
+   ],
+   "vitrine": [],
+   "a1": [
+    {
+     "txt": "Excursions et cas d'études (N. Chèvre)",
+     "sem": "SA-SP",
+     "lien": ""
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Levés géomatiques (B. Quintal)",
+     "sem": "SP",
+     "lien": "Levés géomatiques"
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Camp de terrain en environnement (S. Lane)",
+     "sem": "SA",
+     "lien": "Camp de terrain en environnement"
+    },
+    {
+     "txt": "Géophysique de l’environnement terrain : camp (J. Irving)",
+     "sem": "SP",
+     "lien": ""
+    }
+   ]
+  }
+ ],
+ "Chimie de l'environnement": [
+  {
+   "orientation": "Environnement",
+   "rubrique": "Chimie de l'environnement",
+   "ens": [
+    "M. Keiluweit",
+    "S. Terrettaz",
+    "J. Marin Carbone",
+    "T. Vennemann",
+    "B. Bomou"
+   ],
+   "vitrine": [
+    "Biogéochimie et grands cycles (M. Keiluweit)"
+   ],
+   "a1": [
+    {
+     "txt": "Chimie générale (S. Terrettaz - EPFL)",
+     "sem": "SP",
+     "lien": "Chimie générale"
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Géochimie environnementale théorie (J. MarinCarbonne (coord.) J. Dupeyron)",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Chimie organique environnementale (M. Keiluweit)",
+     "sem": "SP",
+     "lien": "Chimie organique environnementale"
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Introduction à la géochimie isotopique (T. Vennemann (resp.) M. Galvez)",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Hydrochimie et pollution des eaux (J. Berg)",
+     "sem": "SP",
+     "lien": "Hydrochimie et pollution des eaux"
+    },
+    {
+     "txt": "Ecotoxicologie (N. Chèvre)",
+     "sem": "SP",
+     "lien": "Ecotoxicologie"
+    }
+   ]
+  }
+ ],
+ "Biologie et écosystèmes terrestre": [
+  {
+   "orientation": "Environnement",
+   "rubrique": "Biologie et écosystèmes terrestres",
+   "ens": [
+    "M. Keiluweit",
+    "A. Guisan",
+    "P. Vittoz, M. Blanc"
+   ],
+   "vitrine": [
+    "Ecosystèmes terrestres (M. Keiluweit)",
+    "Introduction à la botanique (P. Vittoz)"
+   ],
+   "a1": [
+    {
+     "txt": "Eléments d’écologie (A. Guisan)",
+     "sem": "SA",
+     "lien": "Eléments d'écologie"
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Biologie (P. Vittoz)",
+     "sem": "SA",
+     "lien": "Biologie"
+    },
+    {
+     "txt": "Ecologie végétale (P. Vittoz)",
+     "sem": "SA",
+     "lien": "Ecologie végétale"
+    }
+   ],
+   "a3": []
+  }
+ ],
+ "Physique de l'environnement": [
+  {
+   "orientation": "Environnement",
+   "rubrique": "Physique de l'environnement",
+   "ens": [
+    "F. Carbone",
+    "S. Bréchet",
+    "J. Irving",
+    "N. Linde"
+   ],
+   "vitrine": [],
+   "a1": [
+    {
+     "txt": "Physique générale I (F. Carbone - EPFL)",
+     "sem": "SP",
+     "lien": "Physique générale I"
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Physique générale II (S. Bréchet - EPFL)",
+     "sem": "SA",
+     "lien": "Physique générale II"
+    },
+    {
+     "txt": "Physique du globe (J. Irving)",
+     "sem": "SA",
+     "lien": "Physique du globe"
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Géophysique de l’environnement cours (N. Linde)",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Géophysique de l’environnement  terrain (J. Irving)",
+     "sem": "SP",
+     "lien": ""
+    }
+   ]
+  }
+ ],
+ "Sciences Aquatique": [
+  {
+   "orientation": "Environnement",
+   "rubrique": "Sciences aquatiques",
+   "ens": [
+    "G. Mariéthoz",
+    "N. Chèvre",
+    "C. Gabbud (externe)",
+    "P. Benettin",
+    "S. Lane",
+    "G. Antoniazza",
+    "E. Reynard",
+    "J. Berg",
+    "M.-E. Perga"
+   ],
+   "vitrine": [
+    "Hydrosphère et le cycle de l'eau (G. Mariéthoz)",
+    "Le cycle de l'eau en ville (N. Chèvre)",
+    "La force hydraulique et l'environnement (C. Gabbud - externe)",
+    "Cycle de l'eau en ville (N. Chèvre, A. Traore Dosso)",
+    "Le léman la mesure de l'environnemet (M.-E. Perga)"
+   ],
+   "a1": [],
+   "a2": [],
+   "a3": [
+    {
+     "txt": "Hydrochimie et pollution des eaux (J. Berg)",
+     "sem": "SA",
+     "lien": "Hydrochimie et pollution des eaux"
+    },
+    {
+     "txt": "Hydrauliques, formes et processus fluviaux (S. Lane (coord.), G. Antoniazza)",
+     "sem": "SA",
+     "lien": ""
+    },
+    {
+     "txt": "Gestion de l'eau (E. Reynard)",
+     "sem": "SA",
+     "lien": "Gestion de l'eau"
+    },
+    {
+     "txt": "Ecotoxicologie (N. Chèvre)",
+     "sem": "SP",
+     "lien": "Ecotoxicologie"
+    },
+    {
+     "txt": "Ecologie des lacs ou limnologie (M.-E. Perga)",
+     "sem": "SP",
+     "lien": ""
+    }
+   ]
+  }
+ ],
+ "Géosphère et environnement terrestre": [
+  {
+   "orientation": "Environnement",
+   "rubrique": "Géosphère et environnement terrestre",
+   "ens": [
+    "S. Lane",
+    "G. Antoniazza",
+    "G. Mariéthoz",
+    "M. Keiluweit",
+    "G. Jouvet, J.-D. Champagnac",
+    "E. Reynard",
+    "C. Lambiel",
+    "M. Jaboyedoff",
+    "S. Grand",
+    "M.-H. Derron",
+    "S. Schmalholz, A. Daley"
+   ],
+   "vitrine": [
+    "Géosphère, paysage et sédiments (S. Lane, G. Antoniazza)",
+    "Ressources et risques naturels, conclusion générale (G. Mariéthoz)",
+    "Durabilité et dégradation des sols (M. Keiluweit)",
+    "Géologie : introduction aux sciences de la Terre (F. Bussy, T Adatte, S. Pilet)",
+    "Agriculture et permaculture (M. Vandaele, S. Bellocq et C. Arnsperger)",
+    "Les environnements alpins (S. Lane)"
+   ],
+   "a1": [
+    {
+     "txt": "Introduction à la géologie alpine (G. Jouvet (resp.) J.-D. Champagnac)",
+     "sem": "SP",
+     "lien": ""
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Géomorphologie I (E. Reynard)",
+     "sem": "SA",
+     "lien": "Géomorphologie I"
+    },
+    {
+     "txt": "Géomorphologie II (C. Lambiel)",
+     "sem": "SP",
+     "lien": "Géomorphologie II"
+    },
+    {
+     "txt": "Risques environnementaux (M. Jaboyedoff)",
+     "sem": "SP",
+     "lien": "Risques environnementaux"
+    },
+    {
+     "txt": "Levés géomatiques (B. Quintal)",
+     "sem": "SP",
+     "lien": "Levés géomatiques"
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Pédologie (S. Grand)",
+     "sem": "SA",
+     "lien": "Pédologie"
+    },
+    {
+     "txt": "Camp de terrain en environnement (S. Lane)",
+     "sem": "SA",
+     "lien": "Camp de terrain en environnement"
+    },
+    {
+     "txt": "Excursions et cartographie géomorphologique (C. Lambiel)",
+     "sem": "SA",
+     "lien": "Excursions et cartographie géomorphologique"
+    },
+    {
+     "txt": "Etudes des mouvements gravitaires (M.-H. Derron)",
+     "sem": "SP",
+     "lien": "Etudes des mouvements gravitaires"
+    },
+    {
+     "txt": "Cartographie géologique (S. Schmalholz)",
+     "sem": "SP",
+     "lien": "Cartographie géologique"
+    }
+   ]
+  }
+ ],
+ "Climat et changement globaux": [
+  {
+   "orientation": "Environnement",
+   "rubrique": "Climat & changement globaux",
+   "ens": [
+    "G. Mariéthoz",
+    "S. Lane",
+    "S. Jaccard",
+    "D. Domeisen",
+    "J. Steinberger",
+    "G. King"
+   ],
+   "vitrine": [
+    "Processus atmosphériques et climatiques (G. Mariéthoz)",
+    "Changements climatiques (G. Mariéthoz)",
+    "Cryosphère et les liens avec le climat (S. Lane, G. Antoniazza)"
+   ],
+   "a1": [
+    {
+     "txt": "Regards croisés sur le changement climatique (S. Jaccard (coord.) D. Domeisen J. Steinberger)",
+     "sem": "SP",
+     "lien": ""
+    }
+   ],
+   "a2": [
+    {
+     "txt": "Introduction à la météorologie (D. Domeisen)",
+     "sem": "SA",
+     "lien": "Introduction à la météorologie"
+    }
+   ],
+   "a3": [
+    {
+     "txt": "Changement environnemental du quaternaire (G. King)",
+     "sem": "SP",
+     "lien": "Changement environnemental du quaternaire"
+    }
+   ]
+  }
+ ]
+}

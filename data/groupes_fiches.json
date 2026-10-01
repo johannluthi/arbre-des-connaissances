@@ -348,9 +348,14 @@
    ],
    "a1": [
     {
-     "txt": "Eléments de sciences sociales (J. Pollard) SP La pensée géographique (P. Rérat)",
+     "txt": "Eléments de sciences sociales (J. Pollard)",
      "sem": "SP",
-     "lien": ""
+     "lien": "Eléments de sciences sociales"
+    },
+    {
+     "txt": "La pensée géographique (P. Rérat)",
+     "sem": "SP",
+     "lien": "La pensée géographique"
     }
    ],
    "a2": [
@@ -761,7 +766,7 @@
     {
      "txt": "Camp de géophysique d’exploration (J. Irving; N. Linde; B. Quintal)",
      "sem": "SP",
-     "lien": ""
+     "lien": "Géophysique d'exploration – camp"
     }
    ]
   }
@@ -1003,7 +1008,7 @@
     {
      "txt": "Géophysique de l’environnement terrain : camp (J. Irving)",
      "sem": "SP",
-     "lien": ""
+     "lien": "Géophysique de l'environnement : camp"
     }
    ]
   }
@@ -1129,12 +1134,12 @@
     {
      "txt": "Géophysique de l’environnement cours (N. Linde)",
      "sem": "SA",
-     "lien": ""
+     "lien": "Géophysique de l'environnement"
     },
     {
      "txt": "Géophysique de l’environnement  terrain (J. Irving)",
      "sem": "SP",
-     "lien": ""
+     "lien": "Géophysique de l'environnement : camp"
     }
    ]
   }

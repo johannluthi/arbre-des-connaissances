@@ -10,6 +10,9 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&display=swap">
 <style>
+tr.grp th{background:var(--navy);color:#fff;text-align:left;padding:12px 16px;font-weight:400;border-top:8px solid var(--ground)}
+tr.grp .gmod{display:block;font-weight:700;font-size:1.02rem}
+tr.grp .gmeta,tr.grp .gnote{display:block;font-size:.84rem;opacity:.85;margin-top:2px}
 #tablewrap[data-v=plan] td:first-child{min-width:300px}
 #tablewrap[data-v=plan] td:nth-child(8){min-width:190px}
 /* Système visuel repris de l'identité Unil (jetons unil.ch) :
@@ -376,8 +379,7 @@ const VIEWS = {
         const nom=`<span class="txt">${esc(p.cours)}</span>`;
         return (p.cours_c && p.nc
           ? `<button type="button" class="lien" data-voir="${esc(p.cours_c)}">${nom}</button>` : nom)
-          + `<span class="sub">${esc(p.module)}</span>`
-          + (p.note && p.type!=='Obligatoire' ? `<span class="sub">${esc(p.note)}</span>` : '');
+          + (VIEWS.plan.sort.k==='ord' ? '' : `<span class="sub">${esc(p.module)}</span>`);
       }},
       {k:'annee', t:'Année', r:p=>esc(p.annee)+`<span class="sub">${esc(p.parcours.length===3?'Les trois orientations':p.parcours.join(' · '))}</span>`},
       {k:'sem', t:'Semestre', r:p=>p.sem ? esc(p.sem) : '<span class="sub">—</span>'},
@@ -392,6 +394,13 @@ const VIEWS = {
     filters: [['parcours','Toutes orientations'],['annee','Toutes années'],['sems','Les deux semestres'],['module','Tous les modules'],
               ['type','Obligatoire ou à choix'],['eval','Toutes évaluations'],['acts','Tous types d’activité'],['statut','Documenté ou non']],
     id: p => p.id,
+    groupe: p => [p.module,p.annee,p.parcours.join()].join('|'),
+    entete: (p,lot) => {
+      const aff = lot.reduce((a,x)=>a+(x.ects||0),0);
+      return `<span class="gmod">${esc(p.module)}</span><span class="gmeta">${esc(p.annee)} année · `+
+        `${esc(p.parcours.length===3?'les trois orientations':p.parcours.join(' · '))} · `+
+        `${p.exiges?`${p.exiges} ECTS exigés`:'ECTS exigés : voir le bloc de 18'}${aff!==p.exiges&&p.exiges?` · ${aff} affichés`:''}</span>`+
+        (p.note?`<span class="gnote">${esc(p.note)}</span>`:''); },
     resume: data => { const e=data.reduce((a,p)=>a+(p.ects||0),0);
       return `${e} ECTS dans la sélection`; },
   },
@@ -555,6 +564,19 @@ function render(){
   const detail = r => ouvert(r)
     ? `<tr class="detail" id="${V.id(r)}-detail"><td colspan="${V.cols.length}">${V.detail(r)}</td></tr>`
     : '';
+  if(V.groupe && V.sort.k==='ord'){
+    let h='', i=0;
+    while(i<data.length){
+      const k=V.groupe(data[i]); let j=i; while(j<data.length && V.groupe(data[j])===k) j++;
+      const lot=data.slice(i,j);
+      h+=`<tr class="grp"><th colspan="${V.cols.length}">${V.entete(lot[0],lot)}</th></tr>`+
+        lot.map(r=>`<tr id="${V.id(r)}">`+V.cols.map(c=>`<td${c.cls?` class="${c.cls}"`:''}>${c.r(r)}</td>`).join('')+'</tr>').join('');
+      i=j; }
+    $('#tbody').innerHTML=h;
+    $('#empty').hidden = data.length>0;
+    $('#count').textContent = `${data.length} / ${V.data.length}`+(V.resume?` · ${V.resume(data)}`:'');
+    return;
+  }
   $('#tbody').innerHTML = data.map(r=>`<tr id="${V.id(r)}"${ouvert(r)?' class="ouvert"':''}>`+
     V.cols.map(c=>`<td${c.cls?` class="${c.cls}"`:''}>${c.r(r)}</td>`).join('')+'</tr>'+detail(r)).join('');
   $('#empty').hidden = data.length>0;

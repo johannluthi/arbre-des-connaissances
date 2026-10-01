@@ -44,19 +44,19 @@
     {
      "txt": "Méthodes quantitatif I (G Guex)",
      "sem": "SA",
-     "lien": ""
+     "lien": "Méthodes quantitatives I : introduction aux principes et statistiques descriptives"
     },
     {
      "txt": "Méthodes quantitatif II (G Guex)",
      "sem": "SP",
-     "lien": ""
+     "lien": "Méthodes quantitatives II : statistiques inférentielles"
     }
    ],
    "a2": [
     {
      "txt": "Méthodes quantitatives III : statistiques multi variées (G Guex)",
      "sem": "SA",
-     "lien": ""
+     "lien": "Méthodes quantitatives III : statistiques multivariées"
     },
     {
      "txt": "Méthodes d’enquête et d’analyse (C. Rozenblat)",
@@ -91,7 +91,7 @@
     {
      "txt": "Mathématiques pour les géosciences (Zuleta / EPFL) - Env+Géol",
      "sem": "SA",
-     "lien": ""
+     "lien": "Mathématiques pour les géosciences"
     },
     {
      "txt": "Géoinformatique I (C. Kaiser)",
@@ -101,34 +101,34 @@
     {
      "txt": "Méthodes quantitatives I (G. Guex)",
      "sem": "SA",
-     "lien": ""
+     "lien": "Méthodes quantitatives I : introduction aux principes et statistiques descriptives"
     },
     {
      "txt": "Méthodes quantitatives II (G. Guex)",
      "sem": "SP",
-     "lien": ""
+     "lien": "Méthodes quantitatives II : statistiques inférentielles"
     },
     {
      "txt": "Physique générale I (F. Carbone / EPFL) - Env+Géol",
      "sem": "SP",
-     "lien": ""
+     "lien": "Physique générale I"
     },
     {
      "txt": "Chimie générale (S. Terrettaz) - Env+Géol",
      "sem": "SP",
-     "lien": ""
+     "lien": "Chimie générale"
     }
    ],
    "a2": [
     {
      "txt": "Modélisation numérique (G. Jouvet) - Env+Géol",
      "sem": "SA",
-     "lien": ""
+     "lien": "Modélisation numérique"
     },
     {
      "txt": "Physique générale II (S. Bréchet /EPFL) - Env+Géol",
      "sem": "SA",
-     "lien": ""
+     "lien": "Physique générale II"
     },
     {
      "txt": "Télédétection (G. Mariéthoz)",
@@ -138,7 +138,7 @@
     {
      "txt": "Analyse vectorielle (P. De Anna) - Env+Géol",
      "sem": "SP",
-     "lien": ""
+     "lien": "Analyse vectorielle"
     }
    ],
    "a3": [
@@ -178,12 +178,12 @@
     {
      "txt": "Méthodes quantitatives I (G Guex)",
      "sem": "SA",
-     "lien": ""
+     "lien": "Méthodes quantitatives I : introduction aux principes et statistiques descriptives"
     },
     {
      "txt": "Méthodes quantitatives II (G Guex)",
      "sem": "SP",
-     "lien": ""
+     "lien": "Méthodes quantitatives II : statistiques inférentielles"
     }
    ],
    "a2": [
@@ -195,7 +195,7 @@
     {
      "txt": "Méthodes quantitatives III (G Guex)",
      "sem": "SA",
-     "lien": ""
+     "lien": "Méthodes quantitatives III : statistiques multivariées"
     },
     {
      "txt": "Levés géomatiques (B. Quintal)",
@@ -241,14 +241,14 @@
     {
      "txt": "Méthodes qualitatives I (R. Kunz)",
      "sem": "SA",
-     "lien": ""
+     "lien": "Introduction aux méthodes qualitatives"
     }
    ],
    "a2": [
     {
      "txt": "Méthodes qualitatives II (L. Chanteloup)",
      "sem": "SA",
-     "lien": ""
+     "lien": "Méthodes qualitatives avancées : méthodes et terrains"
     }
    ],
    "a3": [
@@ -408,7 +408,7 @@
     {
      "txt": "Excursions et cas d’études (C. Arnsperger)",
      "sem": "SP",
-     "lien": ""
+     "lien": "Excursions et cas d'études (GES)"
     }
    ],
    "a2": [
@@ -571,7 +571,7 @@
     {
      "txt": "Dynamiques urbaines (M. Müller + J.S. Cavin)",
      "sem": "SA",
-     "lien": ""
+     "lien": "Dynamiques urbaines (camp de terrain)"
     },
     {
      "txt": "Géographie des mobilités (P. Rérat)",
@@ -634,7 +634,7 @@
     {
      "txt": "Excursions et cas d'études (N. Chèvre)",
      "sem": "SA-SP",
-     "lien": ""
+     "lien": "Excursions et cas d'études (SE)"
     }
    ],
    "a2": [],
@@ -868,7 +868,7 @@
     {
      "txt": "Géochimie environnementale, théorie (J. Marin Carbonne)",
      "sem": "SA",
-     "lien": ""
+     "lien": "Géochimie environnementale"
     },
     {
      "txt": "Introduction à la géochimie isotopique (T. Vennemann)",
@@ -878,7 +878,7 @@
     {
      "txt": "Pétrologie magmatique et métamorphique (P. Lanari (coord.) O. Müntener)",
      "sem": "SA",
-     "lien": ""
+     "lien": "Pétrographie magmatique et métamorphique"
     },
     {
      "txt": "Minéralogie générale (S. Pilet)",
@@ -893,14 +893,14 @@
     {
      "txt": "Camp de pétrologie magmatique (O. Müntener (coord.), S. Pilet)",
      "sem": "SP",
-     "lien": ""
+     "lien": "Camp de pétrologie magmatique"
     }
    ],
    "a3": [
     {
      "txt": "Thermodynamique (O. Müntener)",
      "sem": "SA",
-     "lien": ""
+     "lien": "Thermodynamique et cinétique"
     },
     {
      "txt": "Pétrologie métamorphique, camp (P. Lanari)",
@@ -943,7 +943,7 @@
     {
      "txt": "Camp de pétrologie magmatique (O. Müntener (coord.) S. Pilet)",
      "sem": "SP",
-     "lien": ""
+     "lien": "Camp de pétrologie magmatique"
     },
     {
      "txt": "Camp de stratigraphie et sédimentologie (S. Jaccard)",
@@ -984,7 +984,7 @@
     {
      "txt": "Excursions et cas d'études (N. Chèvre)",
      "sem": "SA-SP",
-     "lien": ""
+     "lien": "Excursions et cas d'études (SE)"
     }
    ],
    "a2": [
@@ -1033,7 +1033,7 @@
     {
      "txt": "Géochimie environnementale théorie (J. MarinCarbonne (coord.) J. Dupeyron)",
      "sem": "SA",
-     "lien": ""
+     "lien": "Géochimie environnementale"
     },
     {
      "txt": "Chimie organique environnementale (M. Keiluweit)",
@@ -1045,7 +1045,7 @@
     {
      "txt": "Introduction à la géochimie isotopique (T. Vennemann (resp.) M. Galvez)",
      "sem": "SA",
-     "lien": ""
+     "lien": "Introduction à la géochimie isotopique"
     },
     {
      "txt": "Hydrochimie et pollution des eaux (J. Berg)",
@@ -1172,7 +1172,7 @@
     {
      "txt": "Hydrauliques, formes et processus fluviaux (S. Lane (coord.), G. Antoniazza)",
      "sem": "SA",
-     "lien": ""
+     "lien": "Hydrauliques, formes et processus fluviaux"
     },
     {
      "txt": "Gestion de l'eau (E. Reynard)",
@@ -1187,7 +1187,7 @@
     {
      "txt": "Ecologie des lacs ou limnologie (M.-E. Perga)",
      "sem": "SP",
-     "lien": ""
+     "lien": "Limnologie"
     }
    ]
   }
@@ -1221,7 +1221,7 @@
     {
      "txt": "Introduction à la géologie alpine (G. Jouvet (resp.) J.-D. Champagnac)",
      "sem": "SP",
-     "lien": ""
+     "lien": "Introduction à la géologie alpine"
     }
    ],
    "a2": [
@@ -1296,7 +1296,7 @@
     {
      "txt": "Regards croisés sur le changement climatique (S. Jaccard (coord.) D. Domeisen J. Steinberger)",
      "sem": "SP",
-     "lien": ""
+     "lien": "Regards croisés sur le changement climatique"
     }
    ],
    "a2": [

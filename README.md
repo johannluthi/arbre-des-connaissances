@@ -134,8 +134,21 @@ figurent au plan d'études, document public de la Faculté.
 Toute personne citée peut demander la modification ou le retrait d'une ligne la concernant,
 par *issue* sur ce dépôt ou par courriel.
 
+## La base de ce dépôt fait référence
+
+Depuis le 1er octobre 2026, `data/arbre.json` et les fichiers CSV sont **la référence** : on les
+modifie directement dans ce dépôt, et la chaîne de consolidation externe ne les régénère plus.
+Le classeur Excel « Arbres des connaissances » n'est plus tenu à jour.
+
+L'onglet « Groupe thématique » se calcule entièrement depuis la base : chaque groupe affiche ses
+enseignements par année, d'après `groupes[].cours`. Deux champs de `groupes[]` portent ce que le
+classeur seul connaissait : `ens` (enseignant·e·s du groupe) et `vitrine` (cours vitrine et
+excursions). Pour rattacher un enseignement à un groupe, ajouter le nom du groupe dans
+`groupes_thematiques` de `enseignements.csv` et de `competences.csv`, puis dans `arbre.json`
+(`enseignements[].groupes`, `competences[].groupes`, `groupes[].cours` et les compteurs du groupe).
+
 ## Régénérer le site
 
-Les fichiers sont produits par une chaîne de dépouillement et de consolidation des réponses
-qui vit hors de ce dépôt. `index.html` embarque ses données : il s'ouvre tel quel, sans serveur
+Le site se construit avec `build_html.py` (`python3 build_html.py` écrit `index.html` ;
+`python3 build_html.py apercu.html` écrit un aperçu sans toucher à `index.html`). `index.html` embarque ses données : il s'ouvre tel quel, sans serveur
 et sans dépendance externe.

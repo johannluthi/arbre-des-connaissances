@@ -2556,6 +2556,57 @@
    ]
   },
   {
+   "id": "ELEMSCIESOCI-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Être capable de présenter les fondements de la recherche en sciences sociales",
+   "cours": "Eléments de sciences sociales",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Julie Pollard",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6,
+   "groupes": [
+    "Géographie sociale et économique"
+   ],
+   "concepts": []
+  },
+  {
+   "id": "ELEMSCIESOCI-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Disposer de connaissances de base en sciences sociales (questionnements, concepts, approches théoriques, autrices et auteurs)",
+   "cours": "Eléments de sciences sociales",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Julie Pollard",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6,
+   "groupes": [
+    "Géographie sociale et économique"
+   ],
+   "concepts": []
+  },
+  {
+   "id": "ELEMSCIESOCI-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Pouvoir rendre compte du poids de la société et du politique sur une série de phénomènes spatiaux et environnementaux",
+   "cours": "Eléments de sciences sociales",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Julie Pollard",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6,
+   "groupes": [
+    "Géographie sociale et économique"
+   ],
+   "concepts": []
+  },
+  {
    "id": "SYSTCOMPORGA-1",
    "cat": "Techniques et informatique",
    "txt": "Savoir traduire une question en un système complexe multi-dimensionnel et multi-niveaux",
@@ -2996,6 +3047,91 @@
     "Gouvernance et politiques",
     "Économie"
    ]
+  },
+  {
+   "id": "POLIENVI-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Acquérir des connaissances empiriques sur les politiques environnementales conduites en Suisse et se situer dans les débats du champ",
+   "cours": "Politiques environnementales",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Julie Pollard",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6,
+   "groupes": [
+    "Sciences humaines et sociales et géographie de l'environnement"
+   ],
+   "concepts": []
+  },
+  {
+   "id": "POLIENVI-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Saisir les spécificités des enjeux environnementaux comme enjeux politiques, et analyser de façon critique les politiques telles que leurs acteur·rice·s les présentent",
+   "cours": "Politiques environnementales",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Julie Pollard",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6,
+   "groupes": [
+    "Sciences humaines et sociales et géographie de l'environnement"
+   ],
+   "concepts": []
+  },
+  {
+   "id": "POLIENVI-3",
+   "cat": "Terrain / Méthodo",
+   "txt": "Articuler collecte de données empiriques et approche analytique, en appliquant les outils de l'analyse des politiques publiques à des cas concrets",
+   "cours": "Politiques environnementales",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Julie Pollard",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6,
+   "groupes": [
+    "Sciences humaines et sociales et géographie de l'environnement"
+   ],
+   "concepts": []
+  },
+  {
+   "id": "POLIENVI-4",
+   "cat": "Soft Skills",
+   "txt": "Savoir s'organiser pour travailler en groupe",
+   "cours": "Politiques environnementales",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Julie Pollard",
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
+   "niv": 6,
+   "groupes": [
+    "Sciences humaines et sociales et géographie de l'environnement"
+   ],
+   "concepts": []
+  },
+  {
+   "id": "POLIENVI-5",
+   "cat": "Soft Skills",
+   "txt": "Pratiquer la discussion entre pairs et avec des intervenant·e·s externes",
+   "cours": "Politiques environnementales",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Julie Pollard",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6,
+   "groupes": [
+    "Sciences humaines et sociales et géographie de l'environnement"
+   ],
+   "concepts": []
   },
   {
    "id": "GEOCENVI-1",
@@ -6598,13 +6734,13 @@
    "resp": "J. Pollard (SSP)",
    "ratt": "UNIL – SSP",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 3,
+   "nval": 3,
    "id": "ELEMSCIESOCI",
    "groupes": [
     "Géographie sociale et économique"
    ],
-   "statut": "À documenter",
+   "statut": "Documenté",
    "concepts": []
   },
   {
@@ -6798,13 +6934,13 @@
    "resp": "J. Pollard (SSP)",
    "ratt": "UNIL – SSP",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 5,
+   "nval": 5,
    "id": "POLIENVI",
    "groupes": [
     "Sciences humaines et sociales et géographie de l'environnement"
    ],
-   "statut": "À documenter",
+   "statut": "Documenté",
    "concepts": []
   },
   {
@@ -8959,7 +9095,7 @@
    ],
    "nens": 7,
    "ects": 27,
-   "ncomp": 23,
+   "ncomp": 26,
    "nparc": 0,
    "cours": [
     {
@@ -9822,7 +9958,7 @@
    ],
    "nens": 8,
    "ects": 33,
-   "ncomp": 22,
+   "ncomp": 27,
    "nparc": 0,
    "cours": [
     {

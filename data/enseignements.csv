@@ -21,7 +21,7 @@ INTRMETHQUAL,Introduction aux méthodes qualitatives,M3 – Méthodes de base (G
 MATHGEOS,Mathématiques pour les géosciences,"M3 – Méthodes de base (SE, Géologie)",Propédeutique,1re,3,K. Zuleta (EPFL),EPFL,,"Mathématiques, informatiques et statistiques",0,0,À documenter
 ELEMECOL,Eléments d'écologie,M4 – Sciences de base (3 orientations),Propédeutique,1re,3,Antoine Guisan,FGSE,,Biologie et écosystèmes terrestre · Sciences naturelles de l'Environnement,3,3,Documenté
 ELEMSCIEECON,Eléments de sciences économiques,"M4 – Sciences de base (GES, SE)",Propédeutique,1re,3,Valérie Boisvert,FGSE,NN,Géographie sociale et économique,3,3,Documenté
-ELEMSCIESOCI,Eléments de sciences sociales,"M4 – Sciences de base (GES, SE)",Propédeutique,1re,3,J. Pollard (SSP),UNIL – SSP,,Géographie sociale et économique,0,0,À documenter
+ELEMSCIESOCI,Eléments de sciences sociales,"M4 – Sciences de base (GES, SE)",Propédeutique,1re,3,J. Pollard (SSP),UNIL – SSP,,Géographie sociale et économique,3,3,Documenté
 MINEGENE,Minéralogie générale,M4 – Sciences de base (Géologie),Propédeutique,1re,3,Sébastien Pilet,FGSE,,"Pétrologie, minéralogie, et géochimie",0,0,À documenter
 MINEOPTI,Minéralogie optique,M4 – Sciences de base (Géologie),Propédeutique,1re,3,Othmar Müntener,FGSE,,"Pétrologie, minéralogie, et géochimie",3,3,Documenté
 GEOGSOCICULT,Géographie sociale et culturelle,M1 – Géographie humaine,"Géographie, environnement et sociétés",2e,6,René Véron,FGSE,L. Chanteloup,Géographie sociale et économique,6,6,Documenté
@@ -30,7 +30,7 @@ GEOGECON,Géographie économique,M1 – Géographie humaine,"Géographie, enviro
 AMENTERR,Aménagement du territoire,M1 – Géographie humaine,"Géographie, environnement et sociétés",2e,6,Gabriela Debrunner,FGSE,,Etudes urbaines et aménagement du territoire,4,4,Documenté
 INTRPENSECOL,Introduction à la pensée écologique,M2 – Durabilité et transition écologique,"Géographie, environnement et sociétés",2e,3,Sara Asu Schroer,FGSE,,Epistémologie · Sciences humaines et sociales et géographie de l'environnement,3,3,Documenté
 GESTSOCIFLUX,Gestion sociale des flux de matière,M2 – Durabilité et transition écologique,"Géographie, environnement et sociétés",2e,6,Julia Steinberger,FGSE,C. Arnsperger,Sciences humaines et sociales et géographie de l'environnement · Systèmes socio-écologiques,4,4,Documenté
-POLIENVI,Politiques environnementales,M2 – Durabilité et transition écologique,"Géographie, environnement et sociétés",2e,6,J. Pollard (SSP),UNIL – SSP,,Sciences humaines et sociales et géographie de l'environnement,0,0,À documenter
+POLIENVI,Politiques environnementales,M2 – Durabilité et transition écologique,"Géographie, environnement et sociétés",2e,6,J. Pollard (SSP),UNIL – SSP,,Sciences humaines et sociales et géographie de l'environnement,5,5,Documenté
 GESTEAU,Gestion de l'eau,M3 – Environnement naturel (GES) ; M5 (SE),"Géographie, environnement et sociétés",2e/3e,3,Emmanuel Reynard,FGSE,,Sciences Aquatique,3,3,Documenté
 GEOMORI,Géomorphologie I,M3 (GES) ; M3 (SE) ; M2 (Géologie),"Géographie, environnement et sociétés",2e,3,Emmanuel Reynard,FGSE,,"Géosphère et environnement terrestre · Sédimentologie, climat, géomorphologie, paléontologie, et histoire de la vie · Sciences naturelles de l'Environnement",3,3,Documenté
 TELEDE,Télédétection,M3 (GES) ; M2 (SE) ; M3 (Géologie),"Géographie, environnement et sociétés",2e,3,Grégoire Mariéthoz,FGSE,,"Mathématiques, informatiques et statistiques",3,3,Documenté

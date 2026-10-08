@@ -2986,6 +2986,60 @@
    ]
   },
   {
+   "id": "DURAMODEVIE-4",
+   "cat": "Soft Skills",
+   "txt": "Collaborer en collectif sur une durée étendue (deux mois)",
+   "cours": "Durabilité et modes de vie",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Christian Arnsperger",
+   "sur": [],
+   "cec": "Autonomie et responsabilité",
+   "niv": 6,
+   "groupes": [
+    "Sciences humaines et sociales et géographie de l'environnement",
+    "Systèmes socio-écologiques"
+   ],
+   "concepts": []
+  },
+  {
+   "id": "DURAMODEVIE-5",
+   "cat": "Soft Skills",
+   "txt": "Défendre des positions en public et en contexte, l'exposé comportant une dimension de jeu de rôle",
+   "cours": "Durabilité et modes de vie",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Christian Arnsperger",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6,
+   "groupes": [
+    "Sciences humaines et sociales et géographie de l'environnement",
+    "Systèmes socio-écologiques"
+   ],
+   "concepts": []
+  },
+  {
+   "id": "DURAMODEVIE-6",
+   "cat": "Soft Skills",
+   "txt": "Traduire des notions théoriques générales en recommandations concrètes sur un domaine spécifique",
+   "cours": "Durabilité et modes de vie",
+   "orient": "Géographie, environnement et sociétés",
+   "annee": "3e",
+   "statut": "Validé",
+   "par": "Christian Arnsperger",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6,
+   "groupes": [
+    "Sciences humaines et sociales et géographie de l'environnement",
+    "Systèmes socio-écologiques"
+   ],
+   "concepts": []
+  },
+  {
    "id": "ELEMECONECOL-1",
    "cat": "Connaissances disciplinaires",
    "txt": "Connaitre les fondements (épistémologiques, théoriques et méthodologiques) de l'économie écologique",
@@ -7322,8 +7376,8 @@
    "resp": "Christian Arnsperger",
    "ratt": "FGSE",
    "autres": "",
-   "n": 3,
-   "nval": 3,
+   "n": 6,
+   "nval": 6,
    "id": "DURAMODEVIE",
    "groupes": [
     "Sciences humaines et sociales et géographie de l'environnement",
@@ -9958,7 +10012,7 @@
    ],
    "nens": 8,
    "ects": 33,
-   "ncomp": 27,
+   "ncomp": 30,
    "nparc": 0,
    "cours": [
     {
@@ -10196,7 +10250,7 @@
    ],
    "nens": 5,
    "ects": 21,
-   "ncomp": 16,
+   "ncomp": 19,
    "nparc": 0,
    "cours": [
     {

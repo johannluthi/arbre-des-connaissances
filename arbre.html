@@ -102,6 +102,13 @@ nav.tabs button{font:inherit;font-size:1rem;font-weight:700;background:none;bord
 nav.tabs button:hover{color:var(--ink)}
 nav.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--blue)}
 nav.tabs button:focus-visible{outline:0;box-shadow:var(--ring)}
+a.proposer{margin-left:auto;align-self:center;font-size:.85rem;font-weight:700;text-decoration:none;
+  color:var(--ink);background:var(--surface);border:2px solid var(--ink);border-radius:var(--r);
+  padding:7px 14px;white-space:nowrap}
+a.proposer:hover{background:var(--blue);border-color:var(--blue);color:var(--on-blue)}
+a.proposer:focus-visible{outline:0;box-shadow:var(--ring)}
+@media (max-width:720px){a.proposer{margin:8px 0 10px;align-self:flex-start}
+  nav.tabs{flex-wrap:wrap}}
 
 /* ---- outils ---- */
 .tools{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:16px}
@@ -255,6 +262,7 @@ footer .note{flex-basis:100%;color:#8ce0ff;font-size:.8rem}
   <button role="tab" data-tab="progression" aria-selected="false">Progression</button>
   <button role="tab" data-tab="matrice" aria-selected="false">Matrice</button>
   <button role="tab" data-tab="parcours" aria-selected="false">Parcours</button>
+  <a class="proposer" id="proposer" href="mailto:johann.luthi@unil.ch">Proposer une modification</a>
 </nav>
 
 <div id="tools" class="tools"></div>
@@ -636,6 +644,17 @@ function cleDepuisAncre(h){
     .replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');
   return ONGLET[s] || null;
 }
+function majProposer(){
+  const a=document.getElementById('proposer'); if(!a) return;
+  const b=[...document.querySelectorAll('nav.tabs button')].find(x=>x.dataset.tab===cur);
+  const onglet=b ? b.textContent.trim() : cur;
+  const adresse=location.href.split('#')[0]+'#'+(ANCRE[cur]||cur);
+  const sujet="Arbre des connaissances : proposition de modification ("+onglet+")";
+  const corps="Bonjour Johann,\n\nJe propose la modification suivante dans l'arbre des connaissances.\n\n"
+    +"Onglet : "+onglet+"\nPage : "+adresse+"\n\n"
+    +"Enseignement concerné :\n\nCe qu'il faudrait corriger ou ajouter :\n\n\nBien à toi,\n";
+  a.href="mailto:johann.luthi@unil.ch?subject="+encodeURIComponent(sujet)+"&body="+encodeURIComponent(corps);
+}
 function activer(t, ecrireAncre=true){
   cur=t;
   document.querySelectorAll('nav.tabs button').forEach(x=>x.setAttribute('aria-selected', String(x.dataset.tab===t)));
@@ -643,6 +662,7 @@ function activer(t, ecrireAncre=true){
     const h='#'+(ANCRE[t]||t);
     if(location.hash!==h) history.replaceState(null,'',h);
   }
+  majProposer();
   buildTools(); render();
 }
 document.querySelectorAll('nav.tabs button').forEach(b=>b.addEventListener('click',()=>activer(b.dataset.tab)));

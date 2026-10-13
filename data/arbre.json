@@ -6120,6 +6120,40 @@
    "concepts": [
     "Communication"
    ]
+  },
+  {
+   "id": "PRINSCIEATMO-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Comprendre et décrire le fonctionnement de l'atmosphère et les processus importants pour le climat et le temps",
+   "cours": "Principes de la science atmosphérique",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Daniela Domeisen",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6,
+   "groupes": [
+    "Climat et changement globaux"
+   ],
+   "concepts": []
+  },
+  {
+   "id": "PRINSCIEATMO-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Mobiliser les équations fondamentales de l'atmosphère : équation pression hydrostatique, formule barométrique, altitude géopotentielle, équations d'état de l'air sec et humide, équations des gaz, humidité, force de Coriolis, gradient de pression",
+   "cours": "Principes de la science atmosphérique",
+   "orient": "Sciences de l'environnement",
+   "annee": "2e",
+   "statut": "Validé",
+   "par": "Daniela Domeisen",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6,
+   "groupes": [
+    "Climat et changement globaux"
+   ],
+   "concepts": []
   }
  ],
  "enseignements": [
@@ -7693,13 +7727,13 @@
    "resp": "Daniela Domeisen",
    "ratt": "FGSE",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 2,
+   "nval": 2,
    "id": "PRINSCIEATMO",
    "groupes": [
     "Climat et changement globaux"
    ],
-   "statut": "À documenter",
+   "statut": "Documenté",
    "concepts": []
   },
   {
@@ -8916,7 +8950,7 @@
    ],
    "nens": 5,
    "ects": 18,
-   "ncomp": 16,
+   "ncomp": 18,
    "nparc": 0,
    "cours": [
     {
@@ -8933,7 +8967,7 @@
      "resp": "Daniela Domeisen",
      "annee": "2e",
      "orient": "Sciences de l'environnement",
-     "n": 0
+     "n": 2
     },
     {
      "id": "CHANENVIQUAT",

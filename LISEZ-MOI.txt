@@ -1,0 +1,22 @@
+Arbre des connaissances — Bachelor FGSE
+=======================================
+
+Adresse publique : https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/
+
+Cycle de publication
+--------------------
+1. Modifier les données : data/arbre.json (et les CSV, qui doivent rester cohérents)
+2. Régénérer la page    : python3 build_html.py        →  écrit arbre.html
+3. Commit et push       : git add -A && git commit && git push
+4. DÉPOSER PAR FTP      : arbre.html, sous le nom index.html, dans le dossier
+                          /quiz-rentree-fgse/arbre/ du serveur UNIL
+   Sans cette quatrième étape, la page que lisent les enseignant·e·s ne change pas.
+
+index.html, à la racine du dépôt, n'est plus la page : c'est la redirection de l'ancienne
+adresse GitHub Pages (johannluthi.github.io/arbre-des-connaissances) vers l'adresse UNIL.
+Ne pas l'écraser.
+
+Règle de fond
+-------------
+Toute compétence publiée est rédigée ou approuvée par l'enseignant·e responsable du cours.
+Le champ "valide_par" dit par qui, et rien n'entre dans l'arbre sans cet accord.

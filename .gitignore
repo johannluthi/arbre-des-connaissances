@@ -1,2 +1,7 @@
 .DS_Store
 build_html.py
+
+# Données personnelles : thèmes d'encadrement et disponibilité de 57 collègues.
+# Ne doivent jamais partir sur GitHub (dépôt public). Ajouté le 13.10.2026.
+data/enseignants.json
+data/enseignants_source.xlsx

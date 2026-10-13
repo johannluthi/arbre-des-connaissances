@@ -33,13 +33,13 @@ mod([GES], "1re", B2+" (bloc Géographie, environnement et sociétés)", 3, [
 ], 18)
 mod([SE], "1re", B2+" (bloc Sciences de l’environnement)", 3, [
  ("Systèmes énergétiques", "S. Yilmaz", 3, [ECR+" (2h)"], "13C 13S", "O"),
- ("Chimie générale", "S. Terrettaz / EPFL", 3, [ECR+" (2h)"], "26C 13E", "O"),
+ ("Chimie générale", "S. Terrettaz / EPFL", 3, [ECR+" (2h)"], "26C 13TP", "O"),
  ("Physique générale I", "R. Trappitsch / EPFL", 3, [ECR+" (2h)"], "22C 22E", "O"),
  ("Excursions et cas d’études", "N. Chèvre (coord.), M.-E. Perga, S. Lane, P. Vittoz", 3, [PRA], "8T 16T", "O"),
  ("Introduction à la géologie alpine", "G. Jouvet (resp.), J.-D. Champagnac", 3, [PRA, ECR+" (1h)"], "8C 8TP 16T", "O"),
 ], 18)
 mod([GEO], "1re", B2+" (bloc Géologie)", 4, [
- ("Chimie générale", "S. Terrettaz / EPFL", 3, [ECR+" (2h)"], "26C 13E", "O"),
+ ("Chimie générale", "S. Terrettaz / EPFL", 3, [ECR+" (2h)"], "26C 13TP", "O"),
  ("Physique générale I", "R. Trappitsch / EPFL", 3, [ECR+" (2h)"], "22C 22E", "O"),
  ("Géologie régionale", "P. Lanari (coord.), S. Schmalholz", 3, [PRA, ORA], "16C 16T", "O"),
  ("Camp de terrain en géologie", "S. Schmalholz (coord.), A. Daley, A. Samsu", 3, [PRA], "75T", "O"),
@@ -54,7 +54,7 @@ mod(TOUS, "1re", "Module 3 – Méthodes de base", 4, [
  ("Géoinformatique I", "C. Kaiser", 6, [ORA], "52CTP", "O"),
 ], 15, "Communs aux trois orientations ; 15 ECTS en tout avec la ligne propre à l’orientation.")
 mod([GES], "1re", "Module 3 – Méthodes de base (propre à Géographie, environnement et sociétés)", 4, [
- ("Introduction aux méthodes qualitatives", "R. Kunz / SSP", 3, [CCI], "26C", "O"),
+ ("Introduction aux méthodes qualitatives", "R. Kunz (resp.), A. Fal-Dutra Santos, C. Danalet / SSP", 3, [CCI], "26C", "O"),
 ], 15)
 mod([SE, GEO], "1re", "Module 3 – Méthodes de base (propre à Sciences de l’environnement et Géologie)", 4, [
  ("Mathématiques pour les géosciences", "K. Zuleta / EPFL", 3, [ECR+" (2h)"], "26C 26E", "O"),
@@ -233,8 +233,8 @@ mod(Y, "3e", "Module 8 – Travail de Bachelor", 11, [
 ], 9, "Une seule note pour 9 ECTS, donnée par la personne qui supervise le travail.")
 mod(Y, "2e/3e", "Module 9 – Module à choix libre", 12, [
  ("Enseignements à choix libre", "", 9, [], "", "L"),
- ("Introduction à la météorologie", "FGSE", 3, [], "", "L"),
-], 9, "Enseignements à choisir dans les autres orientations, d’autres facultés ou universités. Liste proposée à l’automne : Micropaléontologie (UNIGE), Introduction à la météorologie, Ressources minérales (UNIGE), Gestion de l’eau, Méthodes quantitatives III, Pédologie, Hydrauliques, formes et processus fluviaux, Hydrologie, Droit de l’environnement, Écotoxicologie, Hydrochimie et pollution des eaux, Écologie végétale.")
+ ("Principes de la science atmosphérique", "D. Domeisen", 3, [], "", "L"),
+], 9, "Enseignements à choisir dans les autres orientations, d’autres facultés ou universités. Liste proposée à l’automne : Micropaléontologie (UNIGE), Principes de la science atmosphérique, Ressources minérales (UNIGE), Gestion de l’eau, Méthodes quantitatives III, Pédologie, Hydrauliques, formes et processus fluviaux, Hydrologie, Droit de l’environnement, Écotoxicologie, Hydrochimie et pollution des eaux, Écologie végétale.")
 
 ALIAS = {('Dynamiques urbaines', '3e'): 'DYNAURBACAM',
          ('Pétrologie magmatique et métamorphique', '3e'): 'PETRMAGMAVA'}

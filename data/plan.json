@@ -213,10 +213,10 @@
   "annee": "1re",
   "type": "Obligatoire",
   "sem": "Printemps",
-  "heures": "26C 13E",
+  "heures": "26C 13TP",
   "acts": [
    "C",
-   "E"
+   "TP"
   ],
   "eval": [
    "Écrite"
@@ -323,10 +323,10 @@
   "annee": "1re",
   "type": "Obligatoire",
   "sem": "Printemps",
-  "heures": "26C 13E",
+  "heures": "26C 13TP",
   "acts": [
    "C",
-   "E"
+   "TP"
   ],
   "eval": [
    "Écrite"
@@ -587,7 +587,7 @@
    "CCi"
   ],
   "ects": 3,
-  "ens": "R. Kunz / SSP",
+  "ens": "R. Kunz (resp.), A. Fal-Dutra Santos, C. Danalet / SSP",
   "exiges": 15,
   "note": ""
  },
@@ -3452,11 +3452,11 @@
   "ects": 9,
   "ens": "",
   "exiges": 9,
-  "note": "Enseignements à choisir dans les autres orientations, d’autres facultés ou universités. Liste proposée à l’automne : Micropaléontologie (UNIGE), Introduction à la météorologie, Ressources minérales (UNIGE), Gestion de l’eau, Méthodes quantitatives III, Pédologie, Hydrauliques, formes et processus fluviaux, Hydrologie, Droit de l’environnement, Écotoxicologie, Hydrochimie et pollution des eaux, Écologie végétale."
+  "note": "Enseignements à choisir dans les autres orientations, d’autres facultés ou universités. Liste proposée à l’automne : Micropaléontologie (UNIGE), Principes de la science atmosphérique, Ressources minérales (UNIGE), Gestion de l’eau, Méthodes quantitatives III, Pédologie, Hydrauliques, formes et processus fluviaux, Hydrologie, Droit de l’environnement, Écotoxicologie, Hydrochimie et pollution des eaux, Écologie végétale."
  },
  {
   "id": "P129",
-  "cours": "Introduction à la météorologie",
+  "cours": "Principes de la science atmosphérique",
   "eid": "INTRMETE",
   "module": "Module 9 – Module à choix libre",
   "parcours": [
@@ -3470,8 +3470,8 @@
   "eval": [],
   "eval_det": [],
   "ects": 3,
-  "ens": "FGSE",
+  "ens": "D. Domeisen",
   "exiges": 9,
-  "note": "Enseignements à choisir dans les autres orientations, d’autres facultés ou universités. Liste proposée à l’automne : Micropaléontologie (UNIGE), Introduction à la météorologie, Ressources minérales (UNIGE), Gestion de l’eau, Méthodes quantitatives III, Pédologie, Hydrauliques, formes et processus fluviaux, Hydrologie, Droit de l’environnement, Écotoxicologie, Hydrochimie et pollution des eaux, Écologie végétale."
+  "note": "Enseignements à choisir dans les autres orientations, d’autres facultés ou universités. Liste proposée à l’automne : Micropaléontologie (UNIGE), Principes de la science atmosphérique, Ressources minérales (UNIGE), Gestion de l’eau, Méthodes quantitatives III, Pédologie, Hydrauliques, formes et processus fluviaux, Hydrologie, Droit de l’environnement, Écotoxicologie, Hydrochimie et pollution des eaux, Écologie végétale."
  }
 ]

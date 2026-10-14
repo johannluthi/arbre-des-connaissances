@@ -482,7 +482,7 @@
   "id": "P018",
   "cours": "Méthodes quantitatives I : introduction aux principes et statistiques descriptives",
   "eid": "METHQUANINTRI",
-  "module": "Module 3 – Méthodes de base",
+  "module": "Module 3 – Méthodes de base (commun aux trois blocs)",
   "parcours": [
    "Géographie, environnement et sociétés",
    "Sciences de l'environnement",
@@ -511,7 +511,7 @@
   "id": "P019",
   "cours": "Méthodes quantitatives II : statistiques inférentielles",
   "eid": "METHQUANSTATII",
-  "module": "Module 3 – Méthodes de base",
+  "module": "Module 3 – Méthodes de base (commun aux trois blocs)",
   "parcours": [
    "Géographie, environnement et sociétés",
    "Sciences de l'environnement",
@@ -540,7 +540,7 @@
   "id": "P020",
   "cours": "Géoinformatique I",
   "eid": "GEOINFI",
-  "module": "Module 3 – Méthodes de base",
+  "module": "Module 3 – Méthodes de base (commun aux trois blocs)",
   "parcours": [
    "Géographie, environnement et sociétés",
    "Sciences de l'environnement",
@@ -3469,7 +3469,7 @@
   "acts": [],
   "eval": [],
   "eval_det": [],
-  "ects": 3,
+  "ects": 6,
   "ens": "D. Domeisen",
   "exiges": 9,
   "note": "Enseignements à choisir dans les autres orientations, d’autres facultés ou universités. Liste proposée à l’automne : Micropaléontologie (UNIGE), Principes de la science atmosphérique, Ressources minérales (UNIGE), Gestion de l’eau, Méthodes quantitatives III, Pédologie, Hydrauliques, formes et processus fluviaux, Hydrologie, Droit de l’environnement, Écotoxicologie, Hydrochimie et pollution des eaux, Écologie végétale."

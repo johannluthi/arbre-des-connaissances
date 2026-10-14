@@ -48,7 +48,7 @@ mod([GEO], "1re", B2+" (bloc Géologie)", 4, [
 mod(TOUS, "1re", B2+" (commun aux trois blocs)", 3, [
  ("Regards croisés sur le changement climatique", "S. Jaccard (coord.), D. Domeisen, J. Steinberger", 3, [ECR+" (2h)"], "26C", "O"),
 ], 0, "Fait partie du bloc de 18 ECTS de chacune des trois orientations.")
-mod(TOUS, "1re", "Module 3 – Méthodes de base", 4, [
+mod(TOUS, "1re", "Module 3 – Méthodes de base (commun aux trois blocs)", 4, [
  ("Méthodes quantitatives I : introduction aux principes et statistiques descriptives", "G. Guex", 3, [CCI], "26C 13TP", "O"),
  ("Méthodes quantitatives II : statistiques inférentielles", "G. Guex", 3, [CCI], "26C 13TP", "O"),
  ("Géoinformatique I", "C. Kaiser", 6, [ORA], "52CTP", "O"),
@@ -233,7 +233,7 @@ mod(Y, "3e", "Module 8 – Travail de Bachelor", 11, [
 ], 9, "Une seule note pour 9 ECTS, donnée par la personne qui supervise le travail.")
 mod(Y, "2e/3e", "Module 9 – Module à choix libre", 12, [
  ("Enseignements à choix libre", "", 9, [], "", "L"),
- ("Principes de la science atmosphérique", "D. Domeisen", 3, [], "", "L"),
+ ("Principes de la science atmosphérique", "D. Domeisen", 6, [], "", "L"),
 ], 9, "Enseignements à choisir dans les autres orientations, d’autres facultés ou universités. Liste proposée à l’automne : Micropaléontologie (UNIGE), Principes de la science atmosphérique, Ressources minérales (UNIGE), Gestion de l’eau, Méthodes quantitatives III, Pédologie, Hydrauliques, formes et processus fluviaux, Hydrologie, Droit de l’environnement, Écotoxicologie, Hydrochimie et pollution des eaux, Écologie végétale.")
 
 ALIAS = {('Dynamiques urbaines', '3e'): 'DYNAURBACAM',

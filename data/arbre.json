@@ -6154,6 +6154,142 @@
     "Climat et changement globaux"
    ],
    "concepts": []
+  },
+  {
+   "id": "MATHGEOS-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Dériver et intégrer des fonctions d'une variable réelle",
+   "cours": "Mathématiques pour les géosciences",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Katarzyna Zuleta Estrugo",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6,
+   "groupes": [
+    "Mathématiques, informatiques et statistiques"
+   ],
+   "concepts": []
+  },
+  {
+   "id": "MATHGEOS-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Résoudre des équations différentielles",
+   "cours": "Mathématiques pour les géosciences",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Katarzyna Zuleta Estrugo",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6,
+   "groupes": [
+    "Mathématiques, informatiques et statistiques"
+   ],
+   "concepts": []
+  },
+  {
+   "id": "MATHGEOS-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Résoudre des systèmes d'équations linéaires",
+   "cours": "Mathématiques pour les géosciences",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Katarzyna Zuleta Estrugo",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6,
+   "groupes": [
+    "Mathématiques, informatiques et statistiques"
+   ],
+   "concepts": []
+  },
+  {
+   "id": "MATHGEOS-4",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Calculer l'inverse et le déterminant d'une matrice, et déterminer ses valeurs propres et ses espaces propres",
+   "cours": "Mathématiques pour les géosciences",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Katarzyna Zuleta Estrugo",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6,
+   "groupes": [
+    "Mathématiques, informatiques et statistiques"
+   ],
+   "concepts": []
+  },
+  {
+   "id": "CHIMGENE-1",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Connaître la structure atomique et moléculaire de la matière et la relier à certaines propriétés macroscopiques",
+   "cours": "Chimie générale",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Samuel Terrettaz",
+   "sur": [],
+   "cec": "Savoirs",
+   "niv": 6,
+   "groupes": [
+    "Chimie de l'environnement"
+   ],
+   "concepts": []
+  },
+  {
+   "id": "CHIMGENE-2",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Caractériser une réaction chimique à partir des principes de conservation de la matière et de l'énergie",
+   "cours": "Chimie générale",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Samuel Terrettaz",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6,
+   "groupes": [
+    "Chimie de l'environnement"
+   ],
+   "concepts": []
+  },
+  {
+   "id": "CHIMGENE-3",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Utiliser les lois de vitesse pour suivre le déroulement d'une réaction chimique et, dans des cas simples, les relier à un mécanisme réactionnel",
+   "cours": "Chimie générale",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Samuel Terrettaz",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6,
+   "groupes": [
+    "Chimie de l'environnement"
+   ],
+   "concepts": []
+  },
+  {
+   "id": "CHIMGENE-4",
+   "cat": "Connaissances disciplinaires",
+   "txt": "Résoudre, par le raisonnement et par le calcul, des exercices pratiques de chimie quantitative",
+   "cours": "Chimie générale",
+   "orient": "Propédeutique",
+   "annee": "1re",
+   "statut": "Validé",
+   "par": "Samuel Terrettaz",
+   "sur": [],
+   "cec": "Aptitudes",
+   "niv": 6,
+   "groupes": [
+    "Chimie de l'environnement"
+   ],
+   "concepts": []
   }
  ],
  "enseignements": [
@@ -6514,13 +6650,13 @@
    "resp": "S. Terrettaz (EPFL)",
    "ratt": "EPFL",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 4,
+   "nval": 4,
    "id": "CHIMGENE",
    "groupes": [
     "Chimie de l'environnement"
    ],
-   "statut": "À documenter",
+   "statut": "Documenté",
    "concepts": []
   },
   {
@@ -6757,13 +6893,13 @@
    "resp": "K. Zuleta (EPFL)",
    "ratt": "EPFL",
    "autres": "",
-   "n": 0,
-   "nval": 0,
+   "n": 4,
+   "nval": 4,
    "id": "MATHGEOS",
    "groupes": [
     "Mathématiques, informatiques et statistiques"
    ],
-   "statut": "À documenter",
+   "statut": "Documenté",
    "concepts": []
   },
   {
@@ -8876,7 +9012,7 @@
    ],
    "nens": 6,
    "ects": 18,
-   "ncomp": 26,
+   "ncomp": 30,
    "nparc": 0,
    "cours": [
     {
@@ -8885,7 +9021,7 @@
      "resp": "S. Terrettaz (EPFL)",
      "annee": "1re",
      "orient": "Propédeutique",
-     "n": 0
+     "n": 4
     },
     {
      "id": "GEOCENVI",
@@ -9579,7 +9715,7 @@
    ],
    "nens": 11,
    "ects": 36,
-   "ncomp": 38,
+   "ncomp": 42,
    "nparc": 0,
    "cours": [
     {
@@ -9612,7 +9748,7 @@
      "resp": "K. Zuleta (EPFL)",
      "annee": "1re",
      "orient": "Propédeutique",
-     "n": 0
+     "n": 4
     },
     {
      "id": "TELEDE",

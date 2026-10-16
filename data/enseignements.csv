@@ -7,7 +7,7 @@ PENSGEOG,La pensée géographique,M2 – Préparation à une orientation (GES),P
 EXCUCASGES,Excursions et cas d'études (GES),M2 – Préparation à une orientation (GES),Propédeutique,1re,3,Christian Arnsperger,FGSE,,Camps de terrain,3,3,Documenté
 REGACROICHAN,Regards croisés sur le changement climatique,M2 – Préparation à une orientation (les 3 blocs),Propédeutique,1re,3,Samuel Jaccard,FGSE,D. Domeisen ; J. Steinberger,Climat et changement globaux · Sciences naturelles de l'Environnement,3,3,Documenté
 SYSTENER,Systèmes énergétiques,M2 (SE) ; M6 – Transition écologique (GES),Propédeutique,1re/3e,3,Selin Yilmaz,FGSE,,Systèmes socio-écologiques,3,3,Documenté
-CHIMGENE,Chimie générale,"M2 – Préparation à une orientation (SE, Géologie)",Propédeutique,1re,3,S. Terrettaz (EPFL),EPFL,,Chimie de l'environnement,0,0,À documenter
+CHIMGENE,Chimie générale,"M2 – Préparation à une orientation (SE, Géologie)",Propédeutique,1re,3,S. Terrettaz (EPFL),EPFL,,Chimie de l'environnement,4,4,Documenté
 PHYSGENEI,Physique générale I,"M2 – Préparation à une orientation (SE, Géologie)",Propédeutique,1re,3,R. Trappitsch (EPFL),EPFL,,Physique de l'environnement,0,0,À documenter
 EXCUCASSE,Excursions et cas d'études (SE),M2 – Préparation à une orientation (SE),Propédeutique,1re,3,Nathalie Chèvre,FGSE,M.-E. Perga ; S. Lane ; P. Vittoz,Camps de terrain · Sciences Aquatique,3,3,Documenté
 INTRGEOLALPI,Introduction à la géologie alpine,M2 – Préparation à une orientation (SE),Propédeutique,1re,3,Guillaume Jouvet,FGSE,J.-D. Champagnac,"Géologie structurale et tectonique, chaînes de montagnes",5,5,Documenté
@@ -18,7 +18,7 @@ METHQUANINTRI,Méthodes quantitatives I : introduction aux principes et statisti
 METHQUANSTATII,Méthodes quantitatives II : statistiques inférentielles,M3 – Méthodes de base (3 orientations),Propédeutique,1re,3,Guillaume Guex,FGSE,,"Mathématiques, informatiques et statistiques",3,3,Documenté
 GEOINFI,Géoinformatique I,M3 – Méthodes de base (3 orientations),Propédeutique,1re,6,Christian Kaiser,FGSE,,"Mathématiques, informatiques et statistiques",0,0,À documenter
 INTRMETHQUAL,Introduction aux méthodes qualitatives,M3 – Méthodes de base (GES),Propédeutique,1re,3,R. Kunz (SSP),UNIL – SSP,,Méthodes Qualitatives,0,0,À documenter
-MATHGEOS,Mathématiques pour les géosciences,"M3 – Méthodes de base (SE, Géologie)",Propédeutique,1re,3,K. Zuleta (EPFL),EPFL,,"Mathématiques, informatiques et statistiques",0,0,À documenter
+MATHGEOS,Mathématiques pour les géosciences,"M3 – Méthodes de base (SE, Géologie)",Propédeutique,1re,3,K. Zuleta (EPFL),EPFL,,"Mathématiques, informatiques et statistiques",4,4,Documenté
 ELEMECOL,Eléments d'écologie,M4 – Sciences de base (3 orientations),Propédeutique,1re,3,Antoine Guisan,FGSE,,Biologie et écosystèmes terrestre · Sciences naturelles de l'Environnement,3,3,Documenté
 ELEMSCIEECON,Eléments de sciences économiques,"M4 – Sciences de base (GES, SE)",Propédeutique,1re,3,Valérie Boisvert,FGSE,NN,Géographie sociale et économique,3,3,Documenté
 ELEMSCIESOCI,Eléments de sciences sociales,"M4 – Sciences de base (GES, SE)",Propédeutique,1re,3,J. Pollard (SSP),UNIL – SSP,,Géographie sociale et économique,3,3,Documenté
